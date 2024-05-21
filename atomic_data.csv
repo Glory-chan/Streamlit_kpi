@@ -1,0 +1,1001 @@
+Transaction ID,Customer Name,Product Name,Quantity,Unit Price,Transaction Date,Country,City,Payment Method,Shipping Method,Status
+16f7ec1d-0842-4e4a-95fb-58a75b180025,Thomas Thompson,doctor,8,328.66,2024-02-06 14:11:18.809180,Fiji,Kellymouth,Credit Card,Standard,Pending
+595ea6c1-d412-4f0c-8d15-4cfedd14f8d6,Robert Garcia,pick,6,863.74,2024-03-19 03:35:40.828135,Tunisia,Fullermouth,Cash,Express,Delivered
+2f25ad75-9e8e-4c71-a831-ea497b447afb,Lisa Anderson,authority,3,92.82,2024-04-25 10:05:36.077326,Mali,Jonathanland,Cash,Express,Delivered
+96f77f70-0d30-4ac2-b861-fcb99e1273ac,Danielle Maxwell,cost,4,271.63,2024-04-21 12:37:56.637752,Tunisia,East Barbarastad,PayPal,Express,Pending
+5134df73-6667-4af5-958e-dc36f1304012,Brenda Nolan,compare,6,970.26,2024-03-08 11:20:25.233514,Comoros,Port Dustin,PayPal,Standard,Delivered
+fa7dc85d-3ea4-4fea-94d7-c3328e54d165,Susan Jones,prove,7,129.1,2024-05-02 22:50:22.945790,Luxembourg,New Nancystad,Cash,Standard,Delivered
+68193da8-d941-4cc0-86ab-f59b8cecc382,Erica Roberts,great,9,781.36,2024-04-23 00:13:34.473611,Taiwan,West Julieside,Credit Card,Standard,Pending
+ac327060-84f4-4fe9-800f-391218c20944,Stephanie Wright,top,7,932.52,2024-04-25 10:03:42.817810,French Guiana,West Carlaburgh,Credit Card,Express,Shipped
+d2da58be-5d9e-43a4-9a1f-18114c8e8bdf,Derek Howard,trip,10,880.94,2024-02-13 16:46:51.645589,Kyrgyz Republic,Lake Christopher,Credit Card,Standard,Processing
+12b874c7-c9c2-46b7-be71-2dbdbf864de2,Shawn Moore,couple,4,131.87,2024-02-29 16:10:17.761788,Russian Federation,North Ericborough,PayPal,Express,Pending
+b0a7cb7b-57eb-4357-81e2-e34d0ece2ce3,Elizabeth Thomas,control,10,466.72,2024-04-06 00:55:16.689311,Denmark,Port Lisaside,Cash,Express,Delivered
+2b8cf1b1-5fa5-4253-b94b-fb005cca96c5,Patrick Brown,fish,1,280.5,2024-03-17 23:44:35.432089,Palestinian Territory,New Howard,Cash,Express,Processing
+2505f98c-fbea-4964-b3db-b8cb733a3410,Shelby Jones,their,7,656.15,2024-04-25 17:18:24.526890,American Samoa,Lake Mitchellborough,PayPal,Express,Shipped
+bcd0a05a-f17d-4321-93ae-f7c5e4a71188,Russell Howell,control,9,44.18,2024-01-12 16:54:40.680149,France,South Richard,Cash,Standard,Shipped
+46a842c2-4eeb-40ad-8796-4c7f53c09000,Scott Lopez,pull,6,70.3,2024-03-20 10:22:59.934813,Rwanda,Shieldsmouth,Cash,Standard,Shipped
+091c142d-b09f-440d-9738-9abed3907a14,Johnny Stevens,sport,7,666.07,2024-02-26 14:34:53.409952,Singapore,Phillipsburgh,PayPal,Express,Delivered
+1a8384ce-e57f-42b1-84d0-bb8169fee718,Kendra Baxter,with,5,99.86,2024-04-13 13:03:48.637305,Samoa,Carrollview,PayPal,Express,Delivered
+e69793b8-5796-4afe-b8cc-c42f54e99eaf,Jennifer Bennett,too,2,276.06,2024-01-24 09:29:34.251434,Swaziland,East Sabrinamouth,PayPal,Express,Processing
+47599ffd-eddf-485f-a5ac-375b93cd2016,Jeremy Ramirez,be,1,506.3,2024-01-22 20:50:14.278877,Lithuania,South Kennethton,PayPal,Express,Delivered
+569c5795-36af-4679-905a-292cac8a96a5,Megan Norton,article,2,90.67,2024-02-21 12:46:19.107729,Djibouti,Port Carla,PayPal,Standard,Shipped
+239fcbe5-911f-4a5f-871d-ea74804ee3d9,Rhonda Smith,the,1,458.74,2024-04-12 10:33:41.353381,Antigua and Barbuda,Lake Christineberg,Cash,Standard,Pending
+db38f41d-cd7d-4572-b1b3-130712894a49,Linda Green,war,1,133.13,2024-02-05 11:15:59.986846,Qatar,East Natashafurt,PayPal,Express,Processing
+ae70cc90-0afe-4a41-98b7-f6a8e0b7be3e,Steven Davis,four,9,883.44,2024-04-19 07:30:57.480339,Austria,Joshuaborough,PayPal,Standard,Pending
+31694f4d-fb7d-4fcd-82d0-5f4c3afdb852,Brent Luna,central,9,230.01,2024-01-18 20:23:41.460375,Northern Mariana Islands,West Laura,Credit Card,Express,Processing
+b57a4d2b-a922-4fe8-b696-9cca593ee5fa,Manuel Molina,hour,4,857.61,2024-02-24 10:49:54.953283,Oman,Grantton,Cash,Standard,Delivered
+6e2e162d-d82e-4542-8ad7-ad72105ef219,Alyssa Schultz,since,5,769.95,2024-02-22 17:33:02.614779,Malaysia,Port Melissa,Cash,Standard,Pending
+b0e7c49c-1d58-4ff3-a217-540db9e4bad4,Tamara Ramsey,generation,1,85.33,2024-04-07 08:15:54.130809,Sierra Leone,South Jessicaton,Cash,Express,Delivered
+acf3d0fe-f4d9-4620-8f46-28418736daca,Mitchell Hodges,appear,9,61.64,2024-01-11 03:20:04.867133,Tajikistan,Philipview,PayPal,Standard,Shipped
+c2767167-96a9-4d10-8392-82d34470aac2,Erik Ellis,practice,5,824.11,2024-03-15 02:08:13.398324,Isle of Man,Wallershire,Cash,Standard,Pending
+743f016a-5831-40b6-b4ab-fad0b8835390,Rhonda Smith,financial,6,89.78,2024-02-16 10:53:11.433269,Spain,East Joshua,Credit Card,Express,Shipped
+5f16b6da-8fc7-4827-81f4-8c4bf7f91220,Tiffany Flynn,national,10,503.79,2024-03-01 14:44:29.463777,Greece,Lake Jon,Cash,Standard,Shipped
+aafcfcee-86c9-47c7-a7ea-ee0dfd9b5cb7,Kim Alvarado,against,4,681.13,2024-04-21 06:05:26.896703,Western Sahara,Tinaview,Credit Card,Standard,Pending
+cbcf33f8-5817-4457-9119-e1205e302141,Alexis Collins,at,1,706.34,2024-04-20 17:29:04.075885,Austria,Hensonport,Cash,Standard,Shipped
+b92360cc-3383-428b-b783-50d4ffcb6173,Melissa Bailey,since,2,372.16,2024-02-08 14:20:11.167776,Kiribati,Butlermouth,PayPal,Standard,Processing
+6c6f9330-3015-4014-b464-91b2374f404a,Sharon Allen,people,8,546.46,2024-05-01 10:19:24.111236,Israel,Aguirrebury,Cash,Standard,Delivered
+e67c83be-01ae-4de5-acea-615888773147,Mia Goodman,place,8,951.61,2024-02-26 17:49:18.696580,North Macedonia,North Crystalburgh,PayPal,Express,Delivered
+6c605015-a1cb-4551-ad10-c714cf02893a,Rhonda Jones,become,1,332.24,2024-04-03 20:52:44.327446,Saint Martin,Gordonfort,PayPal,Express,Delivered
+ce76bb25-6460-49ac-b678-dfd9e6600943,Robert Williams,other,2,513.19,2024-01-03 01:31:53.829406,Chad,Port Katherine,PayPal,Standard,Shipped
+eb4a5919-b6d9-48be-b740-840c70d7891d,Kelly Davis,return,1,463.06,2024-04-08 03:23:16.591585,Czech Republic,Bradshawton,PayPal,Standard,Pending
+128b0263-b9d5-4cbf-b911-1e19d77a7bc5,James Chandler,energy,9,964.53,2024-04-02 05:23:21.460200,Indonesia,Andreachester,PayPal,Standard,Delivered
+6fb9b9d9-e469-4c7f-a470-fc4f81ee39ac,Jennifer Nicholson,usually,3,733.11,2024-01-28 04:39:47.130322,Swaziland,Kleinmouth,Cash,Express,Delivered
+948e8058-75c5-41d1-a880-bf5ac7183b54,Jennifer Burns,still,8,226.75,2024-01-28 16:48:22.798255,Comoros,Port Stephenmouth,Credit Card,Express,Shipped
+5aa3175b-f5fe-40c0-90f8-0811d1acad26,Cynthia Griffith,forget,1,181.23,2024-03-18 15:59:12.471122,Guinea,Normanbury,PayPal,Standard,Processing
+fc83fcd0-6f3f-44a6-9e3d-6e1ad2edaa47,Joann Nolan,rule,7,647.24,2024-01-07 21:56:50.451670,Holy See (Vatican City State),Stevensland,Cash,Express,Pending
+e627f7b1-68f8-4cd8-805e-b082ae2c8c6b,Jesse Anderson,environment,9,539.28,2024-01-11 22:41:09.810069,Oman,Brianburgh,Cash,Express,Pending
+79016a0f-7d45-4850-bca6-d08fb82500b9,Gail Johnson,analysis,1,198.13,2024-02-13 23:08:01.776228,Palestinian Territory,South Natasha,Credit Card,Express,Processing
+db967867-1c95-41cf-b976-617eef730ec5,Michael Pruitt,market,1,629.86,2024-01-08 17:39:30.337658,Brunei Darussalam,West Thomashaven,Cash,Express,Shipped
+13f8af57-5bcb-4b78-99fd-ab42e3b1b07c,Tara Greene,through,10,741.06,2024-03-09 17:20:34.104888,Iran,West Christina,Cash,Express,Pending
+79688b70-c9a8-4714-8d24-95997a5bf53c,Charles Gonzalez,chance,1,547.35,2024-03-08 21:11:24.182761,Morocco,North Matthewland,PayPal,Standard,Shipped
+4e2e5b85-f8a3-4573-be16-40c3b502c12d,Jacqueline Mitchell,whether,3,459.6,2024-01-26 15:04:41.402688,Liechtenstein,Tammyside,PayPal,Standard,Delivered
+255f1e64-ee7f-4edb-9fc1-4dc63aab9d87,Jordan Bryant,that,2,202.02,2024-04-26 11:47:43.113427,Sri Lanka,Port Tiffanyville,Cash,Standard,Pending
+3c92cde3-0805-483c-9920-d90db0f434c9,Elizabeth Mitchell,already,9,488.46,2024-02-25 07:09:28.486087,Egypt,Port Tinamouth,Cash,Standard,Shipped
+8f3ba165-a04f-4e3d-bd55-b484d4a44193,Jennifer Holmes,also,7,139.58,2024-02-13 23:48:41.824527,Peru,North Staceymouth,Cash,Express,Delivered
+8e4ff545-c16b-4b46-84ce-8583c98add55,Gina Stone,able,1,600.43,2024-03-06 18:38:43.117671,Suriname,Fryeview,Credit Card,Standard,Processing
+28824784-9d0c-4768-876e-0eb6741eb5ef,Sarah Ruiz,agency,7,669.13,2024-03-09 03:36:43.352235,Burkina Faso,Port Jonathanfurt,Cash,Express,Pending
+ef2318d0-3d14-49f5-88d1-e51da4b1d60c,Dr. Zachary Long,natural,2,758.97,2024-04-28 20:12:46.438183,Solomon Islands,Lisaport,Cash,Express,Delivered
+ad2d58fb-3fee-49c1-ab3a-261e15c3ad5b,Vincent Villanueva,phone,9,835.41,2024-02-29 13:01:17.567367,Dominican Republic,Lake Juliaton,PayPal,Express,Delivered
+62044eb9-d2ec-491f-8b39-4d7a43d7dabf,Jacob Owens,recognize,4,43.71,2024-03-12 12:30:42.028157,Mongolia,West Sandraburgh,Credit Card,Express,Shipped
+71a33d8b-dd01-41e4-a416-8fa04402a759,Jordan Williams,year,1,373.68,2024-02-22 23:08:40.389002,Guyana,West Jessica,Credit Card,Express,Delivered
+86362ffe-c0f8-4ecf-8118-00a13583b1c0,Kristy Jones,standard,6,582.48,2024-03-14 00:38:29.890958,Greece,Prattburgh,Credit Card,Standard,Shipped
+44950f89-3865-4e14-a170-1f4b35479019,Jeremiah Montoya,size,1,563.4,2024-05-02 21:16:04.421076,New Zealand,East Michaelstad,PayPal,Express,Delivered
+61f6d6be-f293-4639-85e2-bd11cb39cbc8,Heather Mclaughlin,responsibility,1,370.2,2024-01-14 08:11:18.164405,Palestinian Territory,Amandastad,PayPal,Express,Delivered
+e7129e90-d4ea-4cba-966c-ba32cd76f40a,Stephanie Taylor,life,10,327.0,2024-01-23 00:41:17.107939,Poland,Ambermouth,Credit Card,Standard,Pending
+49674b30-36c9-4ee8-a75e-9cc0a95a7f80,James Watson,senior,1,23.27,2024-04-13 05:46:36.387847,Djibouti,Justinborough,Credit Card,Standard,Shipped
+cd41e833-d2ad-4f36-a01f-23275456db8b,Stephanie Lucas,local,10,157.9,2024-01-16 12:00:18.146954,Moldova,Lake Brandon,Cash,Standard,Shipped
+63d50229-1738-45a8-abb9-d7a3eafb4e9b,Cynthia Gordon,base,1,609.06,2024-02-05 21:02:33.046914,Germany,South Adamville,Cash,Express,Pending
+785875bd-12c9-486f-abf3-427f9d05457b,Chad Wu,whatever,4,371.65,2024-04-22 07:17:47.426071,Paraguay,West Jamie,Cash,Express,Shipped
+ce22c4a7-db88-4993-a77f-dd64a465ff36,Robert Rivera,together,5,201.92,2024-03-20 14:07:28.864716,Eritrea,North Rachel,Credit Card,Express,Shipped
+d40169b9-179c-4ea9-b85f-6211cc20bb64,Tiffany Church,door,7,715.09,2024-04-07 06:37:21.654345,New Zealand,South Chelseaside,PayPal,Standard,Shipped
+1939620b-d5fa-4854-b2b7-50f1a68977a9,Jesus Fischer,position,6,409.86,2024-04-22 08:01:58.395638,Rwanda,Billyhaven,Credit Card,Standard,Pending
+2153c52b-bfbe-4b8d-b7b3-7d22d8f8a949,Manuel Owens,technology,5,493.67,2024-03-20 18:48:55.828228,Kiribati,Elizabethshire,Cash,Express,Delivered
+d54a2515-4657-43e5-b2e1-70383c198e7a,Douglas Ramos,need,10,344.65,2024-02-09 22:04:03.036902,Papua New Guinea,Wrightchester,Cash,Express,Shipped
+9ffce334-f81b-4b0a-9c17-fe557ac56f35,Elizabeth Garcia,compare,6,687.08,2024-01-12 23:47:17.824617,Belarus,Morrisview,Cash,Express,Pending
+1b661207-b6e2-4c97-8ed7-3f2565adfd26,Michele Ruiz,pressure,7,973.12,2024-01-01 14:03:57.742672,Kyrgyz Republic,Port Keith,PayPal,Standard,Delivered
+dd9863f9-84ed-4536-ba8e-77969bdc36b0,Ruben Hooper,carry,8,723.28,2024-03-17 00:00:04.085017,Antigua and Barbuda,Lake Daltonfurt,PayPal,Standard,Delivered
+e2f4a344-f504-4290-bd84-00f3aab83099,Patrick Davis,skin,5,901.67,2024-03-23 22:57:40.097749,Lao People's Democratic Republic,Villegasstad,Cash,Standard,Processing
+8cb9bf27-8607-4ff7-bf5d-21e223fa2c10,John Roman,spring,5,844.96,2024-01-08 09:43:26.094638,United States Virgin Islands,Lake Pamela,PayPal,Express,Pending
+b73fd515-c743-45f1-ae0f-3531cfb22424,Jason Young,four,4,795.93,2024-03-08 17:32:27.930427,Marshall Islands,Baileyborough,Credit Card,Standard,Shipped
+42a326cf-963a-4985-b081-73146f8fc80e,Cody Potter,career,7,152.13,2024-02-20 14:15:37.541663,Mexico,Medinaborough,Credit Card,Standard,Shipped
+dea99d18-e142-43b5-8835-e67c1d46c176,Kari Mckee,general,5,271.9,2024-02-15 16:40:17.469805,Holy See (Vatican City State),West Joseburgh,Credit Card,Standard,Shipped
+22f49736-4d6e-4c1d-8986-6bb29fa94a0e,Hannah Huang,environmental,6,893.55,2024-04-30 03:48:46.614598,Brazil,North Jonton,PayPal,Standard,Delivered
+3e376f36-7c00-4dee-b1be-fa0077bdb5c4,William Medina,eight,5,438.55,2024-04-11 17:22:37.780966,Guatemala,Riggsbury,Cash,Standard,Shipped
+6eed26a3-33d8-4b96-9dae-8607e22a50cb,Mallory Lee,maintain,6,594.16,2024-03-09 10:21:02.086151,Yemen,New Sheena,Credit Card,Express,Delivered
+4e4a3357-5c84-497b-9eb8-7e8071d6ddfa,Kenneth Thompson,cause,5,126.88,2024-03-27 12:36:48.207581,South Africa,East Lisa,PayPal,Standard,Delivered
+fa8fc0b5-ddb8-4323-9388-31c59826c7b2,Dennis Davis,lay,5,296.11,2024-02-07 04:18:54.852765,Congo,South Kelsey,Credit Card,Standard,Processing
+74496121-d48f-4a15-b67d-5522465921e9,Jessica Norman,enjoy,6,470.19,2024-02-14 17:44:10.200806,Slovenia,Fraziershire,Credit Card,Standard,Processing
+370adf88-a3f8-4105-b367-cd52af465d24,Michael Ford,public,2,335.51,2024-01-08 13:42:06.255554,Kazakhstan,Smithport,PayPal,Express,Pending
+3deed696-9a25-4d6e-ad7a-1e88ccfdd394,Nicholas Arias,rule,10,644.45,2024-03-25 20:08:48.792992,Uganda,East Ronaldshire,Credit Card,Express,Pending
+60d19940-6d1a-40d8-b131-35c433e3cd83,Shannon Gonzalez,community,4,977.95,2024-02-03 15:59:39.009977,Jamaica,South Kristaberg,Credit Card,Standard,Shipped
+5c285d8d-1bfe-435a-868f-0e1e7627906b,Charles Skinner,kind,2,528.65,2024-02-18 12:51:52.565649,Namibia,Williamsonmouth,Credit Card,Express,Delivered
+e09dbd20-84b6-44cc-bd2b-eff3ec78ab9e,Jacob Mason,interview,1,702.44,2024-02-17 22:25:12.270419,Turkmenistan,Brownmouth,Credit Card,Standard,Processing
+d7531a7b-9a1d-485b-ae18-07a4961c6028,David Lane,require,10,943.46,2024-03-08 15:06:51.558091,Peru,South Joshuafurt,PayPal,Express,Processing
+139b18f7-7a04-4b70-8946-4cb8b097a363,Madeline Reed,should,3,877.3,2024-03-29 10:38:31.090171,Colombia,Lake Rebeccaborough,Cash,Express,Shipped
+4c74d217-8af9-4efa-92cb-8a9a5f0554cb,Kyle Turner,very,3,478.27,2024-03-27 10:14:19.277649,Belize,Amandaland,Cash,Express,Shipped
+f830c5c2-64ae-4925-b622-e0fc9b8860ee,Megan Cox,stage,6,314.31,2024-04-04 14:43:15.779543,Norfolk Island,Coxview,PayPal,Express,Shipped
+a3f78629-6157-4664-9e47-f5f74c92c258,Krista Roberts,particularly,10,91.98,2024-01-03 08:55:46.996653,Uzbekistan,Vazquezshire,PayPal,Express,Pending
+291e6c09-c55b-4e88-874c-6653a141e79b,Beth Christensen,article,4,192.14,2024-02-09 09:49:24.744917,Djibouti,Walkertown,PayPal,Standard,Pending
+62734de9-f6f8-424d-a8d2-bb7f84942551,Kenneth Pham,real,5,190.34,2024-03-30 18:56:58.552112,Falkland Islands (Malvinas),North Carmenmouth,Cash,Express,Shipped
+638c06f8-a523-4481-a467-4ee073f04bd6,Fernando White,level,2,636.89,2024-01-21 19:39:49.562703,Guatemala,East Sydney,Cash,Standard,Pending
+a14058bd-ef96-4a33-8afa-ce17bed72462,Bryan Jackson,over,1,479.29,2024-04-22 13:11:06.655266,Georgia,Jonathanfort,Cash,Express,Pending
+ddb4dd9f-0d7d-4f62-989d-de5c39a56cb1,Justin Holmes,leg,10,278.17,2024-01-09 01:58:59.426135,Gabon,Port Ashleyland,Cash,Express,Processing
+3b0b7bd1-6bb4-4b9d-9b84-31bd1a79fb66,James Baker,ground,6,129.49,2024-03-21 07:30:57.443393,Germany,Lake Lori,Cash,Express,Shipped
+6205e92e-f68b-487d-98c3-e606d15c6989,Mark Villanueva,hair,9,919.5,2024-03-01 23:58:08.266931,Reunion,Swansonchester,PayPal,Express,Shipped
+7cae6f79-b08f-4f23-81df-3d71ac9bb2ff,Mrs. Kayla Mendoza,reduce,2,650.66,2024-03-01 10:29:50.335867,Jamaica,West Sharonville,PayPal,Standard,Pending
+44a8cd96-b523-45bd-a1c1-c4f9364b1c5f,James Rogers,high,3,531.66,2024-01-14 12:08:12.562487,Barbados,North Sandrabury,PayPal,Express,Pending
+0cfaf1c7-f0cd-42bf-96c8-8f4b8dc71d1c,Kristie Miller,change,2,19.94,2024-03-02 10:58:19.711108,Sao Tome and Principe,North Kevinmouth,Cash,Express,Processing
+b5723d66-7339-48e7-a6e2-dddb964eb90c,Austin Benson,successful,9,393.65,2024-03-29 14:37:11.592592,Peru,Pamside,Credit Card,Express,Pending
+d832fd2d-a31b-4926-89b6-e26c78105be4,Jeremy Schwartz,couple,6,462.03,2024-03-23 19:26:58.806121,Thailand,Harrisside,Cash,Express,Delivered
+f681e09a-2838-4c92-a974-97b8c71e7aa9,Kelsey Mathis,style,10,697.38,2024-03-08 03:36:08.211938,Malta,South Annafurt,Cash,Express,Processing
+719b53f0-87a0-4280-977b-e1fd599d3b74,Fred Dunn,PM,3,482.95,2024-04-20 04:34:12.746872,Morocco,New Megan,PayPal,Standard,Pending
+83896508-2a48-4a39-aeb0-129e27d8f021,Mary Bradley,the,1,291.11,2024-01-26 15:38:42.189400,Netherlands,Adamfurt,Credit Card,Standard,Shipped
+d550b075-c55f-4b9b-af86-7832c2d8076a,Ana Oneal,whole,3,658.86,2024-01-23 07:29:39.070683,Nicaragua,Lake Beverly,PayPal,Express,Delivered
+49fb91ba-1862-4346-bf90-21ee3da79328,William Robbins,seat,10,680.23,2024-04-07 13:30:21.756861,Russian Federation,Susanberg,PayPal,Standard,Processing
+8aad14b4-1cfc-45f4-a881-23f842532160,Brandi Moore,raise,4,191.08,2024-04-08 14:47:08.859062,Ecuador,Mackstad,Credit Card,Standard,Pending
+3d66a95c-302b-4082-8392-419dd856c435,Donald Diaz,spend,5,109.54,2024-02-13 15:47:23.903198,Bangladesh,North Lynn,Credit Card,Standard,Processing
+bacc3cba-7afc-4e67-811b-5e4fc9d37350,Javier Coleman,doctor,3,127.1,2024-04-22 14:09:20.432451,Morocco,Brownland,PayPal,Standard,Delivered
+5584c372-e9c0-4b75-aeba-4f9d66a55aab,Wanda Dean,capital,2,39.65,2024-02-12 06:07:38.924474,Peru,West Adam,Cash,Standard,Delivered
+e50fc0ec-659a-418c-aa20-7349c60f00a8,James Benson,seven,8,174.29,2024-01-19 10:03:10.876729,Trinidad and Tobago,Port Kara,Cash,Express,Shipped
+5437cf4a-db6e-458a-a3f9-9a3ce94b05b2,Eric Palmer,left,10,744.11,2024-05-02 23:41:50.347623,Rwanda,West Elizabeth,Credit Card,Standard,Processing
+143495f0-5576-407e-a7d4-cfc8d29573f3,Amy Boyd,concern,7,561.72,2024-03-17 16:29:27.999858,Armenia,East Ericville,PayPal,Standard,Processing
+4d315cc9-c131-47e3-8d2d-a4981eb3a4d8,Justin Jensen,energy,1,29.05,2024-01-13 05:23:49.077852,Iran,New Andrew,Cash,Express,Processing
+c869a73a-894e-4c4e-b4d8-f09a059292f0,Joseph Bell,next,5,355.8,2024-02-14 11:35:39.199578,Cameroon,South Julieville,PayPal,Express,Processing
+0346d5f8-9313-404e-b553-638620daac82,Julian Smith,wait,10,716.48,2024-02-27 05:24:43.422759,Albania,Lake Feliciaview,Credit Card,Standard,Delivered
+8ad9e297-8928-4864-9631-aa9ae3861853,Jessica Floyd,southern,1,281.98,2024-01-16 20:23:11.297275,Nigeria,Lake Matthew,Credit Card,Express,Pending
+990443ab-8078-4647-9ef5-72d769a68e20,Tyler Jenkins,religious,1,523.19,2024-03-08 20:26:26.157811,Mauritius,Dariusville,Credit Card,Standard,Shipped
+2afa7d3b-72f0-4d68-97ca-22595e86c9ec,Jessica Brooks,environment,1,669.01,2024-03-09 04:01:23.741416,Italy,Port Tracie,Credit Card,Standard,Processing
+b5e66508-f7bf-4597-9cdc-b096c19b8286,Christopher Guzman,nor,2,562.23,2024-03-09 09:59:44.647734,Jamaica,Jonathanville,PayPal,Standard,Pending
+630b56e7-39a6-47a5-90f1-84463f555adb,Christina Phillips,tax,4,555.03,2024-03-16 08:22:54.523978,Togo,North Stevenborough,PayPal,Express,Shipped
+d655c9c7-f5e1-4a71-847d-69dda3447514,Veronica Miller,box,4,896.76,2024-02-05 19:40:59.557163,Egypt,Joycefurt,PayPal,Express,Pending
+13a2bffe-5193-4426-a6dc-48aea7d1344b,Abigail Cameron,success,2,448.12,2024-04-26 18:12:33.711944,Barbados,Lisaview,Cash,Express,Shipped
+3ae81e38-fb31-459d-9b67-04cafee3913a,Bruce Reese,structure,7,772.01,2024-03-21 16:03:10.099137,Canada,Evanshaven,Cash,Standard,Shipped
+708827fe-0dd2-47d1-a061-f7b608ec62a9,Mark Davis,seem,4,184.22,2024-02-11 07:17:17.750420,Saint Pierre and Miquelon,Wrightfort,Credit Card,Express,Shipped
+aa2fdad4-8c98-4217-a218-eb83bcd917fd,David Underwood,painting,7,132.44,2024-03-19 20:10:48.338921,Trinidad and Tobago,Port Sarah,PayPal,Express,Delivered
+d66f24ac-fd0f-4d39-8260-08638177945f,Rachel Rodriguez,hit,3,35.19,2024-01-13 01:42:18.601529,Bolivia,Torresmouth,Credit Card,Standard,Pending
+1c960e33-289b-45c2-ac31-7c66ae1171fd,Zachary Glass,decision,7,655.77,2024-01-09 23:08:24.982291,Gabon,Jamiefurt,Credit Card,Standard,Delivered
+d03788d4-5e36-4d4f-b46d-c5bc9f78fb0a,David Thompson,bag,8,23.79,2024-02-07 08:57:12.089268,Micronesia,East Justinburgh,PayPal,Standard,Processing
+2680b16e-7e13-4fbf-8284-f7fb47bd6261,Thomas Sullivan,person,4,254.89,2024-02-18 16:53:25.955798,Isle of Man,Port Melissa,Credit Card,Express,Pending
+c4470789-4d88-4c70-9cc7-6cecb8efa93e,Dominique Rodriguez,tree,6,802.77,2024-04-25 05:36:24.014462,Trinidad and Tobago,West Stevenburgh,Cash,Standard,Pending
+73bd9743-fa56-4850-a2ee-0f8c85004b4a,Lisa Hernandez,bad,9,657.47,2024-02-28 13:02:53.130933,Comoros,Mikaylaberg,Cash,Express,Pending
+8a573004-fcfa-4d4d-8574-3516ae4dd81a,Michelle Thornton,seem,4,315.18,2024-02-06 11:18:35.179505,Bouvet Island (Bouvetoya),Port Jessicaburgh,Cash,Standard,Processing
+4b70197b-22fe-4a3d-9d44-77199c29b53e,Christine May,cell,2,924.02,2024-02-24 14:08:53.369854,Antigua and Barbuda,East Marcus,PayPal,Standard,Shipped
+8073bad0-c61f-4ca8-a484-d69f72a9faf6,Adam Pearson,hold,2,308.9,2024-02-20 15:57:59.892489,Czech Republic,South Sean,Cash,Express,Pending
+e5a5d825-869c-4cee-a33b-1620d021ab67,Alan Miranda,attack,6,892.33,2024-01-11 19:08:33.556070,Guernsey,East Markland,PayPal,Express,Processing
+c137be65-d4ea-4f42-8951-cfede949c972,Laura Green,bring,8,743.25,2024-04-03 14:26:13.913657,Kiribati,South Dean,PayPal,Express,Shipped
+c8e43f1b-1574-4420-99bd-f23692cc4e3b,Eric Anderson,piece,9,922.28,2024-02-17 02:09:17.186792,Lebanon,Brownview,PayPal,Express,Processing
+e462f7d7-8bc5-49a1-9554-3870f759f4df,Ryan Jimenez,result,3,741.11,2024-03-30 19:29:25.458811,Norfolk Island,Kevinmouth,PayPal,Express,Shipped
+aa011fe3-b160-4c22-b31c-b198b7a4f287,Laura Sanchez,add,5,999.38,2024-03-16 10:06:53.522915,Ethiopia,Lake Dennis,Credit Card,Standard,Shipped
+721c158e-4f71-41e1-92d7-6e9b8a38aab9,Mrs. Toni Bentley,task,8,638.19,2024-02-16 14:55:57.713302,Bulgaria,North Alexis,Cash,Express,Shipped
+6c898353-0b27-4f84-afe4-6438c33f83d6,John Johnson,building,1,208.0,2024-02-15 06:35:17.976555,Liechtenstein,Port Adam,Cash,Express,Pending
+07f5463b-1ac6-4605-8a42-3bde3320d1d1,Lori Wolf,section,6,911.06,2024-01-22 13:49:20.508230,Malaysia,Lloydstad,Credit Card,Express,Shipped
+9e96ac4a-2a56-4398-a64e-baa61efdda21,Robert Barker,true,6,588.7,2024-04-27 12:51:53.556161,Trinidad and Tobago,South Ashleyfurt,Credit Card,Express,Shipped
+4d6acadd-10fc-4d71-a070-52a17b3bc82e,Jessica Ramsey,note,10,501.35,2024-04-15 23:58:17.571487,Samoa,Saraton,Credit Card,Standard,Processing
+a9bfc52d-d88e-4b12-a4a7-31b63683ebb5,Lisa Arias,on,6,177.48,2024-03-28 16:46:48.013536,Montenegro,New Jeffreystad,Cash,Standard,Pending
+db02123f-a1ee-4ea2-bbb6-018215ad55fb,Veronica Adams,attorney,3,77.45,2024-01-10 19:43:21.888261,Heard Island and McDonald Islands,Thompsonburgh,Credit Card,Standard,Shipped
+da7a285b-5e70-407a-8b49-182189ed386f,John Beck,network,9,468.61,2024-02-03 22:53:34.038690,Faroe Islands,South Joelstad,PayPal,Standard,Processing
+ab97b3ff-7199-4dfb-9f46-6bc790eab72c,Tyrone Shelton,success,9,459.26,2024-03-09 09:00:50.227403,Netherlands Antilles,Garciahaven,Cash,Express,Shipped
+495ff15b-3b43-4318-8c79-e7d4617c3d5f,Kenneth Mendoza,be,8,239.61,2024-03-30 02:18:11.954696,Saint Pierre and Miquelon,South Vanessachester,Credit Card,Express,Delivered
+7c557d5d-1b5e-4111-96b6-8aa549182462,Anita Murray,land,9,211.42,2024-04-03 08:48:36.529043,Holy See (Vatican City State),Petersonfurt,Cash,Standard,Pending
+c1ab8e5c-b285-4229-a508-1aff4523de36,Jennifer George,left,8,74.96,2024-02-20 00:50:27.680522,El Salvador,Francisstad,Cash,Express,Pending
+25a75464-61c5-47f9-aa99-5550aa8b6be7,Leslie Livingston,spring,1,273.24,2024-02-18 00:31:52.197016,New Caledonia,West Philipmouth,Cash,Express,Shipped
+dcc8f74c-b323-4002-8e75-e0c5116d2e2a,Charlotte Gilbert,draw,2,457.32,2024-04-25 06:20:06.818670,Suriname,Tuckermouth,Credit Card,Express,Pending
+be9e7519-b0f4-45c4-a5e9-e34b10fff6ef,Gary Coleman,huge,4,424.35,2024-04-11 05:44:29.325948,Tajikistan,Cooperport,Credit Card,Standard,Processing
+53a2e913-b7fa-45b5-8792-e6a64fde7c58,John Snyder,Mr,3,344.85,2024-01-25 23:19:25.209493,Niger,Davidport,Cash,Express,Pending
+af8a0319-6065-4e74-b09b-04e3cf97ded8,Carrie Garcia,ahead,10,826.7,2024-02-17 09:31:25.054431,Bhutan,Andersonberg,Credit Card,Standard,Delivered
+65298513-4e67-4175-b63c-744321e8b3f2,Travis Mcpherson,husband,2,457.3,2024-01-22 09:00:22.130122,Belgium,South Elizabethborough,Credit Card,Standard,Pending
+f06c7158-b0ae-4e4f-954d-fc33964994ae,Valerie Mcgrath,dream,4,325.89,2024-01-03 23:19:15.058779,Wallis and Futuna,Port Mary,Credit Card,Express,Pending
+a74eed05-e83d-465f-83e3-c9eb3bfead8c,Terry Rodriguez,the,5,30.24,2024-04-25 09:22:37.354445,Cuba,Port Ronaldport,Cash,Standard,Processing
+b6d6f4c8-e54a-4385-940b-01810e2f852e,Cody Davies,inside,3,875.35,2024-04-21 21:22:03.135430,Seychelles,Lopezfort,PayPal,Express,Pending
+483977b5-9d34-4cbb-b0b6-75d8c05abd70,Jerome Berger,a,6,692.18,2024-04-21 21:43:01.478497,Netherlands Antilles,Rebeccachester,Cash,Express,Processing
+ca0d3ffe-03e0-40cd-9e07-d4ec1a4ee8f2,Bradley Lyons,thus,7,455.02,2024-03-28 02:38:21.615832,Saint Barthelemy,South Amyville,Cash,Standard,Shipped
+c5384fc9-0ab4-4a1c-a58c-4c3924ab2208,Kelly Shannon,threat,8,100.95,2024-01-31 00:15:01.616049,Jamaica,Lake Donna,Cash,Express,Shipped
+05dfe2b4-aa81-4bac-b1f3-aef7e7fca707,Vanessa Ochoa,owner,7,776.98,2024-03-28 12:45:52.229632,Namibia,Kleinburgh,Cash,Express,Processing
+67db05d6-bc2d-4b11-9bcb-425e48adb934,David Clark,change,7,777.09,2024-01-03 11:59:10.271802,Colombia,East David,PayPal,Express,Shipped
+38d050eb-1bf4-4ab6-9f7b-9c6c40680317,Anna Mills,clear,1,759.16,2024-01-01 16:43:29.620562,Burundi,Matthewbury,Cash,Standard,Shipped
+dffb2139-86cb-41f6-93c4-e97613d13792,Justin Hayes,skin,7,382.79,2024-01-11 20:45:06.695560,Macao,Hectorfurt,PayPal,Express,Processing
+7c92d291-c19c-4342-bc5e-1a3b434627ee,Jessica Maddox,language,9,443.77,2024-05-01 07:31:50.579386,Congo,Edwardfurt,PayPal,Express,Delivered
+da57dde3-6a82-4f11-b682-f84f73ae4550,Bryan Murphy,wide,4,138.45,2024-02-24 10:13:32.908316,Nicaragua,Wrightshire,PayPal,Standard,Delivered
+62a7ce59-c366-4358-a3cc-24dc2d6fe8c5,Loretta Mcmillan,sell,8,192.66,2024-03-15 13:01:59.607947,Philippines,West Jasmineville,Cash,Express,Delivered
+676b9255-c5b2-45ec-91da-1943b90324ba,Robert Brown,condition,7,323.04,2024-03-24 00:08:12.041622,Mozambique,East Andrewfort,PayPal,Standard,Shipped
+ad6c3998-44d6-438d-889c-5b1b9b7313d9,Margaret Henson,answer,10,895.33,2024-01-19 11:10:05.416417,Mauritius,South Tony,PayPal,Standard,Pending
+38005dbd-19ec-441a-8c85-c74467e37804,Linda Ponce,camera,8,290.98,2024-04-12 11:02:48.121202,Thailand,Andresbury,Cash,Standard,Delivered
+59adfcb8-d30f-4e29-8fd8-e6f324964717,Brittany Hart,improve,4,10.34,2024-03-26 18:15:34.702967,Moldova,West Christopherhaven,Credit Card,Standard,Pending
+e34a9c91-eb93-418d-9063-5f1b0f6f773b,Erika Delgado,already,8,541.82,2024-01-30 10:14:43.749017,Greenland,Guerraland,Credit Card,Standard,Processing
+793f914e-1803-4738-b60c-5eba8b0c191a,Timothy Brown,close,1,630.85,2024-04-12 10:17:03.815784,Bermuda,Lake Brianna,PayPal,Standard,Delivered
+3734c326-346e-4287-a323-1184d3be8e65,Kevin Blackburn,provide,7,532.17,2024-04-23 06:33:56.219664,Uzbekistan,Lake Elizabethfort,Cash,Standard,Shipped
+a0698cee-1507-4ad9-8354-8b96ca221753,Leslie Burch,discuss,1,867.78,2024-03-18 20:36:50.895695,Malawi,Port Sarah,PayPal,Standard,Shipped
+35d700f3-f751-4a76-9f08-e664a026743b,David Kennedy,speak,9,180.46,2024-04-10 22:32:51.944113,Syrian Arab Republic,Timothytown,Cash,Standard,Processing
+84f98e5d-6331-4dc1-bee3-0a5f5c60a391,Angela Allen,law,1,686.0,2024-02-28 22:31:42.273588,Isle of Man,Port Shanefurt,PayPal,Express,Processing
+2b5891bf-5483-4519-8043-ed49ea3464e7,James Sheppard,or,6,415.15,2024-05-01 11:35:58.128499,South Africa,Williamview,PayPal,Standard,Shipped
+fb11961e-7037-44d2-aa9d-c368e4c1b538,Robin Hamilton,that,6,599.2,2024-01-20 23:27:17.656596,Burundi,Leetown,Cash,Express,Pending
+bccdead3-2477-4492-9bb0-6cce43b88d73,Vicki Hicks,point,5,92.08,2024-04-15 09:03:38.074342,Heard Island and McDonald Islands,Jeffreyfort,Cash,Express,Pending
+de8a7a38-2da7-4288-b0f7-15bf9a030be7,Evelyn Compton,PM,6,858.42,2024-02-09 14:32:27.435894,Solomon Islands,Lake Lindsayshire,PayPal,Standard,Shipped
+ac816801-e2dd-40ca-80f1-c637ea15ef64,Jessica Malone,nice,10,250.26,2024-04-30 05:48:16.569905,Cameroon,Jimenezview,Cash,Express,Processing
+6101e83a-8518-47d6-bff3-bd48356e1160,Robert Williams,foot,4,919.08,2024-01-16 11:26:36.677346,Tuvalu,Jonestown,Cash,Standard,Pending
+bb508522-10d1-4eb3-aedd-07c02f046689,Angela Patel,study,5,101.57,2024-03-08 10:03:28.070499,Belarus,North Leroy,Cash,Standard,Delivered
+5e19dbf4-87ee-4e2e-a0f6-88049768f3ec,Bradley Conley,know,1,843.15,2024-04-26 03:30:50.362204,Cape Verde,North Lisastad,Cash,Standard,Processing
+4a996e63-c327-428f-bba9-b24d279f53c4,Dr. Joshua Lee,suffer,3,986.98,2024-01-03 01:09:18.278655,Cocos (Keeling) Islands,South Brianshire,Cash,Standard,Shipped
+86c3fad7-f3ff-47b8-9887-deb50baab61d,Evelyn Morris,western,3,297.57,2024-02-11 14:42:15.997948,Falkland Islands (Malvinas),Robertburgh,Credit Card,Standard,Processing
+37d68ce0-29be-4ec2-a9ad-bdb153edd825,Nathan Johnson,onto,7,276.21,2024-04-20 19:30:07.324901,New Caledonia,Kellystad,Cash,Express,Pending
+3186fe61-e9ed-4ff5-ac7d-adaea98fec3a,David Hopkins,final,2,937.67,2024-03-10 03:24:15.799259,Russian Federation,East Williamview,Credit Card,Express,Shipped
+69d09b1a-2507-49ae-b854-07863f33d2f0,Kendra Sosa,serious,5,775.19,2024-03-24 02:35:06.203793,Austria,Velezmouth,Cash,Express,Processing
+763967d4-bdc3-4704-9a44-0a53f44d8245,Mark Smith,total,9,135.4,2024-04-09 19:25:13.375247,Senegal,Rebeccastad,Credit Card,Standard,Pending
+c53b7234-cd83-46c1-bb71-27b909800a8b,Lindsey Bailey,whole,6,430.24,2024-02-15 02:18:36.039347,Aruba,Port Ryan,PayPal,Standard,Pending
+f0b616f5-d7ea-4289-b2bd-9f4a7900af1c,Jonathan Hale,low,2,492.94,2024-04-17 16:37:30.139831,Kuwait,West Ronald,Cash,Express,Shipped
+0885d924-53c3-478f-acca-f4536d738e3b,Brian Gonzalez,threat,7,396.03,2024-01-19 12:01:36.791047,Israel,Port Jeffrey,PayPal,Express,Processing
+e3609fb2-063b-43b4-b364-55a8bd13191f,Allen Graham,on,1,285.09,2024-04-13 01:25:09.420190,Samoa,Ryanberg,Cash,Standard,Processing
+112024e2-64f3-47e7-aa7a-277528ec5425,Tammy Cox,develop,1,57.89,2024-02-18 18:28:56.929208,Mexico,New Laurachester,Credit Card,Express,Shipped
+8e6831a8-18f1-44df-80ff-480d22fc0712,Jessica Martinez,hold,7,985.97,2024-05-02 09:06:15.085876,Luxembourg,Lake Victor,Cash,Express,Delivered
+275b9163-e218-40c4-b63f-6f5114f97568,David Whitehead,certain,9,638.76,2024-01-27 02:05:07.535506,Solomon Islands,Hensonfort,Credit Card,Standard,Delivered
+0eee9ac7-5d7f-4c0a-a4b0-8ac86dfd2342,Sandy Powers,through,5,649.08,2024-04-30 21:35:47.534993,Mongolia,South Matthewchester,PayPal,Express,Processing
+399788aa-2cd0-4996-b84c-e908c8e7a561,Jack Byrd,prove,8,632.4,2024-04-05 14:41:22.270015,Bahrain,New Stacyfort,Cash,Express,Delivered
+81403a2a-2ea2-44b7-8ed3-91cd3ec1570a,Connie Yates,operation,5,484.91,2024-01-31 09:30:35.485323,Mozambique,Williamsonfurt,Credit Card,Standard,Shipped
+59f743dc-cd62-486b-b81a-f72544269e6e,Richard Burton,executive,6,240.03,2024-01-21 00:15:44.839268,Monaco,Darlenemouth,PayPal,Standard,Delivered
+cae9d444-2eb3-48f2-be5e-ddac577bca66,Diana Jimenez,whatever,10,217.02,2024-03-16 04:33:33.666107,France,Berryshire,Cash,Express,Pending
+86ca7be1-500c-4b92-bce4-b7ef8cee2f0d,Kelly Gomez,yourself,3,376.74,2024-03-15 17:08:51.869957,Bermuda,Christophermouth,PayPal,Standard,Pending
+999a4a2e-f97b-4111-a1ee-a20ca03aba8b,Carlos Moore,name,10,130.29,2024-02-25 17:33:18.993953,Dominica,North Thomastown,Credit Card,Express,Processing
+a8a408c4-7a27-4dbc-bba2-40236cb5a822,Ronald Wilson,dream,6,974.51,2024-04-17 14:11:12.919108,Guinea,South Adrianshire,Cash,Standard,Pending
+727c014d-2b86-4aab-b383-6dff862f6ec9,William Harper,where,5,893.28,2024-03-10 15:32:22.765610,Myanmar,North Eric,PayPal,Express,Pending
+56def789-e972-4d26-8b10-c0df631b9f46,Frances Carter,effort,4,51.02,2024-02-24 16:30:48.653574,Tonga,Haydenburgh,PayPal,Standard,Processing
+e9f06434-3d5b-4fb6-a487-ea0bbaca2851,Anthony Carter,accept,6,246.91,2024-02-14 09:28:48.776155,Iran,Lake Anthonyview,Credit Card,Express,Delivered
+9943e140-70cf-468d-b671-a9234531b82f,Troy Weiss,down,3,813.81,2024-03-21 01:04:09.522962,Cote d'Ivoire,Hopkinsborough,Cash,Express,Shipped
+db0455e9-dcf5-4e82-9087-d273afbc9faa,Karen Smith,special,10,894.67,2024-01-03 21:11:59.196223,Isle of Man,North Traviston,PayPal,Express,Pending
+ac8f4995-6bb1-44a1-9281-5327ab98701c,Nicole Hayes,always,3,51.04,2024-01-21 04:36:54.990732,Dominica,West Christian,Cash,Express,Shipped
+f6923363-5534-4697-bd1e-6588596c86da,Christopher Nelson,similar,2,643.48,2024-02-03 03:22:29.757887,Saint Kitts and Nevis,Port Josephbury,Cash,Express,Delivered
+9269f8cd-25bd-42da-9ef9-f91134d42d1e,Tricia Riley,door,6,968.65,2024-02-29 21:10:05.660957,Czech Republic,New Kevinstad,Credit Card,Express,Delivered
+cbb77755-12ed-495e-9dce-0bff3c122c95,Mathew Green,join,7,488.23,2024-04-06 01:45:30.573077,Moldova,Jennifermouth,Credit Card,Express,Pending
+e5ff0168-d03f-492c-97b1-5a5b2b6ea5d4,Olivia Gutierrez,room,4,174.77,2024-01-24 15:25:16.373692,Finland,Matthewhaven,Cash,Standard,Delivered
+11d3433b-123e-4a15-84eb-a8b50174e2ee,Arthur Mccarthy,ago,1,38.0,2024-01-28 06:37:52.178860,United Kingdom,South Jasonberg,PayPal,Express,Pending
+5ba27ebf-c8c8-432c-bb11-ddd1dace3846,Edwin Anderson,whose,1,278.73,2024-02-18 21:52:30.605885,Dominica,Jessicaport,PayPal,Standard,Processing
+1a245421-089a-4ead-b748-a39f6804b02a,William Zamora,morning,3,464.24,2024-04-03 06:12:48.300256,Gabon,Sarahshire,Credit Card,Standard,Delivered
+04326dad-72e4-46b8-afa1-652b27ddc50a,Susan Parrish,ten,9,753.84,2024-03-04 23:05:34.656483,Holy See (Vatican City State),Port Courtney,Credit Card,Express,Delivered
+aa63ed47-959d-4a3a-9ca9-b50ccf761cf4,Teresa Thomas,look,7,661.53,2024-01-24 19:02:34.849593,Jersey,Port Melissafurt,PayPal,Standard,Processing
+8825830c-e4ad-4141-880f-eca1a2691a02,Morgan Garza,herself,5,701.41,2024-01-05 03:08:42.509057,Brazil,East Charlesville,Cash,Express,Processing
+2e21a4ff-15d3-4ad8-b18d-d56188d98c4e,Joshua Reyes,send,1,51.05,2024-03-18 21:28:32.597940,Colombia,New Lisahaven,Credit Card,Standard,Pending
+1866cb32-00be-4315-81a5-5fb5850b9e38,Brianna Ballard,song,3,670.01,2024-03-10 08:01:27.990722,Cambodia,Dominguezview,Credit Card,Express,Pending
+5bfe7b6a-7948-4ac9-8a7c-db46fdecb902,Jessica Ball,police,8,481.9,2024-04-22 15:47:04.367652,Marshall Islands,East Jennifermouth,Cash,Express,Processing
+c1a6fa82-2e9f-48a5-8f21-986b1c613a39,Carolyn Daniels,to,3,684.14,2024-04-08 01:11:38.577282,Tunisia,Woodstown,Credit Card,Standard,Pending
+7b5aec98-7541-4b0d-83b6-71b7a9cc0f57,Cheryl Rodriguez,tonight,6,531.46,2024-02-13 19:54:31.070636,Papua New Guinea,North Caitlin,Cash,Standard,Pending
+2dca7c13-a4c2-4eaf-83c1-545b5312be99,Amy Hart,reality,2,810.77,2024-03-08 01:43:53.795520,Malta,Kirkborough,Credit Card,Standard,Delivered
+82693c38-d164-4ca7-9f8d-9b20eb0b1d51,Beth Davis,weight,5,832.33,2024-01-10 09:43:05.152809,Hong Kong,Timothychester,Credit Card,Express,Delivered
+4375877c-88a9-4427-8cd8-0cc78d643fa5,Debra Butler,all,5,387.9,2024-04-04 11:25:03.303255,Brazil,Lindaburgh,PayPal,Standard,Shipped
+ed8c1793-e09b-411b-849c-1df094294c6e,Garrett Arnold,environment,7,612.48,2024-01-07 11:22:50.688255,Dominican Republic,Lake Tyler,Credit Card,Express,Processing
+059fda07-d9d7-4d57-9f02-0bfc564545fc,Randy Thomas,southern,7,332.53,2024-01-24 05:30:02.723106,Chad,Whitemouth,PayPal,Standard,Processing
+53d719d2-2f86-47ec-98c7-3354ca8bb579,Ricardo Freeman,area,2,87.5,2024-02-10 18:21:04.846041,Costa Rica,Robertstad,Credit Card,Express,Shipped
+a7636d37-95d0-4a23-a238-b3d7d4af9ef5,Aaron Bowers,music,8,240.4,2024-01-29 10:50:06.361962,Hungary,West Ricardoburgh,Cash,Standard,Pending
+73a91373-c3c4-48b8-8464-8037be9cd773,Alexandra Kaiser,radio,6,95.6,2024-05-03 05:31:47.034581,Northern Mariana Islands,Thomasberg,Cash,Express,Processing
+a12e4f14-b4f8-4d09-8ff1-c13c7a59d0e1,Michael Stuart,drive,9,290.64,2024-01-13 03:24:52.581220,Austria,New Zachary,Cash,Standard,Shipped
+bfebe480-6e94-44b3-b6a8-f89166abf4a2,James Ford,young,1,536.97,2024-02-16 04:33:18.657787,Norfolk Island,Martinezville,Cash,Express,Shipped
+7910304c-0698-4f55-91d2-cc6d6b17b8a6,Nathan Miranda,would,5,182.04,2024-03-19 15:40:45.589413,Faroe Islands,Hansenbury,Credit Card,Express,Shipped
+be333b8f-024b-47a8-a9ef-96e36e3c6290,Mrs. Teresa Miller,idea,5,881.14,2024-01-19 08:18:01.248838,Liberia,Andrewburgh,Credit Card,Standard,Processing
+dc465fd1-479c-4db4-9c38-f81118dfdecf,Amy Webb,set,9,518.37,2024-03-04 00:06:39.193610,Tanzania,Port Nicole,PayPal,Express,Delivered
+bca9b296-e751-4065-969b-d7b0606dc44f,Andrea West,worker,10,34.71,2024-02-24 05:34:53.383824,Dominican Republic,Lake Jeffrey,Cash,Express,Delivered
+e6da312d-f017-48e0-abda-912053458169,Amanda Morgan,century,10,548.64,2024-01-04 23:45:04.536821,Pakistan,Lake William,Cash,Standard,Pending
+ea721abc-6932-4c1d-9c5e-e6e404e74986,Shawn Wilkins,worker,9,144.25,2024-04-08 04:27:09.678146,Myanmar,Martinezport,PayPal,Express,Pending
+075e1e5b-430d-4f8d-9fa1-6af280508d2b,Maria Castaneda,arrive,5,610.47,2024-04-13 09:55:32.160924,Nauru,West Nancyview,PayPal,Express,Shipped
+bfd2bf54-656e-483c-92d3-4af9cfa1a9f7,Dr. Nancy Elliott,medical,6,774.8,2024-04-29 10:58:59.704384,Tanzania,East Sandra,Cash,Standard,Delivered
+addeca5e-6d09-4e51-b731-b774b6acad18,Lisa Goodman,phone,5,769.53,2024-02-16 03:42:21.926505,Pakistan,East Robertbury,Credit Card,Standard,Processing
+6bd19c12-1118-4244-aa11-ec0fe22361f4,Nicole Schwartz,professional,6,934.9,2024-01-27 04:10:28.799603,Palau,East Amandafurt,Credit Card,Standard,Shipped
+44960700-8c8b-4aff-86c6-b0a18bb4ef9c,Mary West,size,5,29.42,2024-01-13 01:11:55.164361,Argentina,Myersborough,Cash,Express,Processing
+c27f3af0-ca07-431b-a141-9e2ab9e12497,Benjamin Walker,in,9,673.82,2024-03-15 00:34:36.762188,Jersey,Richardburgh,PayPal,Express,Delivered
+ecd3589b-d4a6-487a-9959-1229817636f5,Joseph Bowers,life,3,994.2,2024-02-01 13:10:45.265961,Lesotho,East Brendaborough,Cash,Standard,Delivered
+5c38af1d-24e1-4c79-baff-cc14e9ad4bbe,Miguel Hogan,carry,6,288.04,2024-04-20 13:46:00.124724,Chile,Batesbury,PayPal,Express,Delivered
+5f5ffa59-880e-46f3-978c-56e7ea3e5eba,Anthony Bailey,east,5,881.29,2024-01-20 10:38:33.346713,Sri Lanka,Lake Angela,PayPal,Standard,Shipped
+7d6d65bb-a269-4768-a8fc-d202eb119908,Teresa Mejia,better,2,137.63,2024-02-20 04:40:27.456828,Egypt,Cantrellside,Cash,Express,Shipped
+f090324d-a608-45d5-b245-2fdb2d7ad016,Mrs. Kim Cruz,pick,4,430.37,2024-02-01 08:53:42.087282,Heard Island and McDonald Islands,West Amystad,Cash,Express,Processing
+fe8a7d3c-c769-4e23-bfc3-91dfe2304157,Kara Lamb,fight,1,165.95,2024-02-21 13:49:59.039396,Panama,New Michaelfurt,Cash,Standard,Pending
+bf1c71c5-26cd-4937-998d-19b8928a05ed,Michael Mitchell,organization,8,660.3,2024-04-13 19:10:12.329825,Belarus,North James,Credit Card,Standard,Delivered
+b047bf68-ff41-4f1b-9492-a4def5ba584e,Erin Perry,set,6,712.31,2024-03-20 09:44:23.893880,Lebanon,Joshuachester,Credit Card,Express,Processing
+9d59aa25-8f9a-4613-ae13-9a2c28f4c657,Lindsay Nelson,eat,9,946.84,2024-01-22 07:52:17.339207,French Southern Territories,Webermouth,Credit Card,Express,Processing
+e5ddb143-e117-4c84-b4da-9c36e42f9b64,Michael Wagner,prepare,7,199.79,2024-04-05 04:49:17.318107,Falkland Islands (Malvinas),North Robertport,Credit Card,Standard,Delivered
+9b131d91-d8d5-442e-b0d3-66b3d96e7e1d,Mary Gallagher,analysis,7,748.67,2024-03-14 05:04:27.628365,Burkina Faso,South Tiffanyview,Cash,Express,Shipped
+d1b788a8-11f0-4bdf-b121-8b409e96288a,Danielle Knapp,left,9,327.66,2024-02-12 22:07:07.081738,Ireland,North Anna,Credit Card,Standard,Processing
+69c7b488-6bb4-4641-8955-49f87496ac3e,Carolyn Davis,bill,7,357.57,2024-04-13 03:28:32.421136,Bahamas,Richardsonland,Cash,Standard,Processing
+852e03b6-e104-4174-8a44-a71f877904d4,Cory May,deep,3,860.28,2024-03-04 20:52:18.590219,Ecuador,East Juanland,PayPal,Standard,Delivered
+606b657c-69e6-4504-b4a7-b277fd709aae,David Brown,where,10,693.24,2024-01-29 21:31:40.183096,Spain,Hillport,Credit Card,Standard,Delivered
+f5c0ee12-87aa-4693-9cc3-6f58d856e9fb,Anthony Singh,war,8,40.38,2024-02-06 16:22:08.491055,Iran,Emmamouth,Cash,Standard,Processing
+b9f97f5a-ede5-43b0-80ae-954f518d9ca8,Margaret Lin,method,3,168.26,2024-02-22 00:04:32.319316,Greece,Staceyhaven,Cash,Express,Pending
+5dba7181-4b93-4051-b066-d59bf56719e2,Renee Gibson,culture,2,814.99,2024-03-03 21:28:30.362229,Honduras,Jennyside,PayPal,Standard,Delivered
+f09bd3d5-66bb-4d26-9416-571e0fb898a7,Michael Robinson,might,1,505.35,2024-04-10 17:36:50.253422,Bangladesh,Bethville,Credit Card,Standard,Shipped
+cc3f5e90-985b-4cf6-a617-5f79f6881ead,Jill Davis,subject,9,139.5,2024-02-24 08:40:48.844023,Russian Federation,Robertville,Credit Card,Express,Processing
+e871c227-b46f-4c51-b5eb-66cb76a4074f,Danielle Bender,last,10,431.34,2024-04-11 16:12:43.072429,Heard Island and McDonald Islands,New Jeffrey,Credit Card,Express,Pending
+c5aa9e06-7e65-4a55-9c58-c7fa5fa7174b,Tasha Miller,bill,5,445.87,2024-05-01 06:53:20.819667,Dominica,Smithfurt,PayPal,Standard,Shipped
+efeeb0ef-9c55-40b9-827b-ee978a0fedd3,Mary Wallace,everyone,9,511.63,2024-04-02 17:43:10.957738,Equatorial Guinea,Andrewsstad,Cash,Standard,Delivered
+0a304cfd-992b-4043-9e82-6d058862d685,Troy Wright,administration,5,472.42,2024-02-25 18:04:47.705770,Cote d'Ivoire,East Albert,Cash,Standard,Pending
+60c506f1-3b4f-4fb2-b73f-e6861891e379,Mary Jones,claim,2,206.25,2024-03-09 05:40:55.039380,Lesotho,Georgefort,Credit Card,Express,Delivered
+21ab15ae-176d-4e3b-b264-cd3281de18fd,Tina Pittman,plan,9,683.64,2024-05-02 16:40:46.102518,North Macedonia,Simmonschester,Cash,Express,Processing
+e29ab37a-bc83-4238-a209-6ce1feabad3e,Cesar Green,place,4,592.56,2024-01-26 18:45:24.762293,Togo,East Edwardberg,PayPal,Express,Delivered
+66e7c536-716c-41f0-b6f1-c412d2552d70,Terry Curtis,beat,2,357.41,2024-04-05 09:11:11.378818,Paraguay,Lake Russell,Cash,Express,Shipped
+4e700d2c-dcad-4645-859b-b66dd0dfe9ab,Stephen Lee,song,4,799.66,2024-02-28 09:47:44.315774,Mauritania,Robinstad,Cash,Express,Pending
+d864533d-55e2-415e-8cf4-a3e4c27fa15d,William Barrett,put,8,680.24,2024-03-01 05:15:47.045685,Montserrat,Paulburgh,PayPal,Standard,Processing
+45d78d52-9666-4919-80d5-d03a270de36f,Derek Hernandez,whether,7,977.08,2024-02-27 18:59:19.215420,Kuwait,Richardshire,Credit Card,Express,Pending
+fc266a4a-7359-440a-a0bc-745bf460bf9e,John Martinez,easy,1,306.99,2024-02-08 22:23:39.177819,Martinique,East William,Cash,Express,Shipped
+42849495-c845-4af7-9517-0e769b709486,Regina Thomas,us,8,575.2,2024-02-10 09:30:17.933401,Saint Martin,Lake Lawrenceside,Cash,Standard,Pending
+59b256e9-f0d2-4e64-bcb0-bbe1b324ce50,Dana Martin,health,9,644.14,2024-04-13 10:30:27.314178,Singapore,Youngland,PayPal,Express,Pending
+b5755291-6e28-4bc6-b2cf-7217ef48db29,Malik Rodriguez,it,5,572.88,2024-05-01 23:32:44.808814,Equatorial Guinea,Millerborough,Cash,Standard,Pending
+c8b164b3-9c27-40a9-a908-b32d66ac0e12,Olivia Shaw,continue,6,653.02,2024-02-22 23:39:25.950781,Vanuatu,Millerchester,Credit Card,Standard,Shipped
+3c125885-e3b2-40e1-946a-98a1f2cdb544,Rebekah Watson,lawyer,3,89.88,2024-02-27 03:38:39.585747,Jordan,New Emilytown,Cash,Standard,Pending
+aee48ab6-ce9e-48e8-9e6f-047b3d44f6f8,Hannah Harrison,election,5,215.08,2024-01-05 23:38:49.193261,Portugal,New Jonathan,Credit Card,Standard,Processing
+777e3330-2d8b-43c7-b6b7-15d4369cbff3,Brandon Perez,land,5,56.78,2024-02-03 16:17:50.345185,Togo,Farmerstad,PayPal,Standard,Pending
+575d6095-7057-498d-abc2-f6a92c2b178f,Austin Young,firm,3,12.75,2024-04-25 01:14:10.290943,Lithuania,New Christine,Credit Card,Standard,Delivered
+7ba84dd4-1f8f-4422-b0f4-29fffa8a67e6,Erin Berry,perform,7,409.83,2024-02-03 11:19:12.422597,Rwanda,Potterfurt,Cash,Express,Pending
+816b7441-f9ef-49dd-891f-ed3c026062c6,Elizabeth Parker,interest,5,486.99,2024-01-31 04:03:02.362491,Tokelau,Lake Christopherland,Cash,Express,Shipped
+ccf2cc5f-a04e-4637-ac2d-b68380252e60,Alejandro Yoder,subject,5,693.84,2024-03-18 16:42:31.809756,Congo,Port Cynthia,Credit Card,Express,Processing
+01718467-9c20-4dfc-991d-289962c42f3f,Jasmine Walsh,true,1,336.47,2024-02-06 02:50:51.404340,Uruguay,East Krista,PayPal,Standard,Processing
+c4b3949c-ae3b-4bb5-9460-e02006468696,Michele Campos,information,8,734.98,2024-02-06 08:42:30.102594,Korea,North Andrew,Credit Card,Standard,Processing
+51fdbb99-a35e-465a-9d2c-3481ba232a06,Derrick Palmer,suffer,3,178.18,2024-01-06 18:55:07.076856,Honduras,Jeremytown,PayPal,Standard,Pending
+947d5d0d-f470-4da7-b622-08b07e85d5d9,Chelsea Simon,lay,4,516.06,2024-01-15 05:43:27.865293,South Africa,Adamfort,Cash,Express,Shipped
+f53ae6db-d86a-4178-ba8b-ef37be7349bf,Charles Coleman,thus,9,412.41,2024-03-19 08:25:39.564894,Turkey,Castroport,Credit Card,Standard,Processing
+ca288650-e675-4e6e-b12d-437717a69e2a,Rebecca Jimenez,turn,4,343.06,2024-04-26 15:29:41.210281,Cayman Islands,Port Dawn,PayPal,Standard,Processing
+75dae223-4e01-4968-b184-8e1cc5fee29e,Michael King,feeling,6,801.48,2024-01-16 17:28:20.125010,Congo,Meganborough,PayPal,Standard,Shipped
+376927e8-136a-4981-b126-f222c66db4da,Mrs. Erika Bates DDS,through,10,225.46,2024-03-10 13:28:29.636143,Trinidad and Tobago,Nicholastown,Credit Card,Express,Processing
+f8f8663b-488e-4627-81a0-70f10fbc4041,Michele Dickson,big,1,936.55,2024-01-15 15:03:23.958649,Mozambique,Ruizview,Credit Card,Standard,Processing
+12be0de6-129b-4010-827a-a2167194a0cb,Peter Moore,watch,8,760.17,2024-01-31 14:19:58.154532,Lesotho,Alexchester,PayPal,Express,Shipped
+14695f63-1013-4a90-aae4-21bff1f21af0,Jason Garrison,less,5,690.13,2024-03-15 18:50:55.111842,Tunisia,West Briannatown,Credit Card,Standard,Shipped
+e043acc8-436d-4ade-9bf2-33469fc1a7b0,Michelle Hernandez,audience,1,829.79,2024-02-27 16:16:34.185462,Israel,East Michellestad,Credit Card,Express,Shipped
+8e4972f5-302a-4474-aec3-008f32c1216a,Jody Hicks,anything,3,669.11,2024-02-22 08:29:28.700187,Romania,East Tylerville,Credit Card,Standard,Processing
+3011085a-cb55-436a-a7b4-b674ed0d4a63,Brittany Morales,white,3,146.14,2024-01-08 22:26:36.618487,Gambia,Nelsonland,PayPal,Standard,Pending
+7ec0905c-b25c-48f4-a303-cd48a26b827e,Amber Merritt,majority,2,420.25,2024-03-12 04:07:25.491976,Argentina,South Nicoleburgh,Credit Card,Express,Processing
+26d3dac2-35a9-4100-b566-bd12c956b584,Roy Hill,read,10,718.9,2024-02-02 00:06:29.441057,Moldova,East Aprilmouth,PayPal,Standard,Delivered
+08b5789b-a6a0-4f00-a5d6-38049cda247a,Carrie Martinez,political,1,597.56,2024-03-05 18:14:56.340073,Marshall Islands,East Katherineport,Credit Card,Standard,Delivered
+49f085ae-a4fd-48e4-adc9-17f43204eab5,Kyle King,candidate,9,516.64,2024-02-27 05:16:09.742641,Hong Kong,East Judithchester,Credit Card,Standard,Processing
+67f3df17-5ba6-47e9-8ec6-f2d1e0ff597c,Karl Giles,discuss,7,746.1,2024-02-05 23:51:16.810755,Nicaragua,Burnshaven,Credit Card,Express,Processing
+f7c216dc-88a4-4e97-b96a-8b87bac48681,Michael Edwards,deal,6,595.3,2024-03-20 07:34:06.552648,Falkland Islands (Malvinas),South Rachelmouth,PayPal,Standard,Processing
+6a50f55b-f6d9-4be5-9045-f01d8a2f615a,Crystal Walters,case,9,287.6,2024-03-17 19:00:41.678923,Liechtenstein,East Brittany,Credit Card,Express,Shipped
+2b9ee451-0a33-4094-bf42-1262bd627152,James Walter,everything,5,294.05,2024-01-29 18:19:59.008746,Niger,West Cassandra,PayPal,Express,Processing
+a83ee6c7-fd56-4e2e-96f1-208354e55fbd,Matthew Gilbert,free,1,974.86,2024-01-23 21:47:48.685416,Somalia,West Jamesmouth,PayPal,Express,Delivered
+35fa756e-cc94-44b7-b97b-58301de2b3f1,Ricardo Jones,event,5,130.79,2024-04-10 03:49:47.674958,Palau,Port Rebeccaville,PayPal,Express,Shipped
+3c21e388-bec6-44ae-9e99-ab4f17ab9e79,Marc Steele,family,10,31.47,2024-03-19 02:09:14.394220,Eritrea,Brittanyberg,PayPal,Standard,Shipped
+58569cfd-4c4d-465a-9e15-4968cdf404f2,Kim Rivera,approach,10,237.09,2024-01-07 12:02:25.322341,Philippines,Knightside,Cash,Standard,Delivered
+28770775-5b89-4b54-b3fc-ee9c2d72a5d9,Thomas Monroe,peace,1,10.55,2024-02-21 09:17:46.146659,Saint Kitts and Nevis,North Andrewland,Credit Card,Express,Processing
+ef7469da-96ab-4e01-a1c4-e5ee53bd0e79,Nicholas Ramirez,future,10,397.16,2024-03-03 13:28:50.400779,Portugal,Barreraville,Credit Card,Standard,Shipped
+da89d243-d72e-4d89-8bcf-552de686b58b,Wesley Campbell,hit,8,673.33,2024-01-27 08:15:47.162387,Canada,Foxville,Cash,Express,Pending
+750c4a84-f22d-4217-b966-957b6626b55b,Raymond Buckley,real,6,348.08,2024-03-29 09:18:20.859037,Canada,Connerfort,Credit Card,Express,Shipped
+2abb4beb-6d1c-4837-97f9-d22d4533cb1b,Sean Ellison,similar,6,444.47,2024-03-21 02:18:00.473954,Japan,Frederickstad,Credit Card,Standard,Delivered
+05b713e5-aa5a-47da-9389-8f18047ed778,Douglas Roberts,at,7,173.27,2024-02-05 11:13:08.441875,Guyana,Jonesstad,Cash,Express,Shipped
+615e0095-1bfb-4dbc-a2c7-e91359abd49b,Rhonda Carter,season,9,20.61,2024-03-16 16:22:59.258271,Micronesia,Rachelside,Cash,Standard,Pending
+7b10a3aa-d44e-49d6-8d40-93b6c693c82c,Diane Novak,page,5,243.36,2024-02-25 15:19:22.812819,Libyan Arab Jamahiriya,Aaronside,Credit Card,Express,Delivered
+b266981d-fde8-4290-be14-c230aad2695d,Tammy Boyd,should,8,473.57,2024-04-02 17:56:33.143557,Guam,Thompsonhaven,Cash,Standard,Pending
+00ff53dc-a7b2-4459-9b54-cc68c426fb7a,Luis Ortiz,alone,4,860.98,2024-02-21 17:50:34.448882,Barbados,South Annette,PayPal,Express,Shipped
+7a8050b7-3ff7-4f5f-9e1e-a14139f3a954,Christian Harris,bill,9,379.71,2024-04-10 15:01:03.891782,Tajikistan,Barnettmouth,Cash,Standard,Pending
+58d2d0d2-a8b3-4135-bbb5-041b9ded2f27,Corey Clark,lead,2,768.93,2024-05-03 14:47:19.088140,Morocco,New Sarahmouth,Cash,Standard,Processing
+83e517be-586b-485e-98d1-8149a51c556d,Alexander Atkinson,end,3,132.86,2024-03-01 21:03:13.020382,Colombia,Port Maureenview,Cash,Express,Processing
+bee441ed-9e24-4ff2-a14b-00eba9ee0d13,Christopher Salazar,fear,1,854.0,2024-01-06 14:14:26.951919,Sweden,West Eric,PayPal,Express,Processing
+3e237816-35b2-4763-a7b9-7ec53b7654ee,Zachary Perez,police,1,921.08,2024-04-02 01:35:15.210643,Equatorial Guinea,Anthonychester,Cash,Standard,Processing
+463f3103-74e3-438e-8f06-5164819679b5,Stacey Potter,old,8,197.44,2024-02-02 19:16:06.174845,Indonesia,New Amanda,PayPal,Standard,Shipped
+26f60ea7-1659-4dc4-bf53-b4c653307409,Mr. Jamie Garcia Jr.,just,4,189.45,2024-03-11 09:18:23.972343,Qatar,East Austin,PayPal,Standard,Shipped
+09c212b4-eb09-46c0-8870-3c75997f6bca,Alyssa Carpenter,green,2,403.65,2024-04-26 10:19:12.126061,French Polynesia,Lake Robin,Cash,Express,Pending
+55dcbfe5-a16d-40a7-bd2b-321dd3f7e410,Abigail Harrison,him,9,255.27,2024-04-01 08:10:08.472589,Antigua and Barbuda,Port Maria,PayPal,Express,Pending
+18c22053-45d8-44b6-9a41-422aad758bcc,Christina Walker,hospital,2,685.0,2024-01-23 18:43:31.960271,Trinidad and Tobago,Coxtown,PayPal,Standard,Processing
+4e47b25e-3a53-47b3-801f-7d29256dd83e,Nicole Johnson,thousand,3,663.95,2024-01-24 19:58:35.084631,Armenia,North Lindaburgh,Credit Card,Express,Pending
+4c16a557-78a1-4b9b-abf9-f8739fcab732,Jeremy Olson,plan,5,787.59,2024-01-30 19:04:24.145599,Reunion,Timothybury,PayPal,Express,Delivered
+30414a9e-538e-4eb0-a41f-fd7765201ada,Leslie Gillespie,second,1,677.24,2024-02-13 11:48:21.554694,Hungary,Port Joseph,PayPal,Express,Shipped
+12305248-449d-43a3-b2a3-a0e3502f575f,Barbara Bowen,ground,9,358.0,2024-01-10 23:53:39.412916,Liechtenstein,West Rhondahaven,Credit Card,Standard,Shipped
+b5bd60bb-0c24-475b-9617-8df200fe9308,Bryan Hendricks,law,7,739.14,2024-01-14 04:34:01.450910,South Africa,North Patricia,Cash,Standard,Delivered
+f8875e2c-b50b-453b-82f3-f03747871bee,Jacob Owen,pass,10,811.62,2024-02-28 14:33:37.381114,Myanmar,North Devin,Credit Card,Standard,Pending
+e0122774-26a9-4605-b94f-a86f277460e3,Zoe Whitaker,miss,1,171.5,2024-04-16 21:18:06.054803,Andorra,Margaretbury,Cash,Express,Processing
+3be6b68f-4c22-4ecd-9409-d2dcf502d7c7,Michelle Grant,court,9,703.44,2024-02-20 05:50:50.159290,Liechtenstein,Janetland,Credit Card,Standard,Pending
+8f252866-d836-4163-9e2e-12b59c50376a,Joshua Brown,point,6,206.97,2024-01-03 10:23:05.657181,Northern Mariana Islands,South Catherineborough,PayPal,Standard,Delivered
+b039096d-a503-4580-a834-fbe8f32e4968,James Lopez,enjoy,9,833.89,2024-03-13 05:02:41.184485,Djibouti,Burkeshire,Cash,Standard,Delivered
+ae309c74-a5b2-4b14-91a5-f3f24fb425a2,Stephanie Weaver,war,2,290.97,2024-03-30 04:10:15.486062,Lesotho,Jacquelineton,Credit Card,Express,Shipped
+1d9800a2-63c9-4b59-bca6-49ab6a5f23d0,Sara Johnson,tax,8,21.07,2024-01-16 01:20:50.725606,South Georgia and the South Sandwich Islands,West Carlfort,PayPal,Express,Pending
+1413082e-b0f0-436b-887c-efb6a0116e49,Natasha Duncan,produce,9,497.56,2024-02-17 10:59:20.180776,Latvia,Duncanchester,Cash,Standard,Delivered
+8a5e03e2-3bef-4e24-8c50-780ad2de9495,Julie Stevens,avoid,5,163.39,2024-05-03 13:14:28.971181,Isle of Man,Fieldsmouth,PayPal,Express,Pending
+a9522414-1063-43e9-b9d4-8d961b315ae0,Toni Blackwell,meeting,1,677.12,2024-01-17 02:17:19.288747,Central African Republic,Melissafurt,Credit Card,Express,Shipped
+66a4a700-03c0-42f7-99b4-bb079306a7f0,Nicholas Miller,fire,10,109.73,2024-01-28 15:00:19.239325,French Guiana,Lesterfurt,Cash,Standard,Delivered
+42241290-3c4d-4fab-8f3c-b6845f56cce9,Travis Porter,action,5,773.0,2024-03-17 20:23:42.330931,French Southern Territories,South Michelle,Cash,Standard,Delivered
+1e118656-0ec5-48be-8a62-6184f0e11783,Alexander Conrad,myself,9,378.98,2024-04-22 06:20:41.589740,Niger,West Kevinfort,PayPal,Express,Delivered
+339b9891-d903-461e-bbc2-b00b212ca827,Donna Smith,forward,3,694.83,2024-03-08 03:39:55.411657,Saudi Arabia,Duranside,Cash,Express,Delivered
+4c412474-c4a1-4647-837f-239813df42b6,Michael Reese,really,1,896.29,2024-03-28 01:47:23.089920,Christmas Island,South Tammyshire,PayPal,Express,Shipped
+6d24ded4-75f7-4e0d-8804-847a6065aacd,Benjamin Lin,direction,10,689.79,2024-02-26 13:20:23.928512,Hungary,Lake Ericview,Cash,Standard,Shipped
+5439f7e2-a5bb-4dea-907e-f35d2ac53faa,Brittany Johnson,out,2,881.19,2024-01-08 13:02:17.382484,Turks and Caicos Islands,Bellville,PayPal,Express,Pending
+2a73896e-f628-4874-aa6e-d419e467dae2,Cynthia Perry,military,4,378.52,2024-01-31 16:53:47.700756,Maldives,Adamshaven,PayPal,Express,Processing
+ab09d07a-f6a8-48b8-b37d-e549c7ef12fd,James Lee,light,10,42.52,2024-04-19 01:39:57.447297,New Caledonia,Calderonchester,PayPal,Standard,Delivered
+35e3a42c-eac5-4144-8608-39f747260ba2,Caitlyn Long,ask,2,829.62,2024-01-07 15:16:44.047614,Lebanon,South Davidland,Cash,Express,Pending
+81358320-f352-4e7c-84a5-072725c50a80,Derrick Sloan,respond,3,877.09,2024-01-14 02:32:33.019689,United Arab Emirates,Lake Dillon,Cash,Standard,Processing
+8d2c5fc0-2293-4b0c-bd07-08205cd20a38,Debra Marshall,night,7,100.78,2024-03-15 15:22:17.438221,Algeria,West Michaeltown,PayPal,Standard,Processing
+95437588-810b-4069-af94-8432ee292d79,Christopher Clark,class,7,59.39,2024-02-27 19:33:53.341778,Vanuatu,Christinebury,Credit Card,Standard,Pending
+c113a819-51a3-4829-b186-df136a2730de,Robin Hughes,same,3,62.1,2024-01-22 11:04:44.623410,Egypt,New Ericberg,Credit Card,Standard,Pending
+2ed98fa5-771a-4af3-a0d0-f217bed51dc1,Taylor Lowe,again,2,598.72,2024-04-27 03:06:07.545769,Japan,Lake Cesar,Credit Card,Express,Delivered
+fe270209-e934-415a-802d-f3fe8296948d,Rose Ross,box,1,674.63,2024-01-18 22:56:33.346078,Jamaica,Jeremyland,PayPal,Standard,Pending
+32506b1d-46d3-4c29-bd37-7e1d3d0156d0,Nicholas Lucas,claim,1,885.02,2024-03-30 07:26:02.755638,Colombia,Johnathanland,PayPal,Standard,Delivered
+20ec7218-cc30-42b7-939a-eb82c2c9bd5c,Tiffany Johnson,always,5,595.33,2024-03-25 04:35:42.428083,Saint Pierre and Miquelon,New Lori,Credit Card,Standard,Processing
+5ac085ad-0dd3-470a-a442-5e0b1fb9c83e,Ashley Watkins,mind,3,607.76,2024-02-19 08:51:58.845208,Angola,Port Justinburgh,Cash,Standard,Pending
+cf0e39fa-e88d-46be-bc44-c2f29468225d,Carlos Day,market,4,784.57,2024-02-22 03:30:54.362575,Mauritania,Andrewsport,Credit Card,Express,Shipped
+471a6b78-21bb-4d32-81f4-e1f332ac329b,Michelle Gomez,number,10,257.32,2024-04-14 21:07:37.157056,Saint Pierre and Miquelon,New Kaitlyn,Cash,Express,Delivered
+eafaf4ab-34f9-49e1-a97b-3a299570f77c,Laura Ruiz,throughout,10,965.82,2024-01-12 23:18:06.590771,Heard Island and McDonald Islands,New Dustin,PayPal,Express,Shipped
+70284531-ed34-413c-ba36-1703906678df,Kristine Cardenas,argue,2,28.37,2024-03-25 15:09:25.916083,Mali,Nicholsberg,Credit Card,Standard,Shipped
+f96a8c4d-f049-4772-8325-86674416cc38,Richard Porter,role,4,495.17,2024-01-02 11:22:21.949968,Slovenia,New Melissa,Credit Card,Standard,Delivered
+921fefb9-a7ed-4448-8b23-c9f8eda6a701,Traci Allen,until,6,66.53,2024-04-05 02:00:10.967114,Malaysia,Tonytown,Cash,Express,Shipped
+5a30b5c3-247e-47d0-9878-a3c17e9a7205,Timothy Wilson,couple,6,106.7,2024-03-04 08:04:21.328410,Tanzania,North Toddchester,Cash,Standard,Pending
+4e97ac82-5181-4762-83f6-d1e3688cb61e,Eric Perry,against,4,390.13,2024-02-19 02:27:14.841727,Dominican Republic,Deanfort,PayPal,Standard,Delivered
+ad056702-3620-438b-9119-eb4e7c3c36bf,Donald Wiggins,experience,5,736.0,2024-01-31 17:48:51.696823,Guinea-Bissau,West Douglasport,Cash,Express,Pending
+59a037f0-3ed9-4f0c-a834-fa0b6a94fb79,Angel Lewis,decade,8,25.16,2024-05-01 08:42:38.857326,Tunisia,Lake James,PayPal,Standard,Pending
+888c7c3e-32ff-4657-9f70-babadaae7ae5,Manuel Guerra DDS,address,10,65.16,2024-04-24 20:08:23.266188,Norfolk Island,New Kaylafurt,Credit Card,Express,Shipped
+01cbc788-470e-4a88-9e2c-dadac199b764,Crystal Ward,less,9,864.06,2024-03-11 06:53:00.185847,Benin,Lake Marthamouth,Cash,Standard,Delivered
+d0f2b7dc-cabc-48bd-adc4-5ca20cb6ed42,Aaron Higgins,course,10,47.76,2024-04-28 05:14:40.552494,Belize,Brandtville,Cash,Standard,Processing
+757ae84f-d6ca-40d3-8d99-0ebf72a4201b,Dylan Johnston,hit,7,114.18,2024-02-21 07:49:17.456510,San Marino,West Johnmouth,Credit Card,Standard,Pending
+ad7b639f-953f-40cf-8248-13532860268b,Darren Foley,manager,5,901.09,2024-02-16 14:57:39.523723,Cocos (Keeling) Islands,East Markhaven,Credit Card,Standard,Delivered
+7709832c-2a6d-412a-834e-03f544a94038,Joanne Griffin,past,9,907.01,2024-02-06 12:00:40.865713,Saint Lucia,Clarkstad,Cash,Standard,Shipped
+bdb20271-3739-4541-b054-5702acc62707,David Bates,international,8,306.03,2024-03-04 23:42:44.566253,Georgia,North Tonyburgh,PayPal,Express,Shipped
+7b0b6b83-e42a-4adb-bdba-399b31f8fe54,Jennifer Good,area,1,976.95,2024-02-03 11:06:24.879376,El Salvador,New Kathryn,Cash,Standard,Pending
+9e4da973-9e85-4336-a661-a7c564a6f1cc,Joel Lyons,idea,8,255.72,2024-02-04 00:50:23.880460,Uganda,Robertside,Credit Card,Express,Shipped
+60f56bfd-7044-432d-8615-fc1678437b16,Elizabeth Ellis,they,1,714.6,2024-01-21 13:09:14.799426,Lao People's Democratic Republic,East Kelsey,Cash,Standard,Pending
+88a4be9a-b488-4c06-8d21-fc056cb7d964,Amy Bowers,exactly,3,390.54,2024-03-03 18:55:19.093251,British Indian Ocean Territory (Chagos Archipelago),Coxmouth,Credit Card,Standard,Shipped
+3f8967a6-b85b-49d1-bfa2-9dfa4c914718,Wendy Lyons,explain,3,637.36,2024-03-11 19:07:05.145346,India,Fuenteshaven,PayPal,Standard,Shipped
+fce62645-c28e-4b90-8473-aee25112fc53,Amy Sullivan,enough,8,584.76,2024-03-03 01:38:51.193617,Uruguay,Lake Jacquelineshire,Cash,Express,Pending
+304d3f3e-6e5c-4ee1-92ff-6e45c51e508f,Steven Garcia,impact,3,398.89,2024-03-30 00:53:09.028903,Italy,Jeremyview,Cash,Express,Shipped
+7ca42329-01d2-48cc-8cd1-777e1e824e5b,Curtis Williams,moment,9,451.02,2024-03-15 00:52:18.031824,Morocco,Steinstad,Cash,Standard,Pending
+c77771d2-c7cd-4e6f-ae00-6e4042834178,Kevin Craig,miss,2,68.0,2024-02-07 03:58:18.563514,Svalbard & Jan Mayen Islands,Lake Andre,Cash,Standard,Shipped
+7fbd37e7-5757-4c39-ab67-29481de4e49f,Elizabeth Sherman,Mr,6,413.02,2024-02-28 06:09:28.908267,Switzerland,Port Megan,Cash,Express,Delivered
+fc0f883d-7048-4473-9a37-441aea6324ce,Justin Smith,religious,7,739.77,2024-03-31 08:52:18.045768,Jamaica,East Jefferyville,Credit Card,Express,Delivered
+e18a8928-f9ab-4d81-84fb-c4bd66f5afc5,Shirley Garcia,let,2,398.09,2024-02-03 02:00:19.959990,Ghana,Mathewsport,PayPal,Express,Shipped
+f1f19fb6-9f14-4537-9f3c-bee496332a5b,Jenny Salinas,should,3,862.45,2024-04-18 01:28:07.442526,Bahamas,Lake Brooke,Cash,Standard,Delivered
+18724812-5839-4d1b-8f26-0459dd8834b0,Kimberly Davis,beautiful,5,944.38,2024-01-14 16:37:26.901327,Nauru,Hammondport,PayPal,Express,Processing
+d3f3b06b-e2f8-46e5-806a-0af297ecdc9b,Scott Ellis,born,10,741.99,2024-03-04 21:48:33.330909,Kyrgyz Republic,Port Hollyshire,Credit Card,Standard,Delivered
+d681c5b9-541c-4b89-b647-6143ea4149ef,Miguel Robinson,draw,6,491.28,2024-05-01 07:00:47.983789,Kiribati,South Scott,PayPal,Standard,Delivered
+b5711dd4-2a20-4956-9cbb-d101f53144a6,Theresa Patrick,play,9,544.13,2024-03-12 19:05:59.606478,Belarus,Lorichester,PayPal,Express,Delivered
+8a359b4a-5123-44d2-a4de-915b2b493f89,Javier Walton,less,8,519.12,2024-03-29 03:14:19.961781,Iran,New Jody,Credit Card,Standard,Pending
+9d1ba408-373a-4458-8f70-a44e47ef85e1,Jasmine Torres,stage,9,500.54,2024-01-11 05:24:45.012134,Marshall Islands,Hurstland,Cash,Express,Shipped
+1768f823-1891-4115-8128-5fa34beacdbc,James Ellison,room,2,298.89,2024-02-04 15:37:32.202879,Bosnia and Herzegovina,South Stevenland,Cash,Standard,Delivered
+2232f557-f916-4737-91a4-9e619a694bec,Marc Johnson,man,3,129.28,2024-04-19 22:20:57.849055,Angola,New Amy,PayPal,Express,Delivered
+2fd1c107-198f-48fd-b1ee-e3d4b165b514,Daniel Quinn,community,2,238.55,2024-03-26 07:08:07.030159,Slovakia (Slovak Republic),Lake Samanthaburgh,PayPal,Standard,Delivered
+e276691b-6e23-400f-ab9f-ebc520b7887d,Suzanne Monroe,bed,4,997.26,2024-02-25 00:21:09.270075,Morocco,Kennethland,PayPal,Standard,Delivered
+3fa67cb7-9108-470a-a8ec-aee5b0971eec,Alejandra Harris,than,8,445.47,2024-03-19 12:42:59.338411,Canada,East Davidstad,Cash,Express,Shipped
+416f2af2-1595-4759-b5f5-cae847fcf8f5,Joseph Green,list,2,21.75,2024-03-15 04:38:44.105266,United Arab Emirates,Mollyshire,Credit Card,Express,Pending
+f5944235-7063-4b06-832f-3d6ae048c632,Michael Pittman,truth,10,709.4,2024-04-16 01:17:59.442391,Israel,Allenstad,Credit Card,Express,Processing
+42540e3d-d956-494a-a0da-d5a56550866a,Elizabeth Brown,fire,8,737.79,2024-03-22 10:22:40.101231,Cambodia,New Zacharymouth,PayPal,Express,Processing
+67c9c678-8c1d-4ece-90b1-e5de3f860d86,Stacy Gray,east,9,104.93,2024-01-18 19:15:57.796592,Chile,New Amandachester,Cash,Standard,Shipped
+7fd8cf18-47f4-47be-afa5-1b5a8b74b827,Kathleen Smith,thus,8,858.44,2024-03-18 08:15:26.888486,Palau,Phelpsmouth,PayPal,Express,Processing
+51160cac-24a7-45f6-813b-0adb40766153,Justin Kennedy,ask,4,792.85,2024-04-22 17:02:25.002848,Samoa,New Anna,Cash,Standard,Delivered
+c1871d08-c4bd-448c-8057-318d9aad057f,Edward Moore,protect,3,497.14,2024-04-28 18:22:10.855626,Guadeloupe,Kelliland,PayPal,Express,Processing
+9af7554c-2e56-48d5-9774-4e99fa18abb1,Garrett Reyes,pressure,4,628.19,2024-01-18 13:03:20.136314,Peru,Tiffanyhaven,PayPal,Standard,Processing
+c8764738-b5af-413a-94b6-4a838a8c1478,Tracy Ward,one,4,331.18,2024-03-27 12:00:50.794699,Guadeloupe,Smithside,PayPal,Express,Pending
+e9642f7b-0ff3-4d31-bc47-282e4ad20251,Thomas Torres,rock,8,956.73,2024-01-24 17:47:33.702589,Gabon,Lake Jonathan,Credit Card,Express,Pending
+915a7df4-953a-43c5-a2d5-6e85118349ff,Scott Duke,understand,7,668.46,2024-02-02 21:46:47.011151,Costa Rica,Tammymouth,PayPal,Standard,Pending
+7d60a43d-95ba-430c-861e-9917bdc8c178,Mrs. Tanya Levine DDS,scene,10,311.63,2024-01-27 19:07:43.824681,Korea,Montgomerystad,Cash,Standard,Pending
+76fe26f7-d399-452a-a06c-b81e993fec94,Darlene Wagner,system,10,755.82,2024-03-04 12:27:17.319590,Mauritania,East Traciview,PayPal,Standard,Delivered
+5b2b13f2-a4d7-4e83-89f9-9dc0f836b9e2,Heather Graham,community,6,25.23,2024-03-09 18:45:56.388759,Lesotho,Lake Janet,Credit Card,Standard,Shipped
+4b0cc630-3b57-4ee5-94f2-1ac5ca84965e,Sydney Hamilton,including,2,193.66,2024-04-06 14:08:03.590394,Congo,North Stephenfurt,Cash,Standard,Delivered
+4e7900ee-0a26-478f-a269-61ad74d13953,Norma Brown,talk,7,69.84,2024-04-26 15:25:55.822589,Madagascar,North Rebecca,Cash,Express,Pending
+a3e35e4a-0484-48ec-80a3-1cc842da8537,Amber Reynolds,the,5,845.25,2024-01-11 23:33:36.178454,Paraguay,East Melissaport,Cash,Standard,Processing
+90995c46-d18c-409c-b0e4-f5f09cb37489,Kenneth Pearson,point,9,40.97,2024-01-25 20:59:46.536228,Equatorial Guinea,Olsonfort,PayPal,Express,Processing
+e7f9ab18-9f0e-488d-873f-3d3e5e8cb751,Jeremy Haley,performance,3,682.57,2024-02-16 03:26:18.745245,Ethiopia,North Joseph,Cash,Express,Shipped
+028a81c4-2bc3-4525-b47f-2ec16e1873f0,Stephanie Roth,impact,9,533.51,2024-01-11 21:11:17.405667,Spain,Adamsstad,Credit Card,Standard,Processing
+e265c73c-85d8-4e9a-9f24-a4f12afaa6cb,Adam Perkins,clearly,5,535.57,2024-05-02 13:14:18.138309,Fiji,West Charles,Cash,Standard,Pending
+f8442fd6-7f81-4bb6-82dd-f190ff55db6e,Sandra Owens,information,3,418.89,2024-01-15 09:55:44.006621,Portugal,Katiechester,PayPal,Standard,Delivered
+72102cd5-95d5-4d9f-861d-d93089486bd4,Raymond Hardy,century,9,929.03,2024-04-07 07:30:50.836910,Argentina,West Martin,Credit Card,Express,Pending
+130f462a-b750-4757-b081-042342c557ac,Dr. Jackie Nguyen,food,3,753.98,2024-04-03 21:32:34.283484,Bolivia,Kimshire,Cash,Standard,Shipped
+fa1484ef-b61e-41eb-b35e-de11f60eb1a3,Joanna Curtis,west,9,560.11,2024-04-11 17:20:30.536534,Comoros,Ericfurt,Cash,Standard,Pending
+4080df17-df1f-43dc-b964-83d58bc00827,Rebecca Holland,oil,6,944.96,2024-04-07 02:33:52.304142,Guyana,Johnport,Cash,Standard,Processing
+04b2b5a1-0cad-4193-b83b-14d89c54f6ff,Kimberly Russell,space,6,489.72,2024-04-03 23:32:15.072148,Saudi Arabia,Annashire,Credit Card,Express,Delivered
+68fc1709-c32c-4980-b3e3-6a981051ebfd,Stefanie Benson,head,4,911.61,2024-01-27 16:30:22.771256,Philippines,Kelseystad,Credit Card,Standard,Processing
+de4e6135-8664-4df4-9255-8444cfe59639,Jessica Nguyen,early,1,647.95,2024-04-29 06:06:44.676271,Russian Federation,South Ricardo,Cash,Standard,Delivered
+2a37ad5e-a25d-4741-b6fd-5f21657fdb17,Amanda Brown,evidence,4,524.94,2024-02-14 06:10:35.768936,Niger,East Duaneshire,Credit Card,Express,Processing
+d6f50a9e-cad3-4887-add5-f577f26872ef,Lauren Kim MD,say,7,415.41,2024-02-06 10:20:41.684535,Egypt,Torresport,Cash,Express,Delivered
+211094f8-9bbc-4933-8341-c3b6ec30ce30,Christine Russell,coach,4,767.55,2024-01-03 05:00:38.688637,New Zealand,New Diane,Credit Card,Standard,Processing
+733e73eb-12ac-4ce7-bccc-8bed236fcc4c,Victor Allen,state,9,803.86,2024-01-14 05:36:50.122981,Turkey,Port Colton,Cash,Standard,Shipped
+cf708bc1-d732-4c17-b415-6d91b38e75b0,Michael Baird,suffer,5,393.25,2024-03-08 10:13:14.472800,Congo,Scotthaven,PayPal,Standard,Pending
+d3bab564-b484-4e7c-a7ca-df169c21ad4e,Elizabeth Henry,five,9,255.25,2024-03-17 06:30:17.797703,Bhutan,New Dawn,PayPal,Express,Delivered
+6cc3f45c-91af-4feb-a407-f9f04d5f0140,James Roy,occur,6,480.92,2024-01-01 16:07:17.301620,Dominica,Joelfort,PayPal,Express,Pending
+acd78e46-68c3-4fed-8765-2a52a70ace52,Ashley Jones,research,10,361.39,2024-01-28 16:43:07.796226,Turks and Caicos Islands,North Evelynview,PayPal,Standard,Shipped
+5bc921f0-0cf6-4a1d-9cb4-f10dfe1b12f0,Stephanie Bell,wear,8,119.64,2024-04-11 13:44:21.588203,Saint Barthelemy,Cherylhaven,Credit Card,Standard,Delivered
+7082390b-041a-4a8d-9355-05e4c58abf3b,Lauren Sanders,civil,8,893.64,2024-02-26 22:41:21.279582,Jordan,Walkerside,Credit Card,Standard,Pending
+9af6afb3-c9f4-4740-9126-33826967707a,Amanda Berger,without,10,531.64,2024-04-09 08:29:07.345506,Syrian Arab Republic,Johnsonview,Credit Card,Standard,Pending
+2211d073-41f0-4a72-ab0c-f18b087761ea,Brandon Parsons,film,2,359.22,2024-03-18 07:48:05.957622,Reunion,Masonborough,Cash,Standard,Delivered
+1ef3783d-26d1-4bac-a7e0-ffe67549f23e,Anthony Hill,center,9,456.34,2024-03-15 01:13:57.651374,Isle of Man,Brandonborough,Credit Card,Standard,Processing
+870f6e0f-87d1-4f51-83db-e20a018c89e9,Phillip Brown,view,4,25.14,2024-02-04 12:35:57.620648,Malawi,Smithtown,Credit Card,Express,Pending
+cfe0e25e-208d-462b-b0c5-0a4b7f4ce207,Steven Rosales,safe,5,474.17,2024-02-02 08:37:52.906133,French Polynesia,Lake William,PayPal,Standard,Delivered
+8aea364e-895b-4f4f-8568-8cc3bb1ecfa1,Todd Mueller,across,8,781.84,2024-04-18 13:21:05.400349,Aruba,Lake Melissa,Cash,Express,Delivered
+d275d704-167f-460b-a891-b3958832e73c,Stuart Cruz,child,7,273.13,2024-04-29 19:23:42.259521,Tanzania,Brandonbury,PayPal,Standard,Processing
+323e8560-5fdd-4bfa-808a-3dfabbe88d4f,Carly Martinez,scene,8,208.87,2024-02-25 08:14:29.657049,Benin,South Michael,Cash,Express,Delivered
+9e5432f8-0782-4c63-ba44-9bab6e3b2945,Tammie Bates,easy,9,400.99,2024-05-02 01:33:44.873865,Slovenia,Shawside,Cash,Standard,Delivered
+138f4aa8-fbcf-43a4-b9d8-1321696d1fcf,Ashley Davis,card,10,699.92,2024-03-07 17:46:00.569956,French Polynesia,Jacksonbury,Cash,Standard,Processing
+cf2c05cb-7c65-4e02-b6b6-110533eb4cd3,Ronald Livingston,serious,2,201.0,2024-04-21 22:13:38.783038,Belize,Robertville,Cash,Standard,Processing
+6ac3a63f-1460-4583-83f2-8d5b10318c7b,Thomas Wood MD,offer,8,279.17,2024-01-31 12:04:32.678361,Belgium,Port Jim,PayPal,Standard,Pending
+572498c7-c32e-4fb8-a7bc-20eea9ee40ab,Timothy Moore,bring,1,914.25,2024-03-15 02:00:05.571756,Thailand,South Davidport,Cash,Express,Pending
+dec02de8-79b2-4841-b4ee-dfbe58fb5471,John Miller,tough,7,492.14,2024-04-11 01:19:04.791148,Uzbekistan,Port Jameshaven,PayPal,Standard,Processing
+efe0f0b1-3ed0-4e55-b0ee-74d4f28eff7a,Marissa Mayo,sense,1,560.99,2024-01-12 02:42:28.306014,Guam,Lake Brandon,Credit Card,Express,Shipped
+a8d00347-1e99-4dcd-8596-76c5d7f141d4,Wyatt Thompson,successful,7,442.7,2024-04-21 18:16:03.719608,Iran,Lake Heather,PayPal,Standard,Shipped
+89a8cb53-e498-48f2-bcd4-5631c70da7e6,Craig Baldwin,energy,4,167.31,2024-02-21 19:01:11.657861,Antigua and Barbuda,Andreberg,Cash,Express,Pending
+ab503ab1-ba23-4caa-9a33-ab3768133750,Christopher Clark,cause,7,717.8,2024-04-12 09:39:21.820622,Myanmar,Jarvisbury,Cash,Express,Pending
+3a4747fe-19e2-4ded-9eb2-7a90a83054ed,Keith Le,pattern,10,348.24,2024-03-08 09:02:00.648107,Guam,Gutierrezfurt,PayPal,Express,Delivered
+b564d7d1-191a-4289-a782-3c268ce60098,Kenneth Ibarra,seem,6,655.64,2024-03-06 15:04:00.415255,Monaco,Lake Jacqueline,Cash,Express,Processing
+4d97fa02-12d3-43ea-845a-ffe94ad4ef7c,William Galloway,story,9,458.14,2024-03-14 21:13:01.606268,Zimbabwe,Sosaland,Cash,Standard,Processing
+046ce0f2-fab9-4ac8-b889-365832cd179d,Francisco Lozano,on,9,272.87,2024-02-05 00:43:41.261195,Congo,Kelleyside,Cash,Standard,Pending
+f499cb0b-303b-4115-9a3f-3173a05bb53a,Travis Adams,fund,4,716.05,2024-04-10 15:23:20.588001,Tunisia,Lake Christophershire,Cash,Standard,Processing
+be5adb80-9c9f-43c9-a1f6-1316abe2eb03,Anna Allen,onto,3,873.37,2024-04-04 18:17:12.729772,Italy,East Michaelland,Credit Card,Express,Processing
+681ab1ca-4237-4536-80f7-a1a23a10cdd8,Thomas Merritt,at,4,515.23,2024-02-06 18:42:29.258895,Antigua and Barbuda,South Stephaniefort,Credit Card,Express,Processing
+88c26dde-150b-41a3-b200-9c74a7193ca0,Ann Hunt,sea,10,898.58,2024-03-02 19:44:42.366132,Finland,South Sarah,PayPal,Standard,Shipped
+b758d2ea-fbb1-4117-b2d9-26bfb217063f,James Anthony,say,7,600.02,2024-01-20 01:42:12.560047,Croatia,West Christopherborough,PayPal,Express,Pending
+94a10346-4801-4012-a8c7-eacf895bb865,John Richards,save,3,941.67,2024-02-17 05:04:56.746002,Anguilla,Allenside,PayPal,Express,Processing
+39f0abeb-cd5f-49cf-88b4-014ca6efb76e,Christopher Brooks,three,9,500.69,2024-02-28 14:49:20.469464,Lithuania,Humphreyfort,PayPal,Express,Processing
+115a11a7-de23-4f96-9503-d85a7e14cf00,Billy Miller,week,4,480.37,2024-04-11 18:01:25.753266,Mexico,Lynnberg,Credit Card,Standard,Processing
+a6957968-0ad5-4057-941e-800e74f05ba1,Haley Flores,another,3,131.72,2024-04-02 09:41:49.103042,Grenada,Adamsbury,PayPal,Standard,Pending
+0d48e5eb-2ca0-4753-84bc-a74860e198e8,Tracy Morrison,author,8,325.07,2024-04-26 12:50:34.477074,Puerto Rico,Rowlandstad,Cash,Standard,Shipped
+f43c5e17-1219-45d1-940d-0a322161adf0,Richard Klein,specific,4,899.04,2024-03-12 12:38:16.307829,Mozambique,Ericabury,PayPal,Standard,Shipped
+0770f638-b238-4e39-8c70-e09eafa7af5f,Kenneth Cruz,charge,1,370.48,2024-04-30 10:30:33.116296,Tunisia,Bruceberg,Credit Card,Express,Shipped
+075228df-a5b4-4892-b1eb-30e86ee762f3,Andrew Robinson,behind,10,492.92,2024-02-01 02:36:38.912861,Faroe Islands,New Christina,Cash,Standard,Pending
+1f8024c3-80bd-42a6-9075-9651ffba076e,Michael Marquez,probably,5,145.77,2024-01-14 02:35:44.936200,Central African Republic,Port Joyfurt,Credit Card,Standard,Delivered
+379f7ff9-1d82-489a-a33c-87c07be4e1a0,Jennifer Villegas,decision,7,921.23,2024-02-03 21:47:52.147933,Nigeria,Rachelmouth,PayPal,Standard,Pending
+9fefff9c-9177-4893-bf04-2be4c73f90b0,Julian Hill,training,9,394.01,2024-04-13 14:27:11.544153,Martinique,South Dwayne,Credit Card,Standard,Shipped
+c6c497df-f879-45a1-9630-8669a9fc336d,Robert Hamilton,responsibility,8,904.19,2024-02-04 20:52:02.039913,Cote d'Ivoire,Hawkinsmouth,PayPal,Express,Shipped
+d7878ae5-f073-44a5-9153-3040de599cd5,Steven Martinez,relationship,7,745.81,2024-03-17 16:04:34.461381,Saint Helena,Cisneroshaven,Cash,Standard,Delivered
+a2fc9bd8-16ad-43ea-b06f-3e75b65a9618,Hannah Knox,tree,6,750.29,2024-02-21 04:06:34.161157,Congo,New Melissabury,Credit Card,Express,Processing
+abe0e1fc-5808-41f9-a223-3badf7d7c049,Diana Jones,indeed,5,507.77,2024-01-23 09:13:49.092501,Guam,Garciamouth,PayPal,Standard,Processing
+d95603e3-912b-4ff9-805e-be53bbed2051,Alicia Espinoza,indeed,6,200.18,2024-04-28 21:48:25.182559,Dominica,Timothyside,Cash,Standard,Shipped
+a7aa8714-62de-4a02-8222-208a7b96131a,Rebecca Hart,box,5,765.3,2024-01-15 17:15:20.436714,Vanuatu,North Aliciamouth,PayPal,Standard,Pending
+84a7d40a-9a8c-407e-a2cf-935e3394d569,Erika Wyatt,response,3,578.22,2024-04-02 14:29:29.413943,North Macedonia,New Denise,PayPal,Express,Shipped
+6ff79c6e-ef3b-439d-8a97-10a9fde3332c,Melanie Miles,develop,3,273.51,2024-04-05 06:30:24.984596,Austria,West Dylan,PayPal,Express,Processing
+f2055f74-67a7-4c3f-be56-08ad12f3c98e,Sandra Hardy,although,6,177.08,2024-03-04 20:49:56.265142,Palau,East Tracey,Credit Card,Express,Delivered
+48de8ee0-0653-447c-b386-b5192b823028,Mr. Joseph Walker,gun,5,919.35,2024-01-03 11:15:11.040846,Switzerland,Kellybury,PayPal,Express,Processing
+d7922a55-d8c3-4253-8b0e-2267b5efddb0,Brady Robinson,raise,3,284.61,2024-02-03 00:46:19.332992,Northern Mariana Islands,East Josephland,Cash,Express,Processing
+2e3104b8-ca76-42c0-b292-9f64b9b1efb0,Sandra Todd,page,5,79.77,2024-03-19 15:58:12.892977,Puerto Rico,South Sharon,PayPal,Standard,Delivered
+9a62fb5c-1427-4feb-b00e-d86aeb4b5611,Benjamin Brooks,staff,8,906.39,2024-04-10 03:14:22.505985,Honduras,Hernandezborough,Cash,Express,Processing
+3c1249a2-a834-41b0-8c70-eef7755f0b72,Dr. Ryan Clements,hand,9,309.71,2024-04-08 23:42:13.672938,Saint Helena,West Hollymouth,PayPal,Standard,Pending
+3c8e7569-d56d-4149-81e8-7929321f092c,Aaron Davila,you,8,732.99,2024-02-22 08:11:05.225047,Portugal,West Joshua,PayPal,Standard,Processing
+1776f12b-9404-423f-ace5-2641aa233d61,Andrea Keith,generation,7,622.63,2024-04-27 05:26:10.139307,Mauritania,Wadeburgh,Credit Card,Express,Shipped
+5b72757a-4b1e-4b94-8ba8-bbc1487c648a,Christopher Sanchez,Mr,8,462.81,2024-03-27 07:05:55.360626,Pakistan,New Janet,Credit Card,Standard,Shipped
+2d1f5370-137b-42b2-91b8-5977a7320be0,Thomas Medina,bit,2,664.4,2024-03-15 08:40:35.894532,Switzerland,North Maryview,PayPal,Express,Delivered
+11394052-0ece-477f-90f1-ce3c41bae6f3,Michael Elliott,how,6,779.32,2024-02-09 22:26:53.184052,Rwanda,Gardnerhaven,Credit Card,Express,Pending
+7b81972a-080c-4ed9-a396-ca39ef3234e0,Stephen Hale,save,8,723.67,2024-03-15 22:41:41.760299,Ethiopia,Port Wyatt,PayPal,Express,Processing
+a828fb26-ab2d-4cbb-b817-16336fba34f6,Lindsey Ortiz,decide,10,612.43,2024-01-30 10:40:27.505520,Russian Federation,Williamsbury,Credit Card,Express,Pending
+437ec4ac-76f6-4bc6-b44f-bf785308a342,Kelly Lee MD,second,3,476.79,2024-03-05 22:32:22.020939,Czech Republic,South Danielland,Credit Card,Express,Shipped
+11e42889-526f-470f-8454-eb349b1058c2,Marc Sanchez,service,7,712.03,2024-02-28 06:05:07.933805,Estonia,Lake Heidibury,Cash,Express,Pending
+d62aa86d-d82d-4c7a-bd7e-602e78ce8a12,Wendy Ford,reason,7,633.08,2024-01-10 10:10:50.196770,Wallis and Futuna,Carlosstad,Cash,Express,Processing
+36469594-ff5a-460b-9296-fc7068e78c30,Scott Reynolds,authority,1,65.88,2024-04-19 11:41:12.718637,Holy See (Vatican City State),South Jessicafurt,PayPal,Standard,Processing
+a59ad409-cc2f-4815-8038-8912448c2b1d,Brandon Martinez,TV,6,61.36,2024-03-30 09:05:05.181647,Lithuania,Lake Annaview,PayPal,Standard,Processing
+ca78d5b6-d945-4b60-8f8a-8240302bcb11,Kevin Turner,action,8,121.0,2024-01-28 17:21:56.582183,Tuvalu,South Jill,Cash,Standard,Pending
+a9b1ce86-69f3-4a2b-89f8-18ea7e3cae44,Scott Matthews,bank,6,262.05,2024-04-21 03:02:21.922962,Wallis and Futuna,Lake Marymouth,Cash,Express,Pending
+80d7e725-9acd-4f27-89f4-c89590b1d5a5,Andrew Howard DDS,space,9,224.69,2024-02-01 00:24:42.698496,Albania,Wellsmouth,PayPal,Express,Pending
+bdbd46b4-07e5-429e-b968-5ea25717ffba,James Edwards,program,10,563.42,2024-01-21 00:18:15.011192,Saint Barthelemy,Calderonstad,PayPal,Standard,Shipped
+ac1b2a18-eee4-4e5c-a419-42e45d39d68d,Terry Lewis,me,7,778.25,2024-02-25 05:36:07.200609,Guyana,East Laurie,Cash,Express,Pending
+ee3524c4-de23-4d57-828c-cf726eae3b77,Melissa Russell,development,10,521.36,2024-02-26 14:50:05.778995,Kiribati,Pamelastad,Credit Card,Standard,Processing
+61e8bd36-38ea-4826-91d7-1690db20ecd5,Rachel Taylor,bed,1,114.42,2024-02-17 05:14:16.684976,Serbia,New Tracey,Credit Card,Standard,Pending
+a3fcb302-5f52-4da0-9edc-07cb1ee2c5c1,Jessica Marshall,service,10,854.0,2024-02-03 14:45:08.696759,Sudan,Perkinsside,Cash,Express,Delivered
+bf693e5a-afcc-4312-9086-5322dc9e25f5,Patricia Russell,not,4,753.58,2024-01-28 14:47:02.411089,Cameroon,Millsbury,Cash,Express,Processing
+2bda1a60-07c6-4187-b761-e208c6d53543,Victoria Abbott,change,9,853.68,2024-01-10 22:37:16.643890,Turkmenistan,South Kathleenborough,Cash,Standard,Pending
+d46488f3-2188-4467-a334-3ff3a97f32bf,Jennifer Adkins,number,10,129.26,2024-02-22 02:05:59.503547,Saint Barthelemy,North Anitamouth,Credit Card,Express,Delivered
+eb32b8ae-50d2-4f6c-b4c5-0c16664294c5,Michael Allen,against,1,784.07,2024-04-09 18:01:34.105439,Germany,North Dawnmouth,Cash,Express,Shipped
+f17b92dc-2437-46d5-9680-3839817cd4ff,Nicole Chambers,finish,9,598.13,2024-04-10 19:52:44.155500,Timor-Leste,Lake Kaylaport,Cash,Standard,Pending
+17e082a8-d36c-4b3e-b476-50f9f098054e,Edward Coleman,person,8,675.82,2024-03-30 22:28:58.258348,Bolivia,Lake Davidhaven,PayPal,Standard,Delivered
+3df5a349-d31c-4107-b755-035ee95ffe87,Denise Reeves,want,7,800.98,2024-02-21 16:02:23.886519,Greece,Grayville,Credit Card,Standard,Processing
+a4b5f6da-ccf8-461c-86b4-3eb3a55168ed,Chelsea Ramos,huge,9,80.95,2024-03-02 14:03:52.224340,Korea,Kimberlyfort,Cash,Express,Pending
+ffd82fc7-4c7d-453b-95cd-9d75300d9c77,Isabel Phillips,people,10,446.32,2024-02-01 09:19:25.255578,Maldives,Ortizhaven,Cash,Standard,Delivered
+504288ce-8a64-4ce0-b548-e0c02846c0e6,Joshua Guzman,economic,3,972.95,2024-04-01 13:40:52.865703,Bhutan,Lesliechester,PayPal,Express,Processing
+e553e5a7-09de-4f3c-a8d6-5d0c52b46476,Alexandria Jackson,security,10,729.43,2024-04-20 11:35:38.201283,Pitcairn Islands,New William,PayPal,Standard,Pending
+9cf4cb29-ccd2-430a-a282-84e9581dcd3b,Edwin Ford,sort,6,991.37,2024-04-27 06:25:09.175176,Dominica,Sandraview,Cash,Express,Shipped
+f0efa1ac-69f5-4390-966b-c8e2990a96d0,Kimberly Sanchez,trade,7,74.5,2024-04-07 22:16:06.095311,Guam,Stronghaven,PayPal,Express,Shipped
+4c7cb6e3-638c-4762-9469-08822d5581fb,Jeffrey Smith,already,9,891.67,2024-01-29 01:53:41.449241,Maldives,Austinburgh,Cash,Express,Shipped
+ceb54227-0760-4812-aec3-e28d80c11149,Kathryn Small,car,9,481.56,2024-03-14 14:37:26.778974,Panama,Lake Carla,PayPal,Standard,Pending
+cfb2f7eb-4f1e-40e7-84d2-2840a606ad4f,Kathleen Hartman,site,5,197.8,2024-01-19 17:19:06.965616,United States Minor Outlying Islands,Rickymouth,PayPal,Express,Shipped
+835ee68f-85fa-4005-adaa-fd70cd57db30,Erica Lewis,property,3,340.99,2024-02-09 04:28:15.838120,Serbia,East Brandonville,Credit Card,Express,Processing
+6b4ad6e6-aeb1-4335-82f0-7b991d36021d,Molly Martinez,buy,7,377.21,2024-02-13 16:36:52.070256,Timor-Leste,Martinburgh,PayPal,Express,Delivered
+74b2c460-4b59-4db2-88b0-10dd68b55f24,James Hill,new,8,955.26,2024-05-03 01:22:20.762588,Saint Kitts and Nevis,East Jennifer,Cash,Standard,Processing
+972e6d1a-9a4c-449d-8e44-369796259341,Angela Schwartz,these,7,267.56,2024-01-18 19:51:04.294118,Egypt,Lambport,PayPal,Express,Processing
+ad96cc87-c085-4b53-8ad6-f7556092f525,Barbara May,almost,6,607.21,2024-03-06 16:27:28.497636,Yemen,Hollystad,PayPal,Standard,Processing
+b093b34f-fc45-44ac-ab0b-8ca18229a5fc,Natalie Elliott,reality,9,244.91,2024-04-06 23:13:34.032925,Saint Martin,New Lori,PayPal,Standard,Delivered
+e8ff358c-a2f7-4256-812e-77e66563ac4d,Derrick Reed,carry,3,931.11,2024-02-29 11:37:04.009510,Mayotte,Brownport,PayPal,Standard,Shipped
+13f10afc-b302-495a-8bfa-d148c4a1cd04,Raymond Gonzalez,assume,4,531.51,2024-04-03 17:42:52.521327,Bhutan,Kimberlyfurt,Cash,Express,Shipped
+ac534fc9-b370-4695-9b3e-f1938d3b631e,Eugene Daniels,trial,2,280.69,2024-04-14 18:32:55.193691,Bahamas,Port Davidstad,Cash,Standard,Shipped
+6293bda7-507a-4eb9-80b5-b18c934e684d,Beverly Wilson,ten,10,645.17,2024-01-08 07:10:09.506323,Bermuda,East Kelly,PayPal,Express,Delivered
+3de8319d-1693-466a-a29d-43daf869ea20,Elizabeth Montgomery,cut,7,693.04,2024-03-17 18:25:06.756116,Timor-Leste,Jasonchester,Credit Card,Standard,Pending
+3ba5a561-c4ce-42d8-8896-f3caa3800b67,Jermaine Lester,them,9,25.1,2024-03-30 19:20:02.774654,Qatar,Anthonymouth,Cash,Express,Pending
+ee6551f8-d6c0-4be8-a7ec-7f081005f90f,Laura Rhodes,leader,7,168.37,2024-03-21 04:00:21.845026,Guatemala,Grantport,Credit Card,Standard,Shipped
+5d2509ac-9215-4d8c-9f61-7b8ddc4d11a8,Paul Robinson,move,2,418.44,2024-03-25 14:36:43.646715,Argentina,Johnport,Cash,Express,Shipped
+0810f57b-1fc7-445d-a0c1-a3a544651487,Thomas Martin,main,6,807.99,2024-03-15 21:25:23.352201,Bermuda,Lopeztown,Cash,Standard,Delivered
+72992bd1-87c0-4950-a842-69385aaf9b1e,Bonnie Rodriguez,score,7,697.71,2024-04-25 19:54:03.420259,Chad,Millerborough,Credit Card,Standard,Shipped
+11027557-697f-4b0d-9a97-dc26ac78d1bb,Gregory Moore,great,4,556.08,2024-01-20 09:58:14.652061,Ukraine,Lindashire,Credit Card,Express,Processing
+abe5b7c2-41f6-4110-8c82-bc9782f7053f,Brett Medina,company,7,713.06,2024-01-21 12:17:00.169039,Mayotte,Jordanland,Credit Card,Standard,Pending
+1ec156ab-6173-4555-bc89-3fecfa546ef6,Albert Anderson,doctor,9,530.95,2024-02-27 21:26:19.090498,Switzerland,Jessicaland,Credit Card,Standard,Processing
+dc23f0aa-a071-4f4f-8bf9-4ea705e7dbb1,Stacy George,possible,1,167.82,2024-02-15 14:35:36.820507,Georgia,Brittanyborough,Cash,Express,Pending
+c1bac9eb-9f54-4ce4-8d77-fb18e3c3972c,Zachary Hartman,each,6,642.95,2024-03-10 06:09:04.459140,Cocos (Keeling) Islands,East Jenniferport,Credit Card,Express,Delivered
+6b15a121-2f7d-452b-b8a8-14dd7b5ae1f4,Ronald Gardner,worry,8,338.42,2024-03-05 23:34:52.166754,Poland,Sheltonborough,PayPal,Express,Pending
+c8eb8f52-c33a-4db6-aeed-6e321c2f017e,Jordan Joseph,themselves,6,865.59,2024-01-25 08:58:29.812734,Syrian Arab Republic,Aguilarmouth,PayPal,Express,Processing
+327fb4de-9e1d-4aff-a3e4-0ee10729232a,Heather Roberts,property,4,46.43,2024-02-11 21:37:15.403135,Liberia,Port Logan,Credit Card,Standard,Delivered
+96828f0e-63c4-4323-9fe7-c4af3dd63084,Nicholas Hunt,society,1,285.76,2024-01-20 13:07:37.590315,Bahrain,New Luis,Credit Card,Express,Shipped
+eec7df8a-ee95-42a1-8079-c7769bf6359c,Elizabeth Delacruz,enjoy,8,512.05,2024-02-08 21:54:34.091517,Sri Lanka,Mosstown,Cash,Express,Shipped
+82d30d9d-1419-4693-894e-97bfeeaaf418,Heather Garcia,even,3,510.0,2024-01-02 21:12:41.816375,Cote d'Ivoire,Lake Helen,Cash,Express,Shipped
+bccc8e6f-39ad-4e31-9ac0-eb2a1f40a94c,Tyler Reid,statement,2,869.87,2024-01-30 22:23:32.645930,Argentina,Conleyport,PayPal,Standard,Delivered
+e1bd0742-a19e-4877-96ae-fb5d3d712905,Michelle Torres,PM,9,506.93,2024-04-13 05:59:58.694138,Slovenia,East Henryberg,Cash,Standard,Delivered
+f1136698-f3f5-472b-b90e-0ba5611cce55,Jennifer Mcpherson,bad,9,445.51,2024-03-22 10:47:13.490379,Somalia,Wagnerbury,Cash,Standard,Delivered
+cac717ca-6e69-4b4f-82a5-e1659386b714,Carol Wiley,debate,7,895.32,2024-02-16 06:09:22.974466,American Samoa,Kimville,PayPal,Express,Pending
+a8af5cac-af32-4455-80a6-3cfe2ea1e944,Bryan Cervantes,it,10,46.09,2024-04-29 17:23:48.869286,British Virgin Islands,Andrewsbury,PayPal,Standard,Processing
+f0b4f3dc-88d6-40e0-ae18-279b966b2cd7,Kathy Walter,guess,7,896.5,2024-03-03 10:48:10.993482,Norway,Amandahaven,Cash,Standard,Processing
+7faae637-4ed8-4e82-ac39-7861b76aecd5,Jason Mendoza,exist,5,336.72,2024-01-17 02:49:57.618514,Hungary,Mooreburgh,Credit Card,Standard,Processing
+3270170b-eb09-4b26-934c-2d4e23c7ff63,Trevor Rivera,occur,3,493.2,2024-04-04 19:45:54.530504,Germany,Lynnborough,Credit Card,Standard,Pending
+9ba09406-dce2-438a-8953-8d9b10d9c627,Toni Munoz,idea,10,760.17,2024-04-05 19:15:32.669953,Rwanda,Amandashire,PayPal,Express,Processing
+dd87b768-df1c-49a2-9817-f486abf83d9a,Michael Cowan,beat,1,603.26,2024-02-26 09:18:32.836530,Kiribati,West James,Credit Card,Express,Shipped
+f287e687-7f4c-4134-ab39-a77c8ac6d7f1,Alan Garcia,suggest,8,508.55,2024-02-01 03:48:12.906129,Falkland Islands (Malvinas),Joshuamouth,Cash,Express,Shipped
+6b983e6b-f3b6-4110-adf9-45944a7901e3,Jordan Stewart III,military,5,90.12,2024-04-21 22:26:58.987919,Brazil,Millerfort,Cash,Standard,Delivered
+aa5a243a-80f1-464a-97df-62b5d94b256c,Maria Guzman,heavy,3,550.06,2024-01-12 18:01:14.939732,Slovenia,East Russell,Credit Card,Standard,Delivered
+42008628-60ae-435e-97a9-44e08d67b982,Peter Myers DDS,hard,2,689.75,2024-01-08 11:13:44.131950,Malta,Joeville,Cash,Standard,Pending
+3231fcc3-3f15-4294-bfba-6ec7d5733bc4,Martha Cherry,occur,8,776.99,2024-01-18 12:49:36.932962,Haiti,North Jenniferland,PayPal,Standard,Shipped
+304de469-ff08-42ce-b698-3e22eb3a3787,Patricia Wolf,low,3,683.85,2024-03-22 16:15:53.166223,Portugal,Lake Ashley,Cash,Standard,Shipped
+b79db872-b651-46bf-ade5-31b358fb90c7,Robert Mitchell,pass,8,252.83,2024-05-03 05:46:38.069637,Pitcairn Islands,Velazquezfort,PayPal,Standard,Delivered
+687fb76f-85dd-4fa3-943f-159e68e4bb31,Bryan Shepard,matter,9,780.88,2024-02-28 23:13:01.224587,Northern Mariana Islands,Hallmouth,Cash,Express,Pending
+d864bc08-e89c-422b-ae3b-e1bd567b59f3,Tina Jacobson,mean,8,904.3,2024-04-09 19:34:24.529583,Zambia,Crossville,Credit Card,Standard,Processing
+8db3df4d-f1f5-431d-b64a-588eaab9541e,Danny Barrett,sound,5,362.09,2024-01-19 03:28:59.247308,Guinea,Mcclainview,Credit Card,Standard,Processing
+581b52ef-efa8-4c1d-9109-8f5c0ee87378,Thomas Morris,beat,6,175.36,2024-04-22 10:41:00.631458,Spain,West Jeffrey,PayPal,Standard,Delivered
+b670955b-b465-4023-9d95-5acbb45f77b1,Jill Henderson,he,1,534.34,2024-02-22 05:20:31.112395,Tanzania,Lauraberg,Cash,Standard,Shipped
+88d17a8d-1739-49a9-bfa6-7bf1649641fb,Beth Brown,tree,3,826.78,2024-03-22 04:08:10.743396,Sweden,Laurenview,Cash,Express,Pending
+c74905c9-42f0-4b47-b67a-6768400ca529,Kimberly Martinez,issue,1,673.86,2024-01-20 14:45:36.040418,Bulgaria,Smithfort,PayPal,Standard,Delivered
+87e0015c-0e74-4f2d-b942-0e8c4cd3823b,Joe Meyer,should,9,658.8,2024-04-29 20:19:59.505913,Sri Lanka,Benjaminberg,Cash,Standard,Pending
+6eb5c768-0a0b-4ecc-8dac-0da895dfc65f,Erika Allen,edge,4,267.48,2024-03-14 00:21:51.019201,Vanuatu,Lake Lisa,Cash,Standard,Pending
+fafa542a-0546-4c9f-9738-7983d17db95f,Sandra Barrett,home,10,749.33,2024-03-05 09:48:16.448824,Cayman Islands,Port Crystalberg,PayPal,Standard,Processing
+47149284-c8cd-4f83-83a1-2bd5ea49f2b9,Kevin Willis,sport,5,162.34,2024-02-03 11:59:35.086904,Ethiopia,Robertberg,Credit Card,Express,Pending
+5f5b701f-807a-470e-85ed-ae8235a7a4bd,Yesenia Martinez,peace,8,534.3,2024-01-10 02:55:56.060194,Netherlands Antilles,South Davidfort,PayPal,Standard,Delivered
+7a2bcb4e-41c7-4bc3-a553-7a48c21cdfc4,Wyatt Santos,woman,8,922.4,2024-01-26 13:40:31.105083,Canada,North Caitlinport,Cash,Standard,Processing
+1eaa12b8-8afb-4ffa-b614-123755202c3e,Elizabeth Rodriguez,analysis,5,700.9,2024-03-29 11:10:29.642023,Faroe Islands,Brianmouth,Credit Card,Standard,Shipped
+d9004b16-a9ae-47ad-b81d-c6eb60c917cf,Brian Bell,develop,5,290.24,2024-01-02 12:00:40.918328,Martinique,Leahmouth,Cash,Express,Pending
+4a3df5b0-c6a9-49d1-93e7-e91fac76e919,Alexis Rose,close,4,362.57,2024-02-13 20:17:04.243205,Kuwait,Cynthiamouth,Cash,Express,Delivered
+2a9e5170-2af1-4b31-bac2-b90ad9fd02df,William Hayden,yeah,3,431.84,2024-05-02 06:59:13.967485,Mozambique,Candacefort,Cash,Standard,Processing
+5b89219f-ff03-4365-8a43-a6c88b8b36c2,Kristen King,book,1,122.12,2024-02-20 13:49:45.759542,Martinique,Beverlymouth,Credit Card,Standard,Processing
+b14e90dc-5c4c-4ddc-bd8d-3f04ea863f21,James Humphrey,mention,9,912.24,2024-01-14 11:05:03.115690,Bulgaria,Claytonview,PayPal,Standard,Processing
+219e311b-c592-4872-aca3-57e19d49b7af,Christopher Jackson,human,7,820.38,2024-04-11 17:58:16.475111,Oman,Banksshire,Cash,Express,Shipped
+c55d13d4-ba61-40ac-8767-573884db460e,Kevin Parsons,city,9,62.28,2024-03-04 08:26:55.184243,Holy See (Vatican City State),Morganton,Credit Card,Standard,Pending
+5bd83b33-e7bf-43e3-b2d8-24569c1e2351,Jenna Jennings,use,7,384.31,2024-01-21 13:08:22.679698,Guinea,Port Nancy,Credit Card,Express,Processing
+3d6b009f-480f-4f86-a77f-9e329cba53bd,Donna Carson,move,5,218.8,2024-02-12 16:51:29.952545,Saint Helena,West Matthewtown,Credit Card,Express,Pending
+dcd21f8c-652e-4a78-801f-e614038bfe4a,Tammy Lee,many,10,121.89,2024-03-15 21:35:11.689866,San Marino,Kylefort,Cash,Express,Delivered
+c410a59b-95b2-4ff9-a1f8-3daf5996a2c1,Sarah Davis,social,6,192.65,2024-02-03 20:29:38.176737,Anguilla,New Tammy,PayPal,Express,Delivered
+28448b3c-a96d-4b29-a953-757030c71bb9,Patrick Joseph,maintain,9,408.94,2024-01-21 03:03:09.446696,Mexico,South Laurastad,PayPal,Express,Delivered
+3a93c840-c1a8-47c9-aa31-03ff694496c4,Amy Garner,good,7,587.87,2024-01-07 23:26:32.486542,Korea,New Melissaport,PayPal,Express,Pending
+1e2caf73-dfa0-4ad0-a6cc-bd67c5a42c66,Mary Lopez,anything,2,847.67,2024-02-06 10:40:21.945641,Greece,Washingtonfurt,Credit Card,Express,Delivered
+16e0c169-a97f-4ff7-93e8-304389f5e7d7,Brian Cohen,school,3,439.28,2024-01-07 06:04:22.412667,Namibia,East Kennethhaven,Credit Card,Express,Pending
+3428ab16-dfa6-4d0d-b495-fbaedbf34c2e,Madeline Melton DDS,education,6,978.62,2024-04-05 19:00:33.720869,Guam,East Laura,Cash,Standard,Pending
+bdf3a696-751a-4fad-a355-f54773462689,Thomas Rogers,best,4,738.0,2024-01-18 13:48:01.012626,Puerto Rico,Sheppardchester,Credit Card,Standard,Shipped
+065d634d-59aa-46a4-8ea2-0ea5ae07646d,Wendy Fisher,affect,1,965.97,2024-01-17 21:10:21.364055,Hong Kong,Watsonmouth,Cash,Express,Pending
+50d46c25-a6cf-497d-a1e0-0a98cfa6ab9a,Evan Carroll,memory,10,33.16,2024-02-07 05:28:30.332448,India,Thompsonchester,Credit Card,Standard,Pending
+33b406aa-d33e-426a-b21a-13750ecdc931,Katie Sanchez,guess,4,302.89,2024-04-11 07:21:18.559320,Zambia,New Patricia,PayPal,Express,Pending
+3be6e419-15a9-4872-a7cc-b6ec048b07a0,Juan Stevenson,its,5,117.47,2024-03-28 03:21:37.683085,Brunei Darussalam,Shariside,PayPal,Express,Delivered
+8a3ff809-7939-49f7-b3f1-97347ccc219c,Michael Preston,week,9,134.98,2024-04-14 11:38:53.034648,Singapore,New Edward,Credit Card,Standard,Processing
+ce675a90-5775-4083-b183-f90a5e2fd5db,Jeffery Li,practice,3,197.91,2024-01-11 20:00:39.825608,Western Sahara,Port Jennifershire,Cash,Standard,Shipped
+7109ef1a-b21b-451b-a2cd-50d206290ade,Jennifer Vaughan,energy,6,270.46,2024-04-07 18:43:54.230124,Japan,West Sarahside,PayPal,Standard,Processing
+43be256d-7e1e-452e-8914-17bc45c6c445,Alexander Silva,deep,7,875.41,2024-03-05 02:08:16.466325,United States Virgin Islands,Connieborough,Cash,Standard,Pending
+31747f42-64e4-4b91-a68a-7c9321e00ec8,Lisa Gomez,south,8,346.64,2024-01-05 21:44:48.844183,Dominican Republic,Stevenside,Cash,Express,Processing
+a3089848-e464-4947-b075-79e574c14749,Lisa Rose,wonder,10,965.42,2024-01-01 02:35:14.480211,Tuvalu,Jasonside,PayPal,Express,Delivered
+9e541731-24ab-4420-b016-581a1f0b8171,Zachary Blake,fact,3,706.79,2024-01-15 17:57:17.230401,Albania,New Timothytown,Credit Card,Express,Processing
+b929aed5-e842-44ff-b26d-26cd7a23254b,Jason Murray,pick,5,780.94,2024-03-05 10:34:57.279829,British Virgin Islands,North Carol,PayPal,Standard,Shipped
+9732174b-8d5b-4c09-82bf-97f4840fb07c,William Martinez,cell,5,823.05,2024-02-25 08:39:49.419404,Antarctica (the territory South of 60 deg S),Bethanyville,Cash,Express,Delivered
+873829c8-1576-4334-ad40-d3795252a1ef,Larry Nichols,white,1,680.73,2024-01-03 09:26:15.691879,Macao,Port Dawn,Credit Card,Standard,Shipped
+65fb2e4e-a96a-4937-bfb4-c1c4c39e1438,Kathryn Pruitt,fill,8,213.97,2024-02-08 13:55:19.905318,Switzerland,West Gabrielburgh,Cash,Express,Pending
+c0304558-9172-481e-8eee-639e186383c0,Mrs. Jennifer Patton,particularly,3,775.27,2024-01-21 16:51:46.689866,Maldives,West Juliemouth,Credit Card,Standard,Processing
+dce42b42-6932-43b2-a7e3-0e3d3315f9c2,Scott Conrad,back,3,29.81,2024-04-14 17:49:16.626338,Grenada,New Pamela,Credit Card,Standard,Shipped
+64f92541-1b34-4bd8-aa8a-95baa31ea3c1,Deborah Diaz,describe,3,812.43,2024-02-07 17:08:50.423149,Macao,Nancystad,Cash,Standard,Pending
+05e26a24-2c74-44bd-a46f-ab8aee901241,Danny Burke,add,5,861.29,2024-02-19 08:37:46.369584,United Arab Emirates,North Dawnmouth,Cash,Standard,Shipped
+fd295c9b-eabf-4b0e-8d57-b8876d67a7a0,Jason Mills,fall,3,161.09,2024-01-12 09:18:53.722208,Saint Lucia,Martinbury,Cash,Express,Processing
+bac6983b-47f7-408d-b0ff-0b190edd07c8,Lori Johnson,source,4,145.42,2024-03-02 02:34:23.140612,Netherlands Antilles,West Deborahbury,Credit Card,Express,Delivered
+ea11189a-1417-4267-999e-31682c2e58e8,James Figueroa,event,1,949.0,2024-02-27 04:45:00.764720,Mongolia,Lake Damon,Credit Card,Express,Processing
+0c3f5532-dc61-4b3c-9bcc-535a7e821aea,Lisa Greene,article,3,516.05,2024-01-02 03:13:21.711273,Montenegro,New Edwardside,Cash,Express,Pending
+29550f81-b6ee-4f2c-8c27-e6d689f86271,Michael Peters,military,1,291.08,2024-02-02 11:52:29.258864,Wallis and Futuna,East Chadville,PayPal,Standard,Pending
+dc4fb83d-2e3e-41e9-a9ca-1c0076a9b263,Laura Ferguson,strategy,9,249.1,2024-02-16 05:23:27.178929,Benin,West Garyfort,PayPal,Express,Shipped
+61465903-da61-4b17-9e99-e8df9f1a9905,Amy Hubbard,not,5,123.79,2024-04-05 16:59:03.977749,Bosnia and Herzegovina,Elizabethburgh,PayPal,Express,Processing
+a69fd4fe-bba8-4a6e-b220-6edf295b4d88,Valerie Gonzalez,pattern,8,905.54,2024-02-12 19:22:33.425497,Turkey,Smithchester,Credit Card,Express,Delivered
+0af31d64-547d-480a-bad3-ecac03e32831,Brittany Owens,leg,1,845.8,2024-04-02 00:15:48.980110,Syrian Arab Republic,Cummingsside,Cash,Standard,Pending
+c15abba4-2d61-47df-8c35-d15fbfa457ac,Laura Howe,serious,6,176.55,2024-04-17 22:03:26.624655,British Virgin Islands,Sharpberg,Cash,Express,Delivered
+a835c3d7-b9a1-4183-a498-6a7ffac34b50,Joseph Cox,improve,4,752.26,2024-03-23 05:49:06.352939,Heard Island and McDonald Islands,East Joshua,Cash,Express,Pending
+4f49751d-5542-4871-a6ad-4e2635785cb0,Sara Higgins,be,5,442.1,2024-02-21 13:46:26.497933,French Southern Territories,Lake Thomasmouth,PayPal,Express,Processing
+4a2643a0-0c1c-472b-8fd5-7607646189f5,Thomas Escobar,challenge,7,117.09,2024-03-06 10:30:52.811168,United Kingdom,Hopkinsstad,Credit Card,Standard,Delivered
+14c4248f-2b45-4a80-9f66-c6cc0ea345bb,Todd Zamora,hit,8,732.75,2024-03-24 13:03:08.709695,Spain,East Gregoryburgh,PayPal,Express,Processing
+299dec74-3906-437d-9fce-26b0b8676bf3,Jon Barrett,someone,2,77.16,2024-02-10 11:26:09.184183,British Indian Ocean Territory (Chagos Archipelago),Lake Brenda,Credit Card,Express,Shipped
+41d26300-4d66-4c18-94c7-079e582637b1,Dr. Carlos Shelton,attorney,5,18.62,2024-03-15 02:38:14.017924,Tunisia,East Dillon,Cash,Standard,Pending
+e465f353-eaec-40bd-b3b3-8c934d329e4d,John Jones,nothing,5,380.73,2024-04-07 13:35:02.184779,Comoros,Harpermouth,PayPal,Standard,Processing
+84c30c5d-be71-4f80-93da-eba15f3db006,Lucas Pitts,blue,10,273.27,2024-02-02 09:18:12.922398,Costa Rica,East Jeremy,PayPal,Standard,Processing
+9811db2b-3c9d-4fda-a709-ba6ca3302446,Lisa Jarvis,where,10,69.5,2024-01-16 13:14:55.961633,Niger,Sextonborough,Credit Card,Standard,Pending
+562130fb-2f98-4454-80be-8953b3b00d40,Sandra Patterson,team,4,995.46,2024-01-07 13:19:21.172776,Netherlands Antilles,Davidmouth,Credit Card,Standard,Shipped
+24d31ac5-5769-4297-bd9d-7d7a1612c14c,Nathan Sullivan,second,10,176.94,2024-03-22 17:36:20.187554,French Southern Territories,Allenmouth,Cash,Express,Pending
+d0a58973-736f-4e95-964d-b8da082922da,Mrs. Jamie Wright MD,nice,1,868.87,2024-03-02 06:26:11.023734,Lebanon,South Joelshire,PayPal,Express,Pending
+d208a441-11c1-4c6a-aaae-a2a997e51559,Nicole Murphy,reach,7,301.05,2024-01-24 05:03:19.306774,Mauritania,North Mark,Cash,Standard,Processing
+b0a36a3d-40cf-49b4-bac6-c171f600f317,Nicole Fuller,near,7,254.14,2024-03-21 13:32:41.732025,Trinidad and Tobago,West Joshuaburgh,PayPal,Standard,Shipped
+f5905b48-5478-4e07-9968-6d0847971559,Nicole Suarez,movement,3,691.48,2024-01-02 08:27:28.295432,Albania,Gonzalezville,Credit Card,Express,Processing
+658149ef-cde8-4c97-a4fa-688b9e9f3519,Tony Gallegos,people,8,999.37,2024-02-02 05:43:21.139744,Slovenia,North Jorge,Cash,Express,Pending
+88b9a9fa-b5e0-42b6-bd93-d374a0020383,Darius Hines,fall,10,141.07,2024-02-10 13:11:24.844009,Rwanda,Joanneville,PayPal,Express,Shipped
+8c92244a-a346-4336-9c7e-fe9c8ff63506,Mr. Chad Smith,act,7,911.83,2024-04-27 16:49:06.886925,Belgium,Holmestown,PayPal,Standard,Shipped
+0b6d26fd-3415-431e-8f97-8d5fc7e29dfa,Louis Leon,modern,7,593.47,2024-04-11 05:55:46.403737,Northern Mariana Islands,Arroyostad,PayPal,Express,Delivered
+f9862756-8214-4c4e-9e79-7c370261eeeb,Jeffrey Mcclain,improve,4,238.9,2024-02-19 18:28:41.783858,Netherlands,Keithport,PayPal,Express,Processing
+c16cfd06-2cc6-4bcd-9a4c-bcf39c42b04b,Steven Simmons,bag,3,178.21,2024-01-14 04:52:36.036026,Bouvet Island (Bouvetoya),Julieton,Cash,Express,Shipped
+3b50a44d-f937-4a8f-8129-88e5ff1ef8d0,Janet Montoya,walk,3,478.98,2024-02-24 06:46:30.896967,Kiribati,Lorettaburgh,Credit Card,Express,Processing
+3f576110-2dba-4642-a826-7528092dcc40,Casey Thomas,cost,10,498.13,2024-03-17 03:33:08.809589,Congo,North Jessicabury,Credit Card,Standard,Delivered
+eaab77c5-d8e8-4415-923e-2b18f158e01a,Steven Ellis,partner,7,989.49,2024-04-18 18:11:56.275285,United Kingdom,Christopherhaven,Cash,Express,Shipped
+08be16d7-4b21-4031-b2af-c4a85d1f3145,Ashley Hernandez,family,1,347.58,2024-01-10 02:27:01.766401,Libyan Arab Jamahiriya,New Karen,PayPal,Standard,Delivered
+3481b492-4c5c-446d-a2da-475c1218c951,Robert Johnson,decision,5,267.58,2024-03-28 18:55:29.619707,Netherlands,Lake Timothyton,PayPal,Standard,Delivered
+1a2edf7f-1747-4ef2-a26a-17f021475717,Jennifer Ray,report,2,83.25,2024-05-01 03:34:53.998628,Saint Lucia,East Aprilside,PayPal,Standard,Shipped
+7d4ab66b-5c11-4c74-aa7e-85f2afa3ac5a,Jessica Hines,itself,8,699.34,2024-04-26 06:51:27.896198,Palau,Kurtville,Credit Card,Standard,Delivered
+bdc6945b-cb98-4203-955d-2c025fd7e19b,Daniel Powell,high,6,833.16,2024-02-26 06:52:51.320908,Antigua and Barbuda,New Deanna,Credit Card,Express,Shipped
+b7b0fe9c-9cd1-47f1-b391-e60dc0ed4707,Denise Flores,small,2,59.18,2024-02-20 10:14:32.784604,Bahrain,East Keith,Credit Card,Express,Delivered
+b6167af7-5771-4718-8d51-e6be5e05500f,Deborah Wilson,poor,7,293.97,2024-04-14 04:42:21.645695,Tanzania,Quinnberg,Cash,Standard,Processing
+08ad0f1e-b62f-45e5-95aa-1a22a181743e,David Manning,change,8,710.87,2024-01-14 21:23:52.739248,Iceland,South Ashley,Cash,Express,Pending
+b641a79e-785e-4ce5-84a3-1094ca096b00,Brianna Hawkins,because,1,270.15,2024-05-01 23:41:24.622339,Macao,Briggshaven,PayPal,Standard,Shipped
+7b8b6896-cf4a-4277-a7b5-cde9aa6ca22c,Devon Hinton,huge,4,868.08,2024-01-01 11:27:13.329475,Bosnia and Herzegovina,Judyport,Credit Card,Standard,Processing
+71541db8-5b08-4fe3-be69-aa26fe1b5a7f,Gary Santos,pass,8,775.51,2024-02-16 03:52:08.258135,Samoa,Andersonberg,Credit Card,Standard,Processing
+7d2c56c9-756c-4989-b421-d775026a1e43,Mary Miller,despite,6,438.11,2024-03-01 04:49:33.317213,Solomon Islands,West Tanya,PayPal,Express,Delivered
+3dcfcccf-cc7d-4291-90ad-7ef678788c55,Virginia Scott,garden,9,51.46,2024-03-03 07:30:30.859242,United Kingdom,Campbelltown,PayPal,Express,Delivered
+9a032ac5-77d1-4715-aa40-135947a8e318,Steve Johnson,paper,5,506.64,2024-01-12 23:11:51.795976,India,Estradaside,Cash,Express,Shipped
+dba53fd6-5471-4f31-8055-2737ce048a4c,Connie Stokes,nation,7,282.45,2024-02-23 04:02:11.335107,Bouvet Island (Bouvetoya),Lake Tasha,PayPal,Standard,Delivered
+0ab17440-7ee5-46ba-a8f3-2b5e49a058d6,Mr. Ronald Rodriguez,ten,4,852.15,2024-01-11 18:43:30.434903,Algeria,Sarahmouth,Credit Card,Standard,Processing
+4886450a-7246-45b8-878c-3711d2ab6a07,Adrienne Joseph,four,8,199.84,2024-03-15 13:38:43.466800,Jordan,North Kenneth,Credit Card,Express,Delivered
+5714bb1d-e023-4406-b24a-947cd6ec7d88,Aaron Greene,Republican,10,784.47,2024-03-19 07:44:29.489794,Cote d'Ivoire,East Emily,PayPal,Express,Shipped
+f4ecc2f6-81ac-4657-b9fa-8d7942c392f0,Lauren Bell,much,4,273.03,2024-01-18 00:52:25.573004,Iceland,Lake Joel,PayPal,Standard,Shipped
+bb4ec5bd-d478-4020-b52b-31317f451ef2,John Case,adult,2,797.18,2024-04-10 19:27:51.393471,Brunei Darussalam,South Christopher,Credit Card,Express,Shipped
+1be90456-5a74-4dde-b688-4d9ed5ee2001,Stanley Perkins,they,3,660.13,2024-02-14 19:27:28.832270,Martinique,North David,Credit Card,Express,Pending
+7178ae10-2acf-4a6c-b415-da1f94fd8120,Elizabeth Wilson DDS,trouble,5,182.66,2024-01-10 22:50:35.815957,United States of America,New Bryanhaven,Cash,Standard,Shipped
+83e575df-2b04-4f5d-9b5d-f62c4e435e56,Juan Jackson,or,5,242.96,2024-03-24 01:13:20.000084,Burundi,Jordanburgh,Credit Card,Express,Shipped
+f3527344-fcea-42ab-9922-72fc6f88cdb1,Megan Thomas,keep,8,428.13,2024-02-18 07:19:33.672601,Azerbaijan,Lake Nicholas,PayPal,Express,Shipped
+606c0a9b-9425-4cff-beef-bf68b6059c8e,Christopher Powell,early,3,994.0,2024-04-29 10:43:48.610616,Gibraltar,Port Heatherberg,Credit Card,Standard,Pending
+a7bf0d01-76b8-4aad-85fe-9127b0e92302,Misty Pierce,stand,2,168.04,2024-03-15 23:51:18.323499,Romania,Ashleeland,Credit Card,Express,Processing
+b3e25837-70c5-4eda-acc8-25b0f41d4c89,Courtney Faulkner,manager,9,488.32,2024-04-23 09:13:01.630040,Canada,Lake Taraland,Credit Card,Standard,Processing
+0e4698b3-816b-4db9-a8e2-144fdf8e3b9e,Jason Baxter,various,8,468.03,2024-02-26 15:01:57.190709,Netherlands,East Thomas,Cash,Standard,Shipped
+4fc6ed8e-3fe5-4462-af37-b7b69b031987,Richard Parker,nothing,10,90.44,2024-04-16 17:10:56.424390,Poland,New Marieland,PayPal,Standard,Pending
+655425e3-4234-40cb-8d06-328e813d23c9,Albert Oliver,how,8,486.57,2024-01-18 20:44:22.468570,Chile,New Jennifer,Credit Card,Express,Shipped
+172721ac-195a-40a4-a170-09bc0ea04c43,Jimmy Guerrero,account,3,605.19,2024-03-04 14:24:57.223845,Mexico,Lawrencehaven,Cash,Standard,Shipped
+d1f37263-37ae-4ef8-90b4-5e40518e5bec,Michelle Anderson,range,6,706.52,2024-01-15 06:54:17.318490,Japan,Anthonyburgh,PayPal,Standard,Delivered
+c97c2ed3-5b81-4200-9489-f6d8c6bc527a,April Williams,deep,2,609.09,2024-03-07 03:23:43.661628,Hong Kong,North Justin,PayPal,Standard,Processing
+798953a5-899d-4a0d-bd6b-17783d1746ed,George Hoover,guy,6,300.72,2024-02-19 07:22:18.708334,Latvia,Craigmouth,PayPal,Standard,Processing
+185ad519-339a-4f16-95ee-d451d86ef477,Veronica Johnson,beyond,4,309.83,2024-02-10 16:29:10.993736,Estonia,New Kristamouth,PayPal,Express,Shipped
+971f6be9-5b6b-4502-b2d1-510aae5bbf1d,Gabriella Nelson,cut,3,184.5,2024-03-06 03:56:25.585413,Switzerland,Charleschester,Credit Card,Standard,Pending
+436b691c-2722-4e64-9592-aa421c9d59ac,Brenda Garcia,treatment,8,746.37,2024-03-05 22:49:47.511746,Namibia,Port Jeffrey,Credit Card,Standard,Shipped
+13ee5636-db1a-498d-816c-f9d41f62730f,Chris Harrington,young,9,765.95,2024-02-03 00:24:35.933797,Angola,Lake Melissa,PayPal,Standard,Processing
+c6f5133e-8ed8-4abb-ac21-adcb00b6c993,Holly Richardson,class,5,543.0,2024-02-17 05:00:29.989458,San Marino,New Daniel,Cash,Express,Processing
+020c55ed-f8ff-428d-be03-00b2070cfb46,Donald Haynes MD,standard,10,307.97,2024-04-08 20:54:50.690310,Bolivia,Garciaburgh,Cash,Express,Delivered
+edae4ef1-cc59-45b5-b308-4eaf1a7e6e05,Katherine White,environment,7,487.62,2024-05-02 16:19:00.563490,Austria,New Jeremyfort,Credit Card,Express,Pending
+ad2f5660-9fd9-4af5-b9cf-bb1dce54a2eb,Deborah Robinson,travel,3,120.2,2024-04-20 21:03:46.876636,Jamaica,Port Mathewport,Credit Card,Express,Processing
+c6584988-1d79-41ec-8bbd-ce9d3fae7aec,Mary Malone,to,2,889.94,2024-02-23 05:12:11.698864,China,Leonardton,PayPal,Standard,Shipped
+361c31cc-d0d2-494b-81ac-8d4a75f47721,Kimberly Clark,husband,9,573.47,2024-04-18 02:02:40.315900,Mongolia,Millerborough,Credit Card,Standard,Pending
+c2c03941-7f9c-49f8-9085-0cf662c2c8a9,Craig Brown,two,4,773.87,2024-01-30 21:57:52.720596,Swaziland,Millerborough,PayPal,Express,Pending
+afc7b0d7-7204-470b-81c0-9bf028832260,Danielle Mcgrath,employee,8,362.06,2024-01-28 15:59:50.736421,Trinidad and Tobago,Smithberg,PayPal,Standard,Pending
+25086b4c-104b-4c7a-ac29-cf047da227a7,Anthony Johnson,thing,1,195.32,2024-03-08 17:10:29.063497,Nicaragua,Cartershire,Cash,Express,Pending
+ff6497b9-9e88-4e22-8ec7-a0c96d1a6f19,Angela Pham,road,6,962.5,2024-01-29 19:16:18.603427,Finland,South Christopher,Credit Card,Standard,Pending
+9a3b806f-68a1-4101-9579-156bd7471fb1,Candace Hall,feel,6,313.67,2024-04-03 16:48:32.155303,Chile,New Stephanie,PayPal,Standard,Shipped
+49374579-4150-49c8-9aa1-31f5005d7400,Yvette Reynolds,throw,5,916.39,2024-03-07 22:31:15.190832,Estonia,Tammyland,PayPal,Standard,Delivered
+bde873d8-d58b-47e4-b6eb-b0faf7d9ce5a,Stephanie Perez,wish,1,491.95,2024-04-12 02:54:03.066760,Portugal,South Ashleyville,PayPal,Express,Pending
+3b1a268e-2734-445b-a818-3543160e7f8e,Donald Ross,cut,5,319.08,2024-03-14 02:32:40.252892,Venezuela,North William,PayPal,Standard,Shipped
+16cccebe-505d-4a53-9275-a79100be4f41,Brian Thomas,nothing,1,874.14,2024-03-11 06:39:17.034751,Guinea,Spencerfort,Credit Card,Standard,Shipped
+cab1dd64-3779-4cf4-adbf-92016d93224d,Christopher Cooper,force,7,918.75,2024-01-31 08:40:01.826995,Hong Kong,Jonathanton,PayPal,Express,Delivered
+923eecd0-5e18-48c8-a778-0c316eb2f21d,Lisa Smith,particularly,8,397.6,2024-02-16 08:32:02.599810,Philippines,South Karenfort,Cash,Standard,Delivered
+2ff7c944-62ec-4f2e-9105-c91ad703c876,Barbara Jones,rate,4,850.86,2024-04-21 07:31:25.994460,Togo,Kathrynport,PayPal,Express,Shipped
+20e622b4-e0f9-49cc-93d9-a2838b61e0d6,Matthew Taylor,fill,1,774.06,2024-01-11 20:38:30.750838,Nicaragua,Jenniferland,Cash,Express,Shipped
+d969cb36-9e28-4e3b-8744-45aa284cf145,Carol Williams DDS,simply,10,636.17,2024-03-26 15:40:08.095256,Cambodia,Lake Christopherborough,Credit Card,Standard,Pending
+34f214fd-131a-4fa1-a66c-9cefb76eba33,Benjamin Wright,successful,3,801.38,2024-03-10 20:51:15.248520,Jordan,North Charles,Credit Card,Standard,Delivered
+cfe7f9a8-5d31-4a8e-9191-c34df4130b25,Brittany Cantrell,land,4,469.52,2024-02-22 08:39:30.946652,Niue,South Jean,Cash,Express,Processing
+b279befe-44d5-405d-9229-5c11a5c5a1c1,Jason Garcia,capital,3,332.65,2024-01-22 22:34:30.257648,Oman,Blankenshipview,Credit Card,Standard,Processing
+8957a3e7-e3c3-45f8-a284-81569f30dcd7,Denise Harris,wait,9,582.85,2024-02-03 04:13:04.011550,Namibia,Lisafurt,PayPal,Express,Shipped
+4fe9bf61-af1c-4ddb-b928-20512797ec0b,Dustin Rogers,animal,9,830.58,2024-01-11 22:11:46.566807,New Zealand,Stephaniemouth,PayPal,Standard,Shipped
+0fabf5a7-5be3-49a0-9d69-de6d3f42c0f8,Amber Ward,development,3,588.15,2024-02-15 17:26:59.501937,Antarctica (the territory South of 60 deg S),Johnside,PayPal,Standard,Shipped
+0008a34e-f81d-4ef3-a3ee-e7481e167430,Rachel Gordon,beyond,5,305.79,2024-02-05 00:58:25.688630,Aruba,South Christianton,Credit Card,Standard,Delivered
+26281caa-e56e-47d7-9083-22bb80c87238,Laura Williams,particular,9,357.16,2024-02-07 14:21:14.694619,Rwanda,North Richardhaven,PayPal,Express,Processing
+7222bf18-5878-4872-a3ea-559d7022a70c,Brett Johnson,citizen,8,524.36,2024-03-04 15:11:51.800975,Western Sahara,East Darren,Credit Card,Standard,Processing
+5b317474-44bd-4caf-8a83-3e453ef8f050,Felicia Davis,when,5,422.8,2024-01-05 06:15:08.688578,Iran,New Crystalberg,Credit Card,Express,Delivered
+c08ac05f-5272-4e73-94b9-69ba2ba72deb,Rebecca Franco,agree,2,121.96,2024-04-17 04:17:33.062476,Russian Federation,West Diana,Credit Card,Express,Processing
+921734d1-5387-45a9-a213-f82feeb37042,Jeremy Smith,law,9,532.26,2024-01-22 10:25:46.147939,Iceland,Josephville,Credit Card,Standard,Processing
+85bfe9d6-b043-4461-9762-ba16a203c80f,Janet Garner,military,10,734.89,2024-03-28 18:36:43.899258,Holy See (Vatican City State),Millerton,Cash,Express,Delivered
+5d4ab47a-771b-48bf-9307-6d8bb483bb8a,Juan Wise,trade,6,344.99,2024-03-01 12:31:17.005227,Wallis and Futuna,Franklinview,Credit Card,Express,Processing
+4c777d72-b32a-409c-becf-e442195056bb,Andrew Cole,call,10,687.28,2024-01-18 13:17:38.054524,British Indian Ocean Territory (Chagos Archipelago),New Joeview,PayPal,Express,Pending
+598cfc53-d742-416c-9a06-6d84298d12c3,Catherine Green,show,3,757.73,2024-02-25 03:35:10.280798,Andorra,Ashleyhaven,PayPal,Standard,Delivered
+8d3fdf84-7b5e-41b8-bb2f-073ce8c34fc4,Donna Morrison,hair,9,376.89,2024-03-22 12:08:02.234960,Maldives,Marshallton,PayPal,Express,Shipped
+9567f249-3c04-4f37-ad81-afdb3daaafcc,Richard Hickman,feeling,2,35.88,2024-03-28 00:56:33.543104,Tonga,Sandrafurt,Cash,Standard,Shipped
+4ad7f1a9-bff0-4594-a95a-a91defe421b3,Mark Clark,majority,10,173.45,2024-02-04 18:57:38.523168,Togo,South Chelsea,PayPal,Express,Processing
+d1115aaa-03df-4a01-b39e-80e9ed39c56f,James Warren,sell,7,642.48,2024-03-07 18:14:12.020705,South Georgia and the South Sandwich Islands,New Elizabethbury,Cash,Standard,Shipped
+3691d2ed-644c-4c88-a146-c7af42baf473,Heather Tate,wrong,6,126.07,2024-04-05 12:46:52.644789,Tunisia,Port Stephanieport,Cash,Express,Pending
+aca1384d-5b5a-44f7-8f93-14302dbb84b6,Maria Lewis,quite,2,739.45,2024-04-27 11:31:11.033442,Turkey,Jenkinsberg,PayPal,Standard,Pending
+2f194bd1-8f64-4402-aed4-5586d2859f15,Sean Turner,role,7,724.53,2024-01-05 20:38:14.534845,Sudan,Gonzalezburgh,Cash,Standard,Processing
+a885e7ef-1466-44b6-9bfe-5191a0b58cc6,Victor Zimmerman,guy,4,764.67,2024-01-03 08:41:21.724134,French Southern Territories,South Jenniferberg,Cash,Express,Processing
+89e3013a-9ddc-4d09-b609-8b6c35f968c4,Andrew Charles,toward,9,557.93,2024-03-28 11:39:26.373343,Comoros,Kellishire,Credit Card,Standard,Shipped
+78054879-38df-48c8-a4c5-90a9edcb8139,Marie Coleman,than,5,897.7,2024-04-01 20:23:26.483276,American Samoa,Alexanderfurt,PayPal,Standard,Processing
+1972bf64-a01d-4a5b-8cef-37a7e51a3d41,Olivia Butler,positive,9,224.35,2024-04-10 02:19:45.771368,Finland,New Christopherland,Cash,Express,Shipped
+15f679c8-81f4-4b13-951e-2641eebf1de8,Jennifer Chen,hour,1,662.74,2024-04-20 01:43:29.562558,India,Tonybury,PayPal,Express,Shipped
+b6e8a91d-8768-4d45-a351-cf1235dd910b,Andrea Gomez,space,1,346.91,2024-01-11 09:17:43.752933,Holy See (Vatican City State),Lindseyfurt,PayPal,Express,Processing
+52a1dca3-07ec-46d7-b143-2bf652be35b0,Charles George,exactly,9,404.42,2024-04-22 12:36:29.494324,Senegal,North Jefferyfurt,PayPal,Express,Pending
+44cc8dfb-b1af-44dd-8ddb-0a5cd6d17540,Vernon Cunningham,a,3,936.68,2024-03-06 23:05:44.240041,Reunion,Savagefort,PayPal,Express,Shipped
+cbf51d13-7625-492b-96ea-d64407848719,Michael Carpenter,color,1,502.15,2024-05-01 05:34:14.508505,Saint Kitts and Nevis,Saraside,Cash,Express,Processing
+756b900a-cd9b-461f-b0de-45c66ecaf513,Steven Roman,scientist,5,138.32,2024-03-06 16:01:58.904515,Angola,North Judith,PayPal,Express,Processing
+10d0af2e-21d8-4b51-bea9-6704420c1765,Jeremy Holmes,above,10,513.22,2024-02-01 05:38:10.792711,Tajikistan,Robertoburgh,PayPal,Standard,Processing
+00b672aa-97b2-42f9-949c-692a778f16da,Ebony Watkins,drop,5,814.44,2024-04-23 10:53:40.786556,Belize,Vernonborough,Credit Card,Express,Shipped
+22f8053c-3dba-4f7d-aa57-f932b72c9f4c,Meredith Ho,include,9,587.79,2024-01-25 19:52:59.989013,Bolivia,Herreraland,Cash,Standard,Pending
+6a7b65a6-0f02-4a34-8f51-6dde86e62880,Dennis Roberts,anyone,9,232.58,2024-02-03 22:52:28.420469,Swaziland,New Ashleytown,Credit Card,Express,Shipped
+b246dea6-f8e1-46ce-8c1c-01c5b928c5fc,Alexis Merritt,himself,3,632.02,2024-03-24 13:35:20.747619,Solomon Islands,Keithtown,Cash,Express,Processing
+b98cc9dd-b353-4178-aede-078e972ce83b,Elizabeth Best,continue,8,527.56,2024-02-12 23:26:40.484781,Honduras,Lake Deborah,PayPal,Standard,Shipped
+742b26d5-50b3-4a98-add4-baa28ba86068,Christina White,knowledge,8,631.01,2024-01-31 11:27:00.073924,Cayman Islands,Watsonstad,Cash,Express,Pending
+213de629-d7ce-4616-afe7-4d27cd5e5932,Kelsey Kirby,daughter,10,578.4,2024-03-14 00:20:39.437636,Croatia,South Kimville,Credit Card,Standard,Delivered
+dfe84d9e-97a8-494b-8088-fc57c1c93b21,Erika Pena,establish,2,688.61,2024-01-22 09:08:24.039118,Cambodia,East Colin,PayPal,Express,Pending
+d910f1c5-903e-40ae-9cc0-487908b296af,Michael Esparza,sport,5,283.26,2024-02-06 17:56:15.122942,New Caledonia,New Richardton,Credit Card,Express,Processing
+a8751c4b-5efd-4e36-be60-156f15d4a58f,Richard Ferrell II,prevent,1,34.87,2024-03-23 06:53:58.567259,Fiji,Taramouth,Cash,Standard,Processing
+8fb0e46f-1aa1-44d5-a4a6-5fb8b91ed6d6,Stephanie Wilson,they,10,695.01,2024-02-16 04:36:22.626704,Montserrat,Kristinaport,PayPal,Express,Processing
+840b1c8f-86cf-419a-ba08-b71c0abe7e5d,Tammy Powell,character,5,976.74,2024-03-10 11:08:44.403032,United States Minor Outlying Islands,Shannonhaven,Credit Card,Standard,Delivered
+040101c9-57da-4006-bbb4-fe077b30b0ed,Barbara Glenn,north,3,66.72,2024-04-30 00:02:09.704188,Heard Island and McDonald Islands,Pagefurt,Cash,Standard,Processing
+8f3946f2-8fbe-4278-84f2-7f965f7fe233,Tina Zimmerman,yard,4,720.3,2024-02-29 16:33:43.174230,Barbados,South Kelly,Credit Card,Standard,Pending
+0b4a47a1-b955-4d50-bad2-e036c6684101,Desiree Ponce MD,show,9,668.43,2024-02-07 19:22:28.949918,Poland,Meyersstad,Cash,Express,Delivered
+1d84826a-9930-4d7b-b2c7-8b4fcc733915,Grace Lane,prevent,1,828.13,2024-02-11 03:10:42.246097,Anguilla,West Danielle,Cash,Standard,Pending
+4696da2e-119a-46a5-8207-1065b16517fe,Julia Gross,truth,6,769.22,2024-04-05 17:31:55.581829,Turks and Caicos Islands,Robertsfort,Cash,Standard,Shipped
+fd2823d7-9d49-4124-a90c-47db62760b46,Maria Ray,message,3,694.94,2024-02-09 14:47:11.339274,Bangladesh,East Elizabethchester,PayPal,Standard,Shipped
+4e89aee6-d959-4022-965c-c77eed4aa699,Brian Duncan,within,6,45.68,2024-03-04 08:15:14.838253,Niger,Coryfort,Cash,Express,Processing
+44bcfd65-c2a0-43da-9ab6-38b297fdcf07,Jose Thompson,activity,8,583.85,2024-04-25 20:54:44.705441,Burkina Faso,South Kathleenland,Credit Card,Standard,Shipped
+fb6cb5ff-1980-4f7f-9063-99bc5451267d,Jennifer Duncan,themselves,9,280.43,2024-01-24 09:48:41.522594,Turks and Caicos Islands,Valenciastad,PayPal,Express,Processing
+9fc37f7e-4253-4a92-8229-fa5bb5f62c09,Joyce Callahan,writer,6,905.04,2024-04-23 09:15:19.107605,United States Minor Outlying Islands,Lake Robin,PayPal,Standard,Pending
+34d88d83-a82b-4fba-ac7c-e0a34579bbef,Kurt Tucker,city,3,143.8,2024-01-02 22:18:48.525730,Malaysia,West Allisonborough,Cash,Express,Processing
+6d4f5b99-9dcb-4528-9e4f-c4af175625dd,Robert Martinez,those,8,944.2,2024-02-16 14:48:14.840995,Kazakhstan,Brownburgh,Cash,Express,Shipped
+282fbfe4-c2b7-473c-9730-6ad4897d489b,Darlene Watts,work,2,143.66,2024-02-15 02:03:49.114857,Fiji,Nicoleborough,PayPal,Standard,Delivered
+5512bf89-cd04-4a17-bccf-eaa74229844a,Alexa Johnson,across,10,44.26,2024-02-03 01:50:42.530407,Poland,Jonathanside,PayPal,Express,Pending
+77f8c4e4-ec95-44cd-bf38-cc01c0f624ad,Douglas Smith,space,6,207.03,2024-02-24 11:36:04.790567,Poland,North Kimberlybury,PayPal,Express,Pending
+1baa0c5d-186a-4186-b35d-48d9d9642397,Crystal Carroll,mission,4,533.35,2024-01-19 05:47:23.326128,Mozambique,Khanmouth,PayPal,Express,Delivered
+e5165354-1a19-4b01-aba2-2221d8ad8711,Pamela Graham,yes,9,564.98,2024-01-14 09:23:48.097229,Kiribati,Lake Jessica,Credit Card,Express,Processing
+cb94f663-aa20-43a1-9b6f-bde4298ae31a,Charlene Harrison,beat,7,801.03,2024-02-07 18:27:19.325747,Guam,South Deborahport,Cash,Standard,Shipped
+3a669537-d800-46b3-ba4c-b08f5cd9b36f,Angela Church,available,7,67.41,2024-01-23 06:59:03.299048,Cote d'Ivoire,Port Jackie,Credit Card,Express,Pending
+48fc4457-d4f6-4430-b97b-f2da22406f87,David Reyes,star,9,318.31,2024-02-26 15:56:57.755317,Saint Vincent and the Grenadines,New Brettmouth,Cash,Express,Delivered
+ff669fb5-959f-44da-bc45-e5327132af2e,Joseph Gordon,security,10,157.71,2024-01-04 18:44:40.714561,Micronesia,Lake Jay,Credit Card,Express,Delivered
+e3247f8e-3663-495b-9533-6654a6a4c657,Jessica Johnson,place,4,684.99,2024-04-24 08:09:07.902898,Bangladesh,Port Lauraborough,Credit Card,Express,Shipped
+a6ab7193-75c9-4b27-8b7d-90886f933479,Jimmy Sherman,cause,8,982.03,2024-01-11 16:23:58.238809,France,West Kristen,Credit Card,Standard,Shipped
+5b089785-a89c-42e0-b07a-da4b8672ede4,Matthew Walker,concern,6,849.09,2024-03-03 21:15:52.732554,Gibraltar,Port Reginald,PayPal,Express,Shipped
+cd234bfb-dbbe-4e5f-aecf-bef0bac24c4d,Tamara King,successful,2,714.77,2024-02-28 04:48:15.707946,Tuvalu,Brownhaven,Credit Card,Standard,Pending
+b1be5402-d3da-44e6-a64d-d35988d05371,Joshua Valdez,guy,8,412.91,2024-03-26 04:05:50.485961,Venezuela,New Olivialand,Credit Card,Express,Shipped
+e1c93b67-2b79-465e-8bf1-4cea59e196d8,Gregory Bailey,collection,1,350.6,2024-04-28 14:00:37.237260,Nigeria,Lake Vernonstad,Cash,Standard,Shipped
+6f6c110a-889c-4acf-b7be-7f13881189c3,Kimberly Estes,next,10,645.83,2024-04-21 00:40:09.443775,Tuvalu,Avilaville,Cash,Express,Processing
+652aaaad-6f24-4936-b6e5-557d95fe0ef2,Jonathan Brewer,while,10,638.3,2024-01-25 09:38:38.812435,San Marino,Lake Matthewstad,Credit Card,Express,Delivered
+d454992c-62c2-4774-a24c-8893cf816352,Joy Davis,majority,6,391.83,2024-02-22 07:17:09.584077,El Salvador,Brownhaven,Cash,Express,Delivered
+67516435-5ac6-4b65-b387-4fc75de7342f,Jenny Collins,six,8,230.9,2024-01-01 18:38:05.831747,Greenland,South Christopher,Credit Card,Express,Shipped
+8ec2628b-1ec2-4e81-814b-0b48622b90fa,Jeffrey Stanton,treatment,8,38.83,2024-02-01 21:07:34.202915,Kazakhstan,West Brandonhaven,Credit Card,Express,Shipped
+4c557d81-1482-4400-8d22-c12b30f0ecc9,Miss Jordan Ware MD,place,8,70.19,2024-04-24 23:45:34.244981,Chad,Gregoryside,Credit Card,Express,Processing
+37ff1ad5-bec0-4c7a-b6cb-9a1d532e418b,Jasmine Butler,site,10,497.49,2024-02-24 06:19:50.780984,Portugal,South Amy,PayPal,Express,Shipped
+a4fbc650-0f35-4641-88ac-8594f0dbdb01,Glenda Wood,onto,9,387.64,2024-02-29 13:19:03.716645,Bermuda,East Valerietown,Cash,Standard,Delivered
+985e141f-6251-45f0-8774-d68c68985a5c,Madison Oconnor,someone,1,734.8,2024-03-13 07:01:40.463388,Switzerland,Flemingview,PayPal,Express,Shipped
+765f614e-a466-41ff-881c-a715816155cc,Joshua Mcbride DDS,heavy,4,580.43,2024-03-02 04:25:50.593075,Somalia,West Aaronberg,Credit Card,Express,Shipped
+1c16b0b7-bde9-450f-819e-cfff4a6be127,Michael Merritt,child,7,791.89,2024-02-22 00:28:07.778707,Ukraine,North Jenniferborough,Credit Card,Standard,Shipped
+a03271bc-ecfb-4d5a-a995-7bb98a05a77a,Kayla Snyder,sister,8,973.94,2024-02-04 03:22:44.576381,Lesotho,West Jasonborough,PayPal,Express,Pending
+34bd2f59-a406-4467-9eee-29fe3c98dc9e,Jeffery Barber,hour,1,209.94,2024-03-07 02:11:26.765085,San Marino,Powelltown,Cash,Standard,Delivered
+38a1e52e-9696-4998-99c2-c59d53bf5fc0,Jason Payne,human,10,906.01,2024-02-24 04:32:31.090033,Cook Islands,North Stephaniefort,PayPal,Standard,Shipped
+12089000-322b-4b30-a963-2747f18b85bd,John Martinez,role,8,833.07,2024-02-07 04:21:35.241802,Jamaica,Mayside,Credit Card,Standard,Shipped
+fe3c962b-6182-4721-ab71-4c2744567c35,Rebekah Lucas,red,2,716.35,2024-04-25 23:51:44.333248,Malawi,New Christie,Credit Card,Express,Shipped
+08cc2ee5-15af-43db-8b88-b8b3789d88ea,Patricia Curry,writer,6,553.77,2024-04-27 22:48:28.784910,Tonga,Woodfurt,PayPal,Standard,Processing
+de034a91-8997-4a4c-81f5-0c794d79da51,Laura Hernandez,major,7,149.84,2024-04-13 07:55:49.751282,Tajikistan,Mariatown,PayPal,Standard,Delivered
+cda6f9ee-aa86-4ac2-8534-e06bc998ae45,Andrea Castillo,between,10,55.32,2024-01-03 04:22:14.363267,Syrian Arab Republic,Josephville,Cash,Standard,Shipped
+e5e85d9a-1521-4aa3-9b40-155bc525e288,Ricky Armstrong,cover,5,377.19,2024-03-21 08:02:36.736726,Lao People's Democratic Republic,Meganside,Cash,Express,Shipped
+e1368c6e-d65a-4734-b6a7-733a7d8a7ee9,Erin Saunders,development,10,812.09,2024-05-01 18:17:29.366046,Namibia,Ferrellshire,Cash,Standard,Pending
+9dfec80f-3a92-46ab-93db-f81297f4231d,Thomas Rogers,message,2,863.82,2024-01-22 19:13:21.272029,Vietnam,New Jonathan,Cash,Standard,Delivered
+eb986a17-34e8-4c9c-b87d-29738a19dfbb,Mr. Robert Martinez,song,2,472.97,2024-01-11 10:15:58.128500,American Samoa,North Aprilmouth,Credit Card,Standard,Processing
+b3b6fad7-5999-418c-ae7d-6aee54de688a,Dylan Ward,success,4,248.74,2024-01-11 01:38:47.412932,Mozambique,New Dean,PayPal,Standard,Processing
+8fe7ee27-d557-4719-8c1e-107a08ea92d3,Jose Perez,break,2,933.94,2024-01-22 21:30:49.477336,Guinea,North Maxwell,Cash,Standard,Shipped
+5c04cd66-1693-47d0-89f5-0f67171e2935,Benjamin Abbott,check,2,822.84,2024-03-26 09:37:02.903477,Kuwait,Port Michellefurt,PayPal,Express,Pending
+2a1451f4-bdc7-49b7-95ca-57a7657ce9d5,Karl Barnes,do,10,319.46,2024-01-10 09:47:11.513765,Costa Rica,Frankmouth,Cash,Express,Delivered
+478974dd-3c16-4e05-8ac8-0301c5c83653,Jason Fletcher,she,10,877.36,2024-01-07 14:40:35.753094,Cambodia,West Adamland,PayPal,Standard,Delivered
+7a6c1b2e-2d3b-4756-903a-32d447e953f2,Vanessa Cannon,different,3,170.63,2024-03-24 15:31:52.990535,Cote d'Ivoire,Whitebury,PayPal,Express,Processing
+2ead27d9-e569-4557-8979-0ce44e405cac,Shelly Gray,personal,8,550.46,2024-03-24 11:28:08.778037,Mauritania,Juliefurt,PayPal,Express,Processing
+e5fc19dc-2796-4ea9-adfe-2cf05ee61da5,Daniel Obrien,note,2,157.65,2024-03-24 23:07:47.456591,Colombia,Jenniferfurt,PayPal,Express,Processing
+d0469c97-acb1-421a-ba32-112bb2a607d7,Scott Martin,mouth,9,211.05,2024-02-14 04:33:16.993976,Belgium,Port Lindachester,Credit Card,Standard,Shipped
+21a9b1f5-80ce-4e3b-8701-53f45d5c4810,Hannah Caldwell,another,5,108.28,2024-03-16 10:04:54.192459,Austria,South Paige,PayPal,Standard,Shipped
+f05bd9f7-7050-47ad-9bcd-314b62cf8343,Bianca Dennis,catch,10,990.98,2024-03-24 11:46:25.015257,Korea,West Lisa,Cash,Express,Processing
+b2c36f49-e2b2-4b7a-bfbb-e7859268b07c,Karen Odonnell,of,10,866.16,2024-03-17 10:30:22.934666,Zimbabwe,South Justinstad,PayPal,Express,Pending
+97c1b8f4-46a8-409b-aa19-1b9224cdadc8,Steven Moss,owner,6,38.87,2024-02-25 20:05:41.098802,Kenya,Lake Christopher,Cash,Express,Delivered
+9a51e634-89d2-43a6-b30b-53c32e2a5011,Ryan Glover,always,9,745.62,2024-04-05 10:21:38.861782,El Salvador,Lucasmouth,Credit Card,Express,Processing
+35a6cd1c-755e-4d62-bad8-56d78c6b998b,Cameron Munoz,instead,8,731.23,2024-04-24 00:21:47.558654,Myanmar,Christineview,PayPal,Express,Pending
+0638e079-317f-4d21-b845-bb0d8e24896c,Marc Walker,letter,7,121.2,2024-01-30 19:24:28.867494,Armenia,Pricefurt,PayPal,Express,Shipped
+096dc0b2-634c-42f6-8d8c-3a3f57770f2a,Susan King,into,4,749.87,2024-03-12 17:42:29.608216,Maldives,Jessicatown,Credit Card,Express,Pending
+ef68618c-ae22-4417-a335-add1cf1c146c,Michael Kennedy,often,6,602.09,2024-03-18 13:01:14.785721,Estonia,West Cassandra,Credit Card,Standard,Delivered
+b206070e-1613-42ee-8eed-0d8cf5be5723,Edward Schultz,both,8,297.93,2024-03-07 15:09:07.807119,Turkmenistan,Mercerside,Cash,Express,Shipped
+582d8efe-21a5-4ff2-b829-d7db5dbceb56,Andrea Nicholson,catch,2,599.95,2024-03-10 05:59:23.501180,Jamaica,Port Savannah,Credit Card,Standard,Processing
+b5790593-4162-4c4e-8dce-2dc97f0523cf,Jeffery Flores,eye,6,481.22,2024-04-11 00:35:16.312777,New Caledonia,Kennethfort,PayPal,Express,Shipped
+f734fca6-a357-4b51-9b9b-5d24f6ec4c9e,Shannon Clark,voice,9,427.01,2024-03-22 08:18:44.308734,Wallis and Futuna,New Douglasport,PayPal,Standard,Pending
+b964727e-f334-45bb-99b2-ef0a2dabb19b,Thomas Young,least,6,972.55,2024-04-13 07:14:51.415806,Netherlands,Kristinastad,Cash,Standard,Delivered
+4b51e7d1-0407-4f35-a0ec-5882f14f4078,Brandon Walton,trial,6,340.52,2024-03-02 04:39:45.481150,Hungary,Amandamouth,Credit Card,Express,Pending
+9fce2e79-9481-4ff2-b60c-795f54c13be5,Jack Poole,blue,5,519.88,2024-01-23 22:01:27.277845,Tokelau,Michaelport,Credit Card,Standard,Shipped
+52afeec8-a7d9-430b-a5b1-ad59be921a37,Derek Diaz,center,8,532.67,2024-01-08 22:34:50.134801,Cayman Islands,Williambury,Cash,Standard,Processing
+1fa2e863-1282-4f59-ade0-dbccd2416434,Virginia Anthony,store,7,78.22,2024-02-15 02:27:50.761562,Tonga,Lake Michelle,PayPal,Express,Pending
+b5a33def-3cd3-4337-9882-8f972a0ad14d,Heather Knight,economic,7,404.21,2024-02-07 04:43:50.857276,North Macedonia,Kingport,Cash,Standard,Processing
+34cd9eb5-20c1-4ab4-bad9-18cc0a9fc8e2,Patrick Jones,inside,2,779.01,2024-01-17 05:23:43.723053,Jordan,Port Misty,Cash,Standard,Processing
+023d7afb-8778-4ad5-a6ac-2c24701c238c,Katherine May,discussion,1,315.45,2024-01-28 16:54:24.139477,Greece,Davismouth,Cash,Express,Shipped
+45ada216-5a8e-4038-b074-c6d314f14e8a,Erin Johnson,letter,2,65.73,2024-03-14 05:48:06.965006,Luxembourg,Glenstad,Cash,Standard,Delivered
+1aa2f2c3-1bd2-4f11-9fae-e2518bc886b0,Kelly Young,another,3,945.57,2024-01-06 10:31:24.512818,Bangladesh,Port David,Cash,Standard,Delivered
+c99f5f11-adeb-47e0-beee-9d6ba80e1001,Fernando Jenkins,street,10,913.29,2024-03-30 04:23:42.590724,Liberia,New Charlesside,Credit Card,Express,Processing
+7ea5eddb-a406-441f-9bd4-feea5dbb4bc2,Dean Martin,summer,8,48.98,2024-01-23 20:14:36.414102,Lao People's Democratic Republic,Thompsonville,PayPal,Standard,Pending
+35289d47-be55-47bb-bf29-2c0605795145,Jessica Vaughn,picture,8,105.83,2024-01-11 00:36:16.835149,El Salvador,South Brandon,Credit Card,Express,Pending
+0eb911ed-6b29-46fb-8f0e-8a2ea6c15e7a,Christopher Woods,resource,5,706.56,2024-02-05 19:01:11.054733,Mauritania,Jacobland,Credit Card,Express,Processing
+082a4130-0228-4de4-87c0-2c293fae4720,Dr. Don Greer,fear,2,812.12,2024-03-06 14:16:36.708978,Iraq,North Joshua,PayPal,Standard,Processing
+4addff65-eb85-4dc3-afa5-31a148e2332d,Melinda Figueroa,get,8,559.14,2024-02-25 18:32:09.348153,Gabon,Port Amy,Cash,Express,Pending
+1219e478-fbae-4e25-8d4a-f3fcb834c747,Kathleen Davis,someone,10,60.91,2024-01-15 05:31:44.142545,Colombia,East Jeremy,PayPal,Standard,Processing
+1884e953-825e-4e93-8022-5d4d0f450b4b,Natasha Baker,reason,2,31.65,2024-01-22 08:43:17.272593,Falkland Islands (Malvinas),Brianville,Credit Card,Express,Pending
+863c8a0d-6e96-4c65-99f3-576950d01684,Brianna Cannon,chance,3,197.22,2024-04-23 18:28:22.167052,Brazil,Port Kevinland,PayPal,Standard,Pending
+14ef3711-7e55-49c2-ab10-0c7f23e9a990,Lisa Turner,pull,5,836.15,2024-05-01 11:38:01.362338,Vietnam,Diazstad,Credit Card,Express,Processing
+8190d174-708d-40bb-88f7-4a8adf8e9bc2,Paul Brown,both,4,348.73,2024-02-06 03:27:35.725800,Botswana,Stevenstad,Credit Card,Express,Delivered
+c9e1c9eb-de31-4c77-b050-2bc38d77c69d,William Walsh,with,2,986.58,2024-04-09 03:29:29.316949,Latvia,West Jamesburgh,Credit Card,Standard,Processing
+173fad86-eef5-4788-829b-a45a6a33e31f,Jerry Arroyo,different,6,949.84,2024-02-12 19:35:38.622682,Spain,North John,Cash,Standard,Pending
+0bc7657e-2abe-4b62-b1a0-b688483930b2,Cody Green,education,9,517.85,2024-03-15 13:45:16.268561,Marshall Islands,Solomonfurt,Credit Card,Express,Pending
+f60666f1-0d4e-4a7d-9b8e-2b8fcba74e83,Chad Becker,term,10,155.71,2024-01-18 08:37:05.250964,Palestinian Territory,Thompsonfurt,PayPal,Standard,Processing
+6f7c1725-3775-41a8-8308-ff6bd428d265,Lisa Lawrence,two,3,597.6,2024-04-11 00:11:35.228411,Slovakia (Slovak Republic),Sharpmouth,PayPal,Express,Shipped
+54db2d3e-4006-4826-a2ef-a8e876be431d,Edward Flynn,true,3,114.4,2024-04-27 01:09:25.796914,Comoros,Mcphersonbury,Cash,Express,Pending
+38a23428-24e9-4740-a746-f5e3443c7582,Stacey Sanchez,option,5,866.47,2024-03-19 14:59:59.966149,Andorra,Teresashire,Cash,Standard,Pending
+6f2b27f8-aeaf-4c65-a9f0-4d92527379fc,Pamela Johnson,husband,4,747.04,2024-01-25 20:31:41.904578,Tajikistan,Garciaburgh,PayPal,Express,Delivered
+ee71800a-2b6f-4cea-8c4f-b485a0a217d1,Carrie Jones,least,8,909.66,2024-02-02 00:15:55.619626,Bolivia,Richardport,Cash,Standard,Processing
+989e721a-9cdd-4eb8-9da4-ebd73353393e,Mark Hunt,ago,9,535.82,2024-05-02 01:03:15.700569,Cambodia,North Melissamouth,Credit Card,Standard,Delivered
+930147f9-f483-47b8-a758-07804dfe3041,Lisa Short PhD,field,10,396.2,2024-05-01 11:28:16.432699,Isle of Man,North Kerryside,PayPal,Standard,Shipped
+4f1dc58d-ab60-4a09-9288-3a4045b55dfd,Dennis Brennan,enjoy,8,368.46,2024-01-31 21:43:25.771467,Nauru,Lewiston,PayPal,Standard,Delivered
+59b0a0cd-c1b0-42eb-b19b-e668c2c14d86,Jacqueline Allen,baby,3,15.67,2024-01-08 23:41:13.850703,Mauritania,New Ashleyport,PayPal,Standard,Pending
+9451dd00-22e3-4876-8d7a-74fddfcfa931,Bruce Gordon,program,7,70.61,2024-01-28 09:00:26.036753,Canada,New Marthashire,PayPal,Express,Pending
+69376069-d27f-40ab-b3c6-bf45ad30b7b5,Danielle Gibson,old,7,401.1,2024-02-23 09:34:45.565514,Moldova,Wilsonfort,Credit Card,Express,Processing
+f8a3cd58-8b91-4fc5-9f6e-aa067ba6aaaf,Jennifer Benjamin,view,7,160.67,2024-04-13 18:45:12.958112,Pakistan,Port Davidland,Credit Card,Standard,Pending
+d396792b-d019-4820-9fab-ae249ffa235f,Rebecca Woods,commercial,10,506.65,2024-02-08 23:25:50.998516,Senegal,Jesseland,Credit Card,Standard,Delivered
+6458389a-38d0-4a83-bce9-d4153b54ac9a,Sherry Meyer,environmental,7,631.27,2024-02-19 09:51:57.843501,Sri Lanka,Port Thomas,PayPal,Standard,Delivered
+c13ebce1-27e7-4e2d-a62a-968ceffcf16a,Harold Sanchez,process,4,81.43,2024-03-23 13:44:34.475853,Ecuador,Port Gabriellaport,Credit Card,Express,Shipped
+d79b54c5-8e56-4ef4-878b-4d2d9270ab89,Daniel Davis,benefit,2,934.45,2024-05-01 15:55:49.352697,Samoa,Goodwinstad,Credit Card,Standard,Shipped
+d025637b-6729-43d3-bd60-fa11167f660d,Kelsey Thomas,wonder,2,293.27,2024-01-18 16:50:32.636472,Martinique,Gloriatown,Credit Card,Standard,Delivered
+5d37758f-7332-475f-8593-dc1d5e0b643c,Beth Kaufman PhD,plan,10,673.61,2024-02-21 20:03:01.407081,French Polynesia,Campbellland,Cash,Standard,Shipped
+80d3815c-1ab7-4e78-9616-63213f526765,Charles Goodman,key,8,479.75,2024-01-12 20:49:21.217328,Guatemala,Port Thomasfurt,PayPal,Standard,Shipped
+8fc6005b-154b-4dcc-af50-33380b437057,Christina Saunders,understand,6,256.98,2024-01-04 09:20:43.984084,Bhutan,South William,Cash,Standard,Processing
+73d8b290-65bd-429c-893c-03df4742217a,William Delacruz,least,10,529.62,2024-01-31 11:17:46.415516,Bolivia,New Alexandratown,Cash,Express,Delivered
+5a99b22b-4256-4f86-bf1d-22d211803c08,Matthew Smith,opportunity,5,495.46,2024-03-15 07:25:01.976937,North Macedonia,East Christopherburgh,Credit Card,Express,Processing
+2dd9d919-40a7-48c3-ba96-40aa17f98d78,James Johnson,night,9,176.26,2024-03-30 19:51:09.567384,French Southern Territories,West Tracyburgh,Cash,Standard,Pending
+8ca2da1f-b43d-4e64-a305-276f4cc30d1b,Mrs. Madison Walker,least,10,768.97,2024-03-26 13:01:07.941306,Portugal,Jonesville,Credit Card,Standard,Shipped
+730cc5fc-681d-4574-9ea5-24347e8eb11f,Caleb Green,difficult,2,708.83,2024-01-22 19:04:07.744765,United Arab Emirates,Jonesport,Credit Card,Express,Processing
+b5ace956-c7fe-4c96-a40f-f225e6331eec,Jesse Steele,if,2,298.43,2024-03-21 01:57:00.209508,Colombia,North Justinborough,Cash,Express,Delivered
+e02fe4cc-8d20-439d-8e90-b19d6e42a39d,Steve Garcia,professor,9,179.8,2024-03-24 18:41:31.755105,Jordan,East Nicoleville,Credit Card,Express,Pending
+74b16a8d-b008-4d83-bd6d-d9a7a7604181,Steven Reynolds,interesting,2,926.11,2024-05-01 20:55:28.390110,Nigeria,Allenland,Cash,Standard,Pending
+191aaa23-6d4b-49e7-96cc-c085c29ccae4,Tracey Owens,rise,2,462.7,2024-04-17 18:54:27.701471,Peru,Cruzshire,Cash,Express,Processing
+8251ed56-88c2-4219-990b-cf15850036cf,Allison Wells,science,8,203.23,2024-03-01 22:25:12.112092,Puerto Rico,Torresview,Cash,Standard,Delivered
+144c1998-89eb-4688-a793-da5137e80de5,John Parsons,employee,10,97.76,2024-02-16 01:45:40.542733,Mexico,New Sarah,Credit Card,Standard,Processing
+98dac234-0690-427d-bda8-63fd94e73dcf,Emily Mckinney,all,9,362.94,2024-01-16 16:19:31.427299,Argentina,North Alexfurt,Cash,Standard,Processing
+de374823-230f-4cc5-b0c3-02596b8c9b42,Joshua Weeks,against,3,449.84,2024-03-01 07:05:24.783311,Burundi,Gregorystad,Cash,Standard,Shipped
+f1525754-1a2a-4c49-82bd-5709c212a9c4,Lori Harrington,collection,7,213.03,2024-05-02 22:52:48.793250,Chile,Brandonville,Cash,Standard,Pending
+aaedf20f-1ced-4553-823c-a0134d9f035a,Samuel Lee,choose,9,391.45,2024-02-05 22:25:29.245101,Montserrat,Lake Debrabury,Cash,Express,Processing
+30226ed0-a599-4eab-a1b0-f72a3c093cc7,Tiffany Neal,good,6,442.89,2024-04-01 19:44:22.521546,Northern Mariana Islands,Port Robertshire,Cash,Standard,Processing
+71987540-384b-4a14-9576-626d5bb9002d,Kelly Smith,if,8,152.56,2024-03-09 18:10:57.913542,Indonesia,New Carolinetown,Credit Card,Express,Pending
+b9e2fc24-b58f-4507-ae91-97269d649eea,Devon Austin,door,3,811.96,2024-01-05 19:05:37.230171,Sri Lanka,Ryantown,Credit Card,Express,Delivered
+64c2d676-74b2-4690-b5b3-73a365eb9d37,Wesley Clark,not,1,232.43,2024-01-10 17:10:22.841799,Guinea-Bissau,Castillomouth,Cash,Standard,Pending
+ee8e1cab-8da5-4238-8cf2-d278581466b0,Marisa Fitzpatrick,my,10,156.81,2024-02-20 06:03:23.746567,Guinea,South Mark,PayPal,Express,Pending
+e17914a9-bcd3-4c87-81df-5cf2f5b89f09,George Preston,walk,6,197.05,2024-02-18 16:23:07.663854,Namibia,Castilloport,Cash,Express,Processing
+c74f31d4-d464-4f31-a7b5-3b5ad5c0ebdd,Nicole Deleon,seat,7,280.1,2024-02-25 20:08:54.622721,Niger,Lake Rachelport,Credit Card,Express,Delivered
+734de5fc-e82d-442d-9e4a-f171908d725f,Kyle Alexander,week,10,67.38,2024-02-04 13:31:37.315400,Anguilla,South Jesse,Cash,Standard,Delivered
+de8a0364-171f-48fb-bb39-8a05d0e1470b,John Munoz,trade,2,966.96,2024-03-02 20:52:52.638336,Venezuela,West Ryantown,Credit Card,Standard,Shipped
+1859af42-01d1-4dca-b124-6ee8486df5cc,Robert Clark,serve,3,245.64,2024-02-14 03:33:39.046711,Netherlands,South Karen,PayPal,Standard,Pending
+6d5c3208-ea3e-4ce6-af60-bf2fc3acfdd4,Emily Leon,hot,10,629.29,2024-02-17 04:23:32.015243,Mexico,Velasquezville,PayPal,Standard,Pending
+7bdf66d4-bb3d-4c43-93f8-e45405b65464,Joseph Keith,state,8,82.7,2024-01-31 19:54:52.100330,Chile,Roseborough,Credit Card,Standard,Delivered
+5c2205c5-2052-47e8-9f5e-c8b420881241,Mrs. Sarah Preston,television,9,125.48,2024-04-19 06:44:38.932471,South Africa,Riceborough,PayPal,Standard,Delivered
+a9ac95a9-c2b2-4cbe-997e-0ed24c9df48f,April Cruz,believe,4,205.68,2024-02-06 23:12:56.204493,Somalia,North Rachel,Cash,Express,Processing
+d7a80a31-4ff1-4904-8ed6-52f75b12169a,Deanna Sampson,top,6,918.31,2024-01-09 22:52:36.754357,Libyan Arab Jamahiriya,East Veronicaburgh,Cash,Standard,Shipped
+ab47d21f-fd3f-4995-94cf-4ca775d16705,Kelly Gomez,edge,8,611.66,2024-03-21 22:21:47.170582,Cameroon,Timothyburgh,Credit Card,Express,Delivered
+294fea92-bb3f-4408-ae36-eca14dad6cf5,Tara Hill,physical,7,714.88,2024-02-14 14:40:47.654469,Portugal,East Lukemouth,Credit Card,Standard,Pending
+ef3405a6-8b07-4910-ac14-b076514a4857,Beth Graham,next,7,319.97,2024-02-23 14:47:02.174922,Bouvet Island (Bouvetoya),North Michael,PayPal,Express,Processing
+c734132f-7bda-4388-92bf-bf6aa2537f4a,Sharon Bartlett,only,4,186.68,2024-04-26 19:07:21.621868,Palestinian Territory,Alexisside,PayPal,Express,Delivered
+f4a9b505-7f58-48ee-a19d-f8cd84c0de5f,Jessica Murray,society,8,148.69,2024-03-08 05:48:35.133774,Turkey,Brettview,Cash,Standard,Shipped
+5c5ae85a-d753-43d4-8619-bf1d39fe99cf,Paula Murray,or,4,209.95,2024-02-03 08:30:11.778571,Benin,North Leah,Credit Card,Express,Shipped
+caf38109-aff5-4580-980b-d7cabf4b3662,Brenda Reed,military,5,605.93,2024-02-26 02:02:27.062109,Iceland,North Loriville,Cash,Standard,Pending
+9f58fda8-6c1d-42d2-b69f-fd3694386145,Nicole Gomez,leader,7,674.87,2024-01-31 15:45:19.894962,Netherlands Antilles,Lake Timothymouth,Cash,Standard,Processing
+403bd413-58ee-43c5-828a-b176ece13f29,Russell Smith,keep,9,805.78,2024-01-25 07:45:44.104424,Maldives,North Steven,Credit Card,Standard,Pending
+366c3c9e-cf0a-415d-9506-677491436171,Kelly White,wonder,3,484.17,2024-04-29 22:49:47.529606,Tunisia,Lake Bradley,Credit Card,Express,Processing
+93ac4f17-6710-43a4-ba5a-9fadd4e76694,Taylor Mueller,area,9,94.97,2024-03-15 20:43:09.625418,Thailand,Thomasmouth,PayPal,Express,Delivered
+e3444877-8e50-4622-940e-ca19e9c7bb0f,David Johnson,because,1,272.42,2024-04-15 04:03:42.807883,Nigeria,Anthonyside,Credit Card,Standard,Delivered
+41b4d105-e266-449d-8bef-767e5a912df0,Laurie Lindsey,staff,8,473.4,2024-04-15 14:27:46.413240,Eritrea,Brownshire,PayPal,Express,Processing
+c83d0df0-998c-4111-80b3-158fd30405a8,Kyle Johnson,read,4,675.22,2024-01-21 21:20:25.147860,Oman,Angelafurt,Credit Card,Express,Processing
+5307342d-0b07-4b77-bf41-6458cf49d83f,Brittany Smith,student,5,254.02,2024-01-17 20:52:57.147878,South Africa,Jamesshire,PayPal,Express,Delivered
+ce1a2450-9e5d-4476-9486-882c48131e4c,Jeffrey Peters,administration,4,802.64,2024-01-03 04:21:37.853331,Guyana,South Amber,Credit Card,Express,Processing
+d17d6d3d-d21d-460a-8bb4-7bf2dfa42f90,Melissa Madden,here,9,213.69,2024-02-15 11:12:34.830185,Greece,North Nicholas,Credit Card,Express,Delivered
+022b092f-ed09-4166-98c1-d8af3afc6f25,Michael Kennedy,what,8,22.22,2024-03-28 03:02:06.292023,Mongolia,Port Danielfurt,PayPal,Standard,Shipped
+3bebc3ce-9f7f-4c9d-a0bd-75e6e96aa8f1,Carrie Chaney,international,1,972.76,2024-02-28 07:24:00.514968,Algeria,Millerborough,Credit Card,Express,Shipped
+a461a410-695f-452f-a38e-0d0335cf6778,Chelsea Stewart,to,3,517.25,2024-04-25 06:06:43.657304,Estonia,Port Alison,Cash,Standard,Pending
+89de8d2c-3b21-4249-bef5-bb03332d1cf3,Benjamin Davis,take,7,257.38,2024-01-18 16:40:46.127823,Spain,Johnsonmouth,Credit Card,Express,Shipped
+a8c60c24-7ff3-4656-a734-e32d166b41cd,Paula Huang MD,suddenly,6,41.56,2024-03-10 23:56:09.384014,Heard Island and McDonald Islands,Cruzmouth,PayPal,Standard,Shipped
+8fd5195c-be3d-41f0-a64f-1dbae430b566,Elaine Cross,camera,10,106.37,2024-03-27 03:39:47.359989,Guinea,Lindaport,PayPal,Express,Processing
+72849429-5237-47db-82d7-1af5d82b3ae1,Ruth Ball,first,7,682.65,2024-01-14 21:31:46.478141,Nepal,Greenshire,Cash,Express,Pending
+dad205d3-e053-4283-bcfa-0dfad76c158c,Misty Shaw,interesting,10,364.07,2024-01-09 07:22:23.442304,Zimbabwe,Davisburgh,Cash,Standard,Processing
+08f438bb-2c06-4023-b422-7c259d45b1c9,Shawn Lamb,population,4,369.41,2024-03-13 20:14:31.227718,Qatar,Petersonville,PayPal,Standard,Shipped
+92ced7c0-f4ea-4192-b895-9b77ecf56205,Raymond Foley,citizen,8,399.89,2024-01-10 00:51:57.595366,United Arab Emirates,Francesland,Cash,Standard,Shipped
+0578d7cc-a506-450b-b9cd-7dd005a0acae,Charles Ortiz,consumer,5,818.66,2024-05-02 03:20:19.586898,Afghanistan,Collinsstad,Credit Card,Standard,Processing
+183a901c-d2d3-4ca8-87d7-fa9b895c7229,Seth Weaver,view,9,863.06,2024-01-30 00:56:34.335341,China,Hannaton,PayPal,Express,Processing
+a15f962b-5815-4646-9f8c-b95e3935d814,Cynthia Davis,him,10,774.98,2024-03-30 01:50:45.471901,Marshall Islands,Port Jillside,PayPal,Express,Shipped
+1f9fc077-bd38-4e73-b773-6fcc41ca303d,Paul Olson,impact,4,413.01,2024-04-12 22:47:09.993026,Western Sahara,Kruegerburgh,PayPal,Express,Processing
+bd84dfee-2e63-4afa-9958-42f571c53e3a,Andrea Mitchell,which,9,809.72,2024-01-31 14:04:09.766483,Togo,South Jasonmouth,Cash,Express,Pending
+5bd288ec-0256-4a36-b5dd-77dd1e9ac114,Kevin Sims,worker,1,833.86,2024-01-20 04:44:02.133048,Saint Kitts and Nevis,South Melvin,Cash,Express,Delivered
+d833c65b-e64e-4f2a-900d-618adac23ccd,Brandon Morrison,site,2,738.08,2024-04-19 15:05:17.250477,Malaysia,East Amyton,PayPal,Standard,Pending
+b9ae988c-dd63-4971-a13b-4d4d50bc33ab,Mathew Jones,environmental,7,659.82,2024-02-15 08:18:33.027231,Kuwait,Munoztown,PayPal,Standard,Pending
+dab7b62d-92b0-480a-ac4d-7d6aee74fe72,Cassandra Martinez,partner,10,884.8,2024-01-20 21:56:45.187672,Eritrea,Lake Mitchell,PayPal,Standard,Shipped
+539cfde0-6106-411d-9179-7d83e17e0ce5,Jesse Shaffer,open,7,897.93,2024-02-25 13:51:57.289171,Barbados,Johnmouth,PayPal,Standard,Pending
+f0b9c9d8-6269-49b7-a629-51e5159c8ffb,Jessica Rivera,letter,7,316.42,2024-01-26 04:24:20.929381,Slovakia (Slovak Republic),Amandaville,Cash,Express,Processing
+aff32375-3f0a-40a0-a756-088029a5d560,Melissa Glass,establish,9,368.06,2024-02-11 01:01:26.288260,Bermuda,Lake Faith,Cash,Standard,Processing
+9d9add65-7523-42df-bb78-6005bd62188c,Marissa Bell,explain,1,623.99,2024-02-07 03:47:27.818420,Puerto Rico,South Gabriella,Cash,Standard,Pending
+e8fc9909-a9a4-40a3-ba5a-12b5151e2239,Lisa Davis,start,3,899.83,2024-03-01 16:14:22.636708,Armenia,Barbaraport,PayPal,Standard,Delivered
+fba15dd8-0ca7-4206-bf80-993280f220fb,Richard Lee,popular,5,625.01,2024-03-26 13:56:45.126050,Svalbard & Jan Mayen Islands,West Jeremy,Cash,Express,Delivered
+dd09e123-7177-4e58-b34b-7216688d4b40,Deborah Jones,nothing,6,572.28,2024-02-13 18:25:15.636023,Guatemala,New Kiara,Credit Card,Standard,Shipped
+d643a624-7a86-436d-9a6a-b94ebcb5d3e0,Jim Blevins,bad,4,255.95,2024-01-19 23:34:02.924176,Liechtenstein,Scottland,Credit Card,Express,Delivered
+e6748b4c-5298-45bb-ac1c-9a0864f115b5,Kristin Sims,power,6,112.4,2024-02-14 20:04:55.555190,Dominica,Melissaburgh,Cash,Express,Shipped
+0b8bb354-5e98-44f2-b945-35ada5e29056,Megan Arellano,they,8,991.3,2024-01-25 18:40:17.366891,Malawi,West Brendamouth,Cash,Express,Delivered
+ad2c9afd-a5a6-4e6e-9834-217c3c062b44,Sandra Hoover,such,3,507.27,2024-04-22 02:46:22.544272,Israel,Alexandraside,PayPal,Standard,Pending
+e20e9102-9025-4587-b157-32fdb520b6bc,Crystal Smith,brother,3,774.37,2024-01-10 01:42:35.710202,Comoros,South Kylemouth,PayPal,Standard,Processing
+9b8ec18b-6b5b-49b2-9006-55fcea99e997,Samuel Spencer,pay,4,450.89,2024-02-24 05:28:03.558475,British Virgin Islands,East Alyssaview,Cash,Standard,Processing
+6bfffcb5-c5ce-4b45-8b2e-ddf7f5859719,Jason Giles,trade,7,762.2,2024-03-22 06:07:43.477658,Malta,Rodriguezside,Credit Card,Standard,Shipped
+3d9f989d-4fc0-4224-8b09-5b0a0735bf51,Aaron Weaver,each,4,736.47,2024-04-19 16:51:33.167177,Christmas Island,West Shannonfurt,PayPal,Express,Pending
+9a2d8816-024b-45c0-8e22-c43eca6515ab,Kathryn Clark,develop,4,760.79,2024-04-22 23:40:50.059926,Liberia,Wrightmouth,Cash,Standard,Delivered
+8786e3c2-f565-4284-9e5d-495337ab76b5,Martin Stephens,door,10,305.88,2024-04-26 08:25:42.935006,French Guiana,New Charleston,Credit Card,Standard,Pending
+e72001c2-62c6-425b-95b2-f8434dca3cfa,Jennifer Vargas,effect,8,83.2,2024-04-22 19:11:09.285130,Morocco,Robinsonberg,Cash,Standard,Delivered
+0fe3e854-edf7-47b3-9ed9-ed7858564dc3,Anna Hodges,tax,10,370.82,2024-03-26 07:50:49.248062,Nicaragua,South Angela,PayPal,Express,Processing
+1a9e1b38-3573-4055-9f13-93c309d6c18d,Lisa Buchanan,once,6,760.68,2024-01-15 03:15:53.160939,Tunisia,Baileybury,PayPal,Standard,Delivered
+02d87fa3-ef13-467c-8873-0f5984034a47,Jeff Wilson,tough,10,125.65,2024-03-09 11:48:09.314321,New Zealand,West Seanport,Cash,Express,Delivered
+ab56d3f2-3123-4cdc-84b3-8e93ecd87d49,Jesse Thomas,nearly,6,447.3,2024-04-28 05:21:39.024673,Latvia,Port Juanhaven,PayPal,Standard,Processing
+0770dd2b-15b8-4598-9ea0-9bd89dc95bb3,Taylor Medina,many,4,854.53,2024-03-04 14:58:05.492749,Jordan,Lake Sharontown,PayPal,Express,Delivered
+b6052cdd-f6e4-4ba3-b4ff-bcc2bfad0e50,Tammy Herring,discover,3,890.67,2024-01-31 14:12:50.949630,Montserrat,Harringtonville,PayPal,Standard,Processing
+afb79b4d-cb75-4f9f-8fb8-d58f0989cc2d,William Spencer,career,10,734.43,2024-02-05 08:05:25.284530,Reunion,West Adamfurt,Credit Card,Express,Pending
+963a63f1-1cc8-4f62-bb57-fa31446d8a4c,Alexander Ayala,trouble,8,921.91,2024-02-09 07:10:12.051694,New Zealand,New Mariachester,PayPal,Express,Shipped
+2f60659b-b299-4da8-a8ea-c037b8bfe79e,Tanya Jones,employee,1,162.34,2024-04-10 11:04:58.740818,Canada,Lake Barbaramouth,PayPal,Standard,Pending
+2c7e7cfc-6819-4461-a99f-f7934f4011ae,Eddie Sharp,notice,9,758.77,2024-02-07 17:33:49.958309,Saint Martin,New Johnberg,Credit Card,Standard,Processing
+7d5f4785-b40d-43fc-b0a8-1aabd66d6839,Timothy Mckenzie,character,7,451.95,2024-04-30 08:52:21.659523,Iceland,East Anahaven,PayPal,Express,Pending
+ca4788a8-6f01-4202-b2d1-98a6d290feb7,Kristen Phelps,note,3,768.32,2024-03-24 15:38:45.189067,Lebanon,Huffmantown,Credit Card,Standard,Delivered
+7e2a320c-020c-41eb-94be-1bc3cdc9aee9,Lisa Powell,under,7,341.68,2024-02-10 12:17:52.765210,Christmas Island,North Matthewshire,PayPal,Express,Shipped
+9a5bb82d-d758-4eb3-b3e3-2a90b01795c7,Rachel Carr,himself,5,209.64,2024-01-19 14:23:54.889405,Vietnam,Shelleymouth,PayPal,Express,Shipped
+347c487c-9b62-4929-9a18-fca741533cce,Yesenia Guzman,level,5,933.69,2024-04-09 12:05:02.834761,Panama,Ambertown,Cash,Standard,Shipped
+11b86ae1-df86-4afd-b950-3de0d3348c85,Michelle Stuart,protect,3,226.67,2024-02-04 21:51:00.306314,Serbia,Lake Laura,PayPal,Express,Shipped
